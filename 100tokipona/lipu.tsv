@@ -140,8 +140,8 @@
 
 1	sina	PRON	5	nsubj
 2	wile	AUX	5	aux
-3	ala	ADV	5	neg
-4	wile	AUX	5	aux
+3	ala	ADV	2	neg
+4	wile	AUX	2	conj
 5	pali	VERB	0	root
 6	?	PUNCT	5	punct
 
@@ -163,7 +163,7 @@
 2	lili	ADJ	1	amod
 3	li	PART	6	mark
 4	ken	AUX	6	aux
-5	ala	ADV	6	neg
+5	ala	ADV	4	neg
 6	moku	VERB	0	root
 7	e	PART	8	mark
 8	telo	NOUN	6	obj
