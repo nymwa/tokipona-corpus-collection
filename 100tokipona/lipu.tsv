@@ -298,27 +298,88 @@
 8	mute	ADJ	7	amod
 9	.	PUNCT	2	punct
 
+1	mi	PRON	4	nsubj
+2	wile	AUX	4	aux
+3	ala	ADV	2	neg
+4	toki	VERB	0	root
+5	pi	PART	4	mark
+6	kalama	NOUN	4	nmod
+7	musi	ADJ	6	amod
+8	.	PUNCT	4	punct
+
+1	mi	PRON	3	nsubj
+2	wile	AUX	3	aux
+3	toki	VERB	0	root
+4	meli	NOUN	3	nmod
+5	.	PUNCT	3	punct
+
+1	sina	PRON	2	nsubj
+2	pakala	VERB	0	root
+3	e	PART	4	mark
+4	ilo	NOUN	2	obj
+5	kepeken	ADP	6	case
+6	nasin	NOUN	2	obl
+7	seme	DET	6	nmod
+8	?	PUNCT	2	punct
+
+1	jan	NOUN	4	nsubj
+2	Mopu	PROPN	1	nmod
+3	li	PART	4	mark
+4	jan	NOUN	0	root
+5	lawa	ADJ	4	amod
+6	pona	ADJ	4	amod
+7	pi	PART	4	mark
+8	ma	NOUN	4	nmod
+9	Mopu	PROPN	8	nmod
+10	.	PUNCT	4	punct
+
+1	wile	NOUN	6	nsubj
+2	pi	PART	1	mark
+3	jan	NOUN	1	nmod
+4	ike	ADJ	3	amod
+5	li	PART	6	mark
+6	pakala	VERB	0	root
+7	e	PART	8	mark
+8	ijo	NOUN	6	obj
+9	.	PUNCT	6	punct
+
+1	mi	PRON	2	nsubj
+2	olin	VERB	0	root
+3	kin	ADV	2	advmod
+4	e	PART	5	mark
+5	sina	PRON	2	obj
+6	.	PUNCT	2	punct
+
+1	mi	PRON	2	nsubj
+2	pilin	VERB	0	root
+3	e	PART	4	mark
+4	ni	DET	2	obj
+5	.	PUNCT	2	punct
+
+1	ona	PRON	3	nsubj
+2	li	PART	3	mark
+3	jo	VERB	0	root
+4	ala	ADV	3	neg
+5	e	PART	6	mark
+6	mani	NOUN	3	obj
+7	.	PUNCT	3	punct
+
+1	mi	PRON	3	nsubj
+2	wile	AUX	3	aux
+3	lukin	VERB	0	root
+4	e	PART	5	mark
+5	ma	NOUN	3	obj
+6	ante	ADJ	5	amod
+7	.	PUNCT	3	punct
+
+1	mi	PRON	2	nsubj
+2	wile	VERB	0	root
+3	ala	ADV	2	neg
+4	e	PART	5	mark
+5	ijo	NOUN	2	obj
+6	.	PUNCT	2	punct
+
 ### end
-
-mi wile ala toki pi kalama musi.
-
-mi wile toki meli.
-
-sina pakala e ilo kepeken nasin seme?
-
-jan Mopu li jan lawa pona pi ma Mopu.
-
-wile pi jan ike li pakala e ijo.
-
-mi olin kin e sina.
-
-mi pilin e ni.
-
-ona li jo ala e mani.
-
-mi wile lukin e ma ante.
-
-mi wile ala e ijo.
 
 mi lukin taso.
 
@@ -376,25 +437,100 @@ ken la jan lili li wile moku e telo.
 
 tenpo ali la o kama sona!
 
-sina sona e toki ni la sina sona e toki pona.
+1	sina
+2	sona
+3	e
+4	toki
+5	ni
+6	la
+7	sina
+8	sona
+9	e
+10	toki
+11	pona
+12	.
 
-sina sona e toki pona.
+1	sina
+2	sona
+3	e
+4	toki
+5	pona
+6	.
 
-toki pona li pona ala pona tawa sina.
+1	toki
+2	pona
+3	li
+4	pona
+5	ala
+6	pona
+7	tawa
+8	sina
+9	.
 
-mi wile e ni.
+1	mi
+2	wile
+3	e
+4	ni
+5	.
 
-ona li pona tawa sina.
+1	ona
+2	li
+3	pona
+4	tawa
+5	sina
+6	.
 
-sina wile pali e seme kepeken sona sina?
+1	sina
+2	wile
+3	pali
+4	e
+5	seme
+6	kepeken
+7	sona
+8	sina
+9	?
 
-lipu mi li jo e toki awen pona mute.
+1	lipu
+2	mi
+3	li
+4	jo
+5	e
+6	toki
+7	awen
+8	pona
+9	mute
+10	.
 
-sina ken lukin e toki awen ni.
+1	sina
+2	ken
+3	lukin
+4	e
+5	toki
+6	awen
+7	ni
+8	.
 
-sina ken kin toki tawa jan ante pi toki pona.
+1	sina
+2	ken
+3	kin
+4	toki
+5	tawa
+6	jan
+7	ante
+8	pi
+9	toki
+10	pona
+11	.
 
-o kama tawa tomo toki pi toki pona!
+1	o
+2	kama
+3	tawa
+4	tomo
+5	toki
+6	pi
+7	toki
+8	pona
+9	!
 
 1	sina
 2	wile

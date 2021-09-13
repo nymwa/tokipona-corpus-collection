@@ -99,8 +99,7 @@ def load_lipu(file):
 
 
 def to_conllu(lines):
-    lst = []
-    lst.append('0\tROOT\t_\t_\t_\t_\t0\troot')
+    print('0\tROOT\t_\t_\t_\t_\t0\troot')
     for line in lines.split('\n'):
         line = line.split('\t')
         line = '{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}'.format(
@@ -112,21 +111,19 @@ def to_conllu(lines):
                 '_',
                 line[3],
                 line[4])
-        lst.append(line)
-    return '\n'.join(lst)
+        print(line)
 
 
 def main():
-    html = head
+    print(head)
 
     lipu = load_lipu('lipu.tsv')
     for x in lipu:
-        html += '<pre><code class="language-conllu">\n'
-        html += to_conllu(x)
-        html += '\n</code></pre>\n'
+        print('<pre><code class="language-conllu">\n')
+        to_conllu(x)
+        print('</code></pre>\n')
 
-    html += tail
-    print(html)
+    print(tail)
 
 if __name__ == '__main__':
     main()
