@@ -379,63 +379,208 @@
 5	ijo	NOUN	2	obj
 6	.	PUNCT	2	punct
 
+1	mi	PRON	2	nsubj
+2	lukin	VERB	0	root
+3	taso	ADV	2	advmod
+4	.	PUNCT	2	punct
+
+1	sina	PRON	3	nsubj
+2	wile	AUX	3	aux
+3	toki	VERB	0	root
+4	tawa	ADP	5	case
+5	mije	NOUN	3	obl
+6	anu	CCONJ	7	cc
+7	meli	NOUN	5	conj
+8	?	PUNCT	3	punct
+
+1	suno	NOUN	3	nsubj
+2	li	PART	3	mark
+3	jelo	ADJ	0	root
+4	.	PUNCT	3	punct
+
+1	telo	NOUN	4	nsubj
+2	suli	ADJ	1	amod
+3	li	PART	4	mark
+4	laso	ADJ	0	root
+5	.	PUNCT	4	punct
+
+1	mi	PRON	3	nsubj
+2	wile	AUX	3	aux
+3	moku	VERB	0	root
+4	e	PART	5	mark
+5	kili	NOUN	3	obj
+6	loje	ADJ	5	amod
+7	.	PUNCT	3	punct
+
+1	ona	PRON	3	nsubj
+2	li	PART	3	mark
+3	kule	VERB	0	root
+4	e	PART	5	mark
+5	tomo	NOUN	3	obj
+6	tawa	ADJ	5	amod
+7	.	PUNCT	3	punct
+
+1	mama	NOUN	4	nsubj
+2	ona	PRON	1	nmod
+3	li	PART	4	mark
+4	kepeken	VERB	0	root
+5	e	PART	6	mark
+6	kasi	NOUN	4	obj
+7	nasa	ADJ	6	amod
+8	.	PUNCT	4	punct
+
+1	akesi	NOUN	3	nsubj
+2	li	PART	3	mark
+3	pana	VERB	0	root
+4	e	PART	5	mark
+5	telo	NOUN	3	obj
+6	moli	ADJ	5	amod
+7	.	PUNCT	3	punct
+
+1	pipi	NOUN	3	nsubj
+2	li	PART	3	mark
+3	moku	VERB	0	root
+4	e	PART	5	mark
+5	kasi	NOUN	3	obj
+6	.	PUNCT	3	punct
+
+1	soweli	NOUN	5	nsubj
+2	mi	PRON	1	nmod
+3	li	PART	5	mark
+4	kama	AUX	5	aux
+5	moli	VERB	0	root
+6	.	PUNCT	5	punct
+
 ### end
 
-mi lukin taso.
+1	jan
+2	Mopu
+3	o
+4	,
+5	mi
+6	wile
+7	ala
+8	moli
+9	.
 
-sina wile toki tawa mije anu meli?
+1	mi
+2	lon
+3	ma
+4	kasi
+5	.
 
-suno li jelo.
+1	a
+2	.
 
-telo suli li laso.
+1	telo
+2	sijelo
+3	loje
+4	li
+5	kama
+6	tan
+7	nena
+8	kute
+9	mi
+10	.
 
-mi wile moku e kili loje.
+1	selo
+2	mi
+3	li
+4	wile
+5	e
+6	ni
+7	.
 
-ona li kule e tomo tawa.
+1	mi
+2	pilin
+3	e
+4	ona
+5	.
 
-mama ona li kepeken e kasi nasa.
+1	o
+2	pilin
+3	e
+4	nena
+5	!
 
-akesi li pana e telo moli.
+1	o
+2	moli
+3	e
+4	pipi
+5	kepeken
+6	palisa
+7	!
 
-pipi li moku e kasi.
+1	luka
+2	mi
+3	li
+4	jaki
+5	.
 
-soweli mi li kama moli.
+1	mi
+2	wile
+3	telo
+4	e
+5	ona
+6	.
 
-jan Mopu o, mi wile ala moli.
+1	o
+2	pana
+3	e
+4	sike
+5	tawa
+6	mi
+7	!
 
-mi lon ma kasi.
+1	mi
+2	pilin
+3	e
+4	seli
+5	sijelo
+6	sina
+7	.
 
-a.
+1	mi
+2	weka
+3	e
+4	ijo
+5	tu
+6	ni
+7	.
 
-telo sijelo loje li kama tan nena kute mi.
+1	o
+2	tu
+3	!
 
-selo mi li wile e ni.
+1	mi
+2	lukin
+3	e
+4	soweli
+5	luka
+6	.
 
-mi pilin e ona.
+1	mi
+2	weka
+3	.
 
-o pilin e nena!
+1	ken
+2	la
+3	jan
+4	lili
+5	li
+6	wile
+7	moku
+8	e
+9	telo
+10	.
 
-o moli e pipi kepeken palisa!
-
-luka mi li jaki.
-
-mi wile telo e ona.
-
-o pana e sike tawa mi!
-
-mi pilin e seli sijelo sina.
-
-mi weka e ijo tu ni.
-
-o tu!
-
-mi lukin e soweli luka.
-
-mi weka.
-
-ken la jan lili li wile moku e telo.
-
-tenpo ali la o kama sona!
+1	tenpo
+2	ali
+3	la
+4	o
+5	kama
+6	sona
+7	!
 
 1	sina
 2	sona
