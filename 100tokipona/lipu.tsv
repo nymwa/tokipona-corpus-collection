@@ -451,156 +451,156 @@
 5	moli	VERB	0	root
 6	.	PUNCT	5	punct
 
+1	jan	NOUN	8	vocative
+2	Mopu	PROPN	1	nmod
+3	o	PART	1	mark
+4	,	PUNCT	1	punct
+5	mi	PRON	8	nsubj
+6	wile	AUX	8	aux
+7	ala	ADV	6	neg
+8	moli	VERB	0	root
+9	.	PUNCT	8	punct
+
+1	mi	PRON	3	nsubj
+2	lon	ADP	3	case
+3	ma	NOUN	0	root
+4	kasi	ADJ	3	amod
+5	.	PUNCT	3	punct
+
+1	a	INTJ	0	root
+2	.	PUNCT	1	punct
+
+1	telo	NOUN	5	nsubj
+2	sijelo	ADJ	1	amod
+3	loje	ADJ	1	amod
+4	li	PART	5	mark
+5	kama	VERB	0	root
+6	tan	ADP	7	case
+7	nena	NOUN	5	obl
+8	kute	ADJ	7	amod
+9	mi	PRON	7	nmod
+10	.	PUNCT	5	punct
+
+1	selo	NOUN	4	nsubj
+2	mi	PRON	1	nmod
+3	li	PART	4	mark
+4	wile	VERB	0	root
+5	e	PART	6	mark
+6	ni	PRON	4	obj
+7	.	PUNCT	4	punct
+
+1	mi	PRON	2	nsubj
+2	pilin	VERB	0	root
+3	e	PART	4	mark
+4	ona	PRON	2	obj
+5	.	PUNCT	2	punct
+
+1	o	PART	2	mark
+2	pilin	VERB	0	root
+3	e	PART	4	mark
+4	nena	NOUN	2	obj
+5	!	PUNCT	2	punct
+
+1	o	PART	2	mark
+2	moli	VERB	0	root
+3	e	PART	4	mark
+4	pipi	NOUN	2	obj
+5	kepeken	ADP	6	case
+6	palisa	NOUN	2	obl
+7	!	PUNCT	2	punct
+
+1	luka	NOUN	4	nsubj
+2	mi	PRON	1	nmod
+3	li	PART	4	mark
+4	jaki	NOUN	0	root
+5	.	PUNCT	4	punct
+
+1	mi	PRON	3	nsubj
+2	wile	AUX	3	aux
+3	telo	VERB	0	root
+4	e	PART	5	mark
+5	ona	PRON	3	obj
+6	.	PUNCT	3	punct
+
+1	o	PART	2	mark
+2	pana	VERB	0	root
+3	e	PART	4	mark
+4	sike	NOUN	2	obj
+5	tawa	ADP	6	case
+6	mi	PRON	2	obl
+7	!	PUNCT	2	punct
+
+1	mi	PRON	2	nsubj
+2	pilin	VERB	0	root
+3	e	PART	4	mark
+4	seli	NOUN		2	obj
+5	sijelo	ADP	4	amod
+6	sina	PRON	4	nmod
+7	.	PUNCT	2	punct
+
+1	mi	PRON	2	nsubj
+2	weka	VERB	0	root
+3	e	PART	4	mark
+4	ijo	NOUN	2	obj
+5	tu	NUM	4	nummod
+6	ni	DET	4	nmod
+7	.	PUNCT	2	punct
+
+1	o	PRON	2	mark
+2	tu	VERB	0	root
+3	!	PUNCT	2	punct
+
+1	mi	PRON	2	nsubj
+2	lukin	VERB	0	root
+3	e	PART	4	mark
+4	soweli	NOUN	2	obj
+5	luka	NUM	4	nummod
+6	.	PUNCT	2	punct
+
+1	mi	PRON	2	nsubj
+2	weka	VERB	0	root
+3	.	PUNCT	2	punct
+
+1	ken	NOUN	7	advcl
+2	la	PART	1	mark
+3	jan	NOUN	7	nsubj
+4	lili	ADJ	3	amod
+5	li	PART	7	mark
+6	wile	AUX	7	aux
+7	moku	VERB	0	root
+8	e	PART	9	mark
+9	telo	NOUN	7	obj
+10	.	PUNCT	7	punct
+
+1	tenpo	NOUN	6	advcl
+2	ali	ADJ	1	amod
+3	la	PART	1	mark
+4	o	PART	6	mark
+5	kama	AUX	6	aux
+6	sona	VERB	0	root
+7	!	PUNCT	6	punct
+
+1	sina	PRON	2	nsubj
+2	sona	VERB	8	advcl
+3	e	PART	4	mark
+4	toki	NOUN	2	obj
+5	ni	DET	4	nmod
+6	la	PART	2	mark
+7	sina	PRON	8	nsubj
+8	sona	VERB	0	root
+9	e	PART	10	mark
+10	toki	NOUN	8	obj
+11	pona	ADJ	10	amod
+12	.	PUNCT	8	punct
+
+1	sina	PRON	2	nsubj
+2	sona	VERB	0	root
+3	e	PART	4	mark
+4	toki	NOUN	2	obj
+5	pona	ADJ	4	amod
+6	.	PUNCT	2	punct
+
 ### end
-
-1	jan
-2	Mopu
-3	o
-4	,
-5	mi
-6	wile
-7	ala
-8	moli
-9	.
-
-1	mi
-2	lon
-3	ma
-4	kasi
-5	.
-
-1	a
-2	.
-
-1	telo
-2	sijelo
-3	loje
-4	li
-5	kama
-6	tan
-7	nena
-8	kute
-9	mi
-10	.
-
-1	selo
-2	mi
-3	li
-4	wile
-5	e
-6	ni
-7	.
-
-1	mi
-2	pilin
-3	e
-4	ona
-5	.
-
-1	o
-2	pilin
-3	e
-4	nena
-5	!
-
-1	o
-2	moli
-3	e
-4	pipi
-5	kepeken
-6	palisa
-7	!
-
-1	luka
-2	mi
-3	li
-4	jaki
-5	.
-
-1	mi
-2	wile
-3	telo
-4	e
-5	ona
-6	.
-
-1	o
-2	pana
-3	e
-4	sike
-5	tawa
-6	mi
-7	!
-
-1	mi
-2	pilin
-3	e
-4	seli
-5	sijelo
-6	sina
-7	.
-
-1	mi
-2	weka
-3	e
-4	ijo
-5	tu
-6	ni
-7	.
-
-1	o
-2	tu
-3	!
-
-1	mi
-2	lukin
-3	e
-4	soweli
-5	luka
-6	.
-
-1	mi
-2	weka
-3	.
-
-1	ken
-2	la
-3	jan
-4	lili
-5	li
-6	wile
-7	moku
-8	e
-9	telo
-10	.
-
-1	tenpo
-2	ali
-3	la
-4	o
-5	kama
-6	sona
-7	!
-
-1	sina
-2	sona
-3	e
-4	toki
-5	ni
-6	la
-7	sina
-8	sona
-9	e
-10	toki
-11	pona
-12	.
-
-1	sina
-2	sona
-3	e
-4	toki
-5	pona
-6	.
 
 1	toki
 2	pona
