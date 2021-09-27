@@ -1,40 +1,40 @@
 # 1: mi jan Alito .
-1	mi	X	0	x
-2	jan	X	0	x
-3	Alito	X	0	x
-4	.	X	0	x
+1	mi	PRON	2	nsubj
+2	jan	NOUN	0	root
+3	Alito	PROPN	2	appos
+4	.	PUNCT	2	punct
 
 # 2: ali li ike tawa ona .
-1	ali	X	0	x
-2	li	X	0	x
-3	ike	X	0	x
-4	tawa	X	0	x
-5	ona	X	0	x
-6	.	X	0	x
+1	ali	NOUN	3	nsubj
+2	li	PART	3	mark
+3	ike	ADJ	0	root
+4	tawa	ADP	5	case
+5	ona	PRON	3	obl
+6	.	PUNCT	3	punct
 
 # 3: tomo mi li suli ala .
-1	tomo	X	0	x
-2	mi	X	0	x
-3	li	X	0	x
-4	suli	X	0	x
-5	ala	X	0	x
-6	.	X	0	x
+1	tomo	NOUN	4	nsubj
+2	mi	PRON	1	nmod
+3	li	PART	4	mark
+4	suli	ADJ	0	root
+5	ala	ADV	4	amod
+6	.	PUNCT	4	punct
 
 # 4: mi jo ala e tomo tawa .
-1	mi	X	0	x
-2	jo	X	0	x
-3	ala	X	0	x
-4	e	X	0	x
-5	tomo	X	0	x
-6	tawa	X	0	x
-7	.	X	0	x
+1	mi	PRON	2	nsubj
+2	jo	VERB	0	root
+3	ala	ADV	2	neg
+4	e	PART	5	mark
+5	tomo	NOUN	2	obj
+6	tawa	ADJ	5	amod
+7	.	PUNCT	2	punct
 
 # 5: mi toki kepeken ilo .
-1	mi	X	0	x
-2	toki	X	0	x
-3	kepeken	X	0	x
-4	ilo	X	0	x
-5	.	X	0	x
+1	mi	PRON	2	nsubj
+2	toki	VERB	0	root
+3	kepeken	ADP	4	case
+4	ilo	NOUN	2	obl
+5	.	PUNCT	2	punct
 
 # 6: tenpo ni la mi lon supa mi .
 1	tenpo	X	0	x
