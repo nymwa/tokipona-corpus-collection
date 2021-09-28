@@ -187,11 +187,11 @@
 4	sona	VERB	0	root
 5	e	PART	6	mark
 6	toki	NOUN	4	obj
-7	Mopu	PROPN	6	nmod
+7	Mopu	PROPN	6	appos
 8	?	PUNCT	4	punct
 
 1	jan	NOUN	4	nsubj
-2	Mopu	PROPN	1	nmod
+2	Mopu	PROPN	1	appos
 3	o	PART	4	mark
 4	pana	VERB	0	root
 5	e	PART	4	mark
@@ -208,7 +208,7 @@
 6	!	PUNCT	2	punct
 
 1	jan	NOUN	4	nsubj
-2	Mopu	PROPN	1	nmod
+2	Mopu	PROPN	1	appos
 3	o	PART	4	mark
 4	lawa	VERB	0	root
 5	e	PART	6	mark
@@ -224,7 +224,7 @@
 3	!	PUNCT	1	punct
 
 1	jan	NOUN	6	vocative
-2	Mopu	PROPN	1	nmod
+2	Mopu	PROPN	1	appos
 3	o	PRAT	1	mark
 4	,	PUNCT	6	punct
 5	mi	PRON	6	nsubj
@@ -275,7 +275,7 @@
 1	kili	NOUN	6	nsubj
 2	pi	PART	1	mark
 3	jan	NOUN	1	nmod
-4	Mopu	PROPN	3	nmod
+4	Mopu	PROPN	3	appos
 5	li	PART	6	mark
 6	ike	ADJ	0	root
 7	.	PUNCT	6	punct
@@ -283,7 +283,7 @@
 1	len	NOUN	6	nsubj
 2	pi	PART	1	mark
 3	jan	NOUN	1	nmod
-4	Mopu	PROPN	3	nmod
+4	Mopu	PROPN	3	appos
 5	li	PART	6	mark
 6	jaki	ADJ	0	root
 7	.	PUNCT	6	punct
@@ -323,14 +323,14 @@
 8	?	PUNCT	2	punct
 
 1	jan	NOUN	4	nsubj
-2	Mopu	PROPN	1	nmod
+2	Mopu	PROPN	1	appos
 3	li	PART	4	mark
 4	jan	NOUN	0	root
 5	lawa	ADJ	4	amod
 6	pona	ADJ	4	amod
 7	pi	PART	4	mark
 8	ma	NOUN	4	nmod
-9	Mopu	PROPN	8	nmod
+9	Mopu	PROPN	8	appos
 10	.	PUNCT	4	punct
 
 1	wile	NOUN	6	nsubj
@@ -452,7 +452,7 @@
 6	.	PUNCT	5	punct
 
 1	jan	NOUN	8	vocative
-2	Mopu	PROPN	1	nmod
+2	Mopu	PROPN	1	appos
 3	o	PART	1	mark
 4	,	PUNCT	1	punct
 5	mi	PRON	8	nsubj
