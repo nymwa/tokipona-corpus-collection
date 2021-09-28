@@ -225,13 +225,13 @@
 
 1	jan	NOUN	6	vocative
 2	Mopu	PROPN	1	appos
-3	o	PRAT	1	mark
+3	o	PART	1	mark
 4	,	PUNCT	6	punct
 5	mi	PRON	6	nsubj
 6	olin	VERB	0	root
 7	e	PART	8	mark
 8	sina	PRON	6	obj
-9	.	PUNCt	6	punct
+9	.	PUNCT	6	punct
 
 1	ni	DET	3	nsubj
 2	li	PART	3	mark
@@ -533,7 +533,7 @@
 1	mi	PRON	2	nsubj
 2	pilin	VERB	0	root
 3	e	PART	4	mark
-4	seli	NOUN		2	obj
+4	seli	NOUN	2	obj
 5	sijelo	ADP	4	amod
 6	sina	PRON	4	nmod
 7	.	PUNCT	2	punct
