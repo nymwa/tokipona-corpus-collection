@@ -101,6 +101,8 @@ def load_lipu(file):
 def to_conllu(lines):
     print('0\tROOT\t_\t_\t_\t_\t0\troot')
     for line in lines.split('\n'):
+        if line.startswith('#'):
+            continue
         line = line.split('\t')
         line = '{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}'.format(
                 line[0],
