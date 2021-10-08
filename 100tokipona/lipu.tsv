@@ -219,7 +219,7 @@
 # 27: jan Mopu o pana e moku tawa mi !
 1	jan	NOUN	4	nsubj
 2	Mopu	PROPN	1	appos
-3	o	PART	4	aux
+3	o	AUX	4	aux
 4	pana	VERB	0	root
 5	e	PART	6	sep
 6	moku	NOUN	4	obj
@@ -228,7 +228,7 @@
 9	!	PUNCT	4	punct
 
 # 28: o tawa musi poka mi !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	tawa	VERB	0	root
 3	musi	ADV	2	advmod
 4	poka	ADP	5	case
@@ -238,7 +238,7 @@
 # 29: jan Mopu o lawa e mi mute tawa ma pona !
 1	jan	NOUN	4	nsubj
 2	Mopu	PROPN	1	appos
-3	o	PART	4	aux
+3	o	AUX	4	aux
 4	lawa	VERB	0	root
 5	e	PART	6	sep
 6	mi	PRON	4	obj
@@ -562,14 +562,14 @@
 5	.	PUNCT	2	punct
 
 # 67: o pilin e nena !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	pilin	VERB	0	root
 3	e	PART	4	sep
 4	nena	NOUN	2	obj
 5	!	PUNCT	2	punct
 
 # 68: o moli e pipi kepeken palisa !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	moli	VERB	0	root
 3	e	PART	4	sep
 4	pipi	NOUN	2	obj
@@ -593,7 +593,7 @@
 6	.	PUNCT	3	punct
 
 # 71: o pana e sike tawa mi !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	pana	VERB	0	root
 3	e	PART	4	sep
 4	sike	NOUN	2	obj
@@ -620,7 +620,7 @@
 7	.	PUNCT	2	punct
 
 # 74: o tu !
-1	o	PRON	2	aux
+1	o	AUX	2	aux
 2	tu	VERB	0	root
 3	!	PUNCT	2	punct
 
@@ -653,7 +653,7 @@
 1	tenpo	NOUN	6	advcl
 2	ali	ADJ	1	amod
 3	la	PART	6	sep
-4	o	PART	6	aux
+4	o	AUX	6	aux
 5	kama	AUX	6	aux
 6	sona	VERB	0	root
 7	!	PUNCT	6	punct
@@ -753,7 +753,7 @@
 11	.	PUNCT	4	punct
 
 # 88: o kama tawa tomo toki pi toki pona !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	kama	VERB	0	root
 3	tawa	ADP	4	case
 4	tomo	NOUN	2	obl
@@ -769,7 +769,7 @@
 3	pona	ADJ	7	advcl
 4	mute	ADV	3	advmod
 5	la	PART	7	sep
-6	o	PART	7	aux
+6	o	AUX	7	aux
 7	pana	VERB	0	root
 8	e	PART	9	sep
 9	sona	NOUN	7	obj
@@ -782,7 +782,7 @@
 16	!	PUNCT	7	punct
 
 # 90: o pana e sona tawa jan pona sina !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	pana	VERB	0	root
 3	e	PART	4	sep
 4	sona	NOUN	2	obj
@@ -793,7 +793,7 @@
 9	!	PUNCT	2	punct
 
 # 91: o sitelen e toki awen !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	sitelen	VERB	0	root
 3	e	PART	4	sep
 4	toki	NOUN	2	obj
@@ -801,7 +801,7 @@
 6	!	PUNCT	2	punct
 
 # 92: o toki kepeken toki pona !
-1	o	PART	2	aux
+1	o	AUX	2	aux
 2	toki	VERB	0	root
 3	kepeken	ADP	4	case
 4	toki	NOUN	2	obl
