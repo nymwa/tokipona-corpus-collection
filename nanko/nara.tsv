@@ -36,7 +36,7 @@
 16	li	PART	17	sep
 17	lon	ADJ	13	acl
 18	ala	ADV	17	neg
-19	.	PUNCT	8	punct
+19	.	PUNCT	17	punct
 
 # 3: palisa kasi li tan noka pi tomo lawa Setesi .
 # Ja: 植物の棒は宗教的建物西大寺の下から出てきた。
@@ -71,7 +71,7 @@
 16	moku	VERB	6	acl
 17	e	PART	18	sep
 18	kasi	NOUN	16	obj
-19	.	PUNCT	4	root
+19	.	PUNCT	16	punct
 
 # 5: nasin lawa li kama e ni : jan li ken ala moku e soweli e kala .
 # Ja: 宗教の為すところでは，動物や魚を食べることはできなかった。
@@ -91,7 +91,7 @@
 14	soweli	NOUN	12	obj
 15	e	PART	16	sep
 16	kala	NOUN	14	cconj
-17	.	PUNCT	4	punct
+17	.	PUNCT	12	punct
 
 # 6: taso lon la palisa insa kala li lon noka pi tomo lawa Setesi kin .
 # Ja: しかし，実は，西大寺の下には，魚の骨もあったのだ。

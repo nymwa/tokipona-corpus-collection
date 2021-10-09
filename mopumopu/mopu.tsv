@@ -1,0 +1,241 @@
+# 1: tenpo ala la mi kama sona e ijo .
+# @iase_2, 1430528979329380356
+# Ja: 私は一度たりとも何かを理解したことはなかった。
+1	tenpo	NOUN	6	advcl
+2	ala	ADJ	1	amod
+3	la	PART	6	sep
+4	mi	PRON	6	nsubj
+5	kama	AUX	6	aux
+6	sona	VERB	0	root
+7	e	PART	8	sep
+8	ijo	NOUN	6	obj
+9	.	PUNCT	6	punct
+
+# 2: o kama jo e ni lon esun .
+# @lu8416, 1430682232188936192
+# Ja: 店頭でお買い求めください。
+1	o	AUX	3	aux
+2	kama	AUX	3	aux
+3	jo	VERB	0	root
+4	e	PART	5	sep
+5	ni	DET	3	obj
+6	lon	ADP	7	case
+7	esun	NOUN	3	obl
+8	.	PUNCT	3	punct
+
+# 3: ona li lukin e mi la mi pilin ike .
+# @lu8416, 1431183751590014977
+# Ja: あれに見られてると落ち着きません。
+1	ona	PRON	3	nsubj
+2	li	PART	3	sep
+3	lukin	VERB	7	advcl
+4	e	PART	5	sep
+5	mi	PRON	3	obj
+6	la	PART	8	sep
+7	mi	PRON	8	nsubj
+8	pilin	VERB	0	root
+9	ike	ADV	8	advmod
+10	.	PUNCT	8	punct
+
+# 4: ona li awen ala awen lon tomo awen pi tomo tawa linja ?
+# @Morojenium, 1431456083730522115
+# Ja: 彼は電車の待合室で待っていますか？
+1	ona	PRON	3	nsubj
+2	li	PART	3	sep
+3	awen	VERB	0	root
+4	ala	ADV	3	neg
+5	awen	VERB	3	conj
+6	lon	ADP	7	case
+7	tomo	NOUN	3	obl
+8	awen	ADJ	7	amod
+9	pi	PART	10	sep
+10	tomo	NOUN	7	nmod
+11	tawa	ADJ	10	amod
+12	linja	ADJ	10	amod
+13	.	PUNCT	3	punct
+
+# 5: ni li ike : mi mute li awen .
+# @lu8416, 1433142862800060420
+# Ja: 私たちの実在性が厭わしい。
+1	ni	DET	3	nsubj
+2	li	PART	3	sep
+3	ike	ADJ	0	root
+4	:	PUNCT	3	punct
+5	mi	PRON	8	nsubj
+6	mute	ADJ	5	amod
+7	li	PART	8	sep
+8	awen	ADJ	1	acl
+9	.	PUNCT	8	punct
+
+# 6: tenpo ni la o weka ala e wile sina .
+# @lu8416, 1433920440209084419
+# Ja: 今はまだ夢を棄てないで。
+1	tenpo	NOUN	5	advcl
+2	ni	DET	1	amod
+3	la	PART	5	sep
+4	o	AUX	5	aux
+5	weka	VERB	0	root
+6	ala	ADV	5	neg
+7	e	PART	8	sep
+8	wile	NOUN	5	obj
+9	sina	PRON	8	nmod
+10	.	PUNCT	5	punct
+
+# 7: mi wile ala e ni : sina toki e ni : mi jo ala e mani pi mute pona .
+# @lu8416, 1437555642252730369
+# Ja: 私が貧乏だって言いふらさないでほしいんだけどなあ。
+1	mi	PRON	2	nsubj
+2	wile	VERB	0	root
+3	ala	ADV	2	neg
+4	e	PART	5	sep
+5	ni	DET	2	obj
+6	:	PUNCT	2	punct
+7	sina	PRON	8	nsubj
+8	toki	VERB	5	acl
+9	e	PART	10	sep
+10	ni	DET	8	obj
+11	:	PUNCT	8	punct
+12	mi	PRON	13	nsubj
+13	jo	VERB	10	acl
+14	ala	ADV	13	neg
+15	e	PART	16	sep
+16	mani	NOUN	13	obj
+17	pi	PART	18	sep
+18	mute	NOUN	16	nmod
+19	pona	ADJ	18	amod
+20	.	PUNCT	13	punct
+
+# 8: tenpo pimeja ni la sina kama ala kama nasa ?
+# @lu8416, 1439443080277495810
+# Ja: あなたが正気を失ってしまうのは今夜のことですか？
+1	tenpo	NOUN	9	advcl
+2	pimeja	ADJ	1	amod
+3	ni	DET	1	amod
+4	la	PART	9	sep
+5	sina	PRON	9	nsubj
+6	kama	AUX	9	aux
+7	ala	ADV	6	neg
+8	kama	AUX	6	conj
+9	nasa	ADJ	0	root
+10	?	PUNCT	9	punct
+
+# 9: mi ken ala pali sin e ona .
+# Ja: これは作り直せないねえ...
+1	mi	PRON	4	nsubj
+2	ken	AUX	4	aux
+3	ala	ADV	2	neg
+4	pali	VERB	0	root
+5	sin	ADV	4	advmod
+6	e	PART	7	sep
+7	ona	PRON	4	obj
+8	.	PUNCT	4	punct
+
+# 10: mi tawa lon poka sina , la mi kama lukin e sina .
+# correction: mi tawa poka sina , la mi kama lukin e sina .
+# @lu8416, 1440439708077617152
+# Ja: そばに行けば，あなたを見られるでしょ。
+1	mi	PRON	3	nsubj
+2	tawa	ADP	3	case
+3	poka	NOUN	9	advcl
+4	sina	PRON	3	nmod
+5	,	PUNCT	3	punct
+6	la	PART	9	sep
+7	mi	PRON	9	nsubj
+8	kama	AUX	9	aux
+9	lukin	VERB	0	root
+10	e	PART	11	sep
+11	sina	PRON	9	obj
+12	.	PUNCT	9	punct
+
+# 11: jan li lukin e lipu la ona li kama jo e sona sin .
+# @lu8416, 1440447319460089865
+# Ja: ツイートを見れば新しい知識が身につきます。
+1	jan	NOUN	3	nsubj
+2	li	PART	3	sep
+3	lukin	VERB	10	advcl
+4	e	PART	5	sep
+5	lipu	NOUN	3	obj
+6	la	PART	10	sep
+7	ona	PRON	10	nsubj
+8	li	PART	10	sep
+9	kama	AUX	10	aux
+10	jo	VERB	0	root
+11	e	PART	12	sep
+12	sona	NOUN	10	obj
+13	sin	ADJ	12	amod
+14	.	PUNCT	10	punct
+
+# 12: tenpo kama la mi mute li lukin ala e mi mute .
+# @lu8416, 1442248449424969730
+# Ja: これが最後の逢瀬です。
+1	tenpo	NOUN	7	advcl
+2	kama	ADJ	1	amod
+3	la	PART	7	sep
+4	mi	PRON	7	nsubj
+5	mute	ADJ	4	amod
+6	li	PART	7	sep
+7	lukin	VERB	0	root
+8	ala	ADV	7	neg
+9	e	PART	10	sep
+10	mi	PRON	7	obj
+11	mute	ADJ	10	amod
+12	.	PUNCT	7	punct
+
+# 13: nasin seme la mi ken kama lukin e ante ?
+# @lu8416, 1443694177313689601
+# Ja: チャンネル変えるのってどうやるの。
+1	nasin	NOUN	7	advcl
+2	seme	PRON	1	amod
+3	la	PART	7	sep
+4	mi	PRON	7	nsubj
+5	ken	AUX	7	aux
+6	kama	AUX	7	aux
+7	lukin	VERB	0	root
+8	e	PART	9	sep
+9	ante	NOUN	7	obj
+10	?	PUNCT	7	punct
+
+# 14: soweli Nakatu li ken ala toki lon toki Nakatu .
+# @lu8416, 1446030427576172548
+# Ja: 中津さんは中津語では話せません。
+1	soweli	NOUN	6	nsubj
+2	Nakatu	PROPN	1	appos
+3	li	PART	6	sep
+4	ken	AUX	6	aux
+5	ala	ADV	4	neg
+6	toki	VERB	0	root
+7	lon	ADP	8	case
+8	toki	NOUN	6	obl
+9	Nakatu	PROPN	8	appos
+10	.	PUNCT	6	punct
+
+# 15: tenpo ni la jan Japi li awen lon tomo ona .
+# @Roonin_KK, 1446902699396460547
+# Ja: ヤピは今彼の家に居座っているよ。
+1	tenpo	NOUN	7	advcl
+2	ni	DET	1	amod
+3	la	PART	7	sep
+4	jan	NOUN	7	nsubj
+5	Japi	PROPN	4	appos
+6	li	PARt	7	sep
+7	awen	ADJ	0	root
+8	lon	ADP	9	case
+9	tomo	NOUN	7	obl
+10	ona	PRON	9	nmod
+11	.	PUNCT	7	punct
+
+# 16: mi sona ala e ni : sina toki e seme .
+# @Roonin_KK, 1446909944498819072
+# Ja: 何話してるかわかんねーよ。
+1	mi	PRON	2	nsubj
+2	sona	VERB	0	root
+3	ala	ADV	2	neg
+4	e	PART	5	sep
+5	ni	DET	2	obj
+6	:	PUNCT	2	punct
+7	sina	PRON	8	nsubj
+8	toki	VERB	5	acl
+9	e	PART	10	sep
+10	seme	PRON	8	obj
+11	.	PUNCT	8	punct
+
