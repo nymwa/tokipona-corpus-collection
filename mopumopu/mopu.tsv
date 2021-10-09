@@ -65,7 +65,7 @@
 6	mute	ADJ	5	amod
 7	li	PART	8	sep
 8	awen	ADJ	1	acl
-9	.	PUNCT	8	punct
+9	.	PUNCT	3	punct
 
 # 6: tenpo ni la o weka ala e wile sina .
 # @lu8416, 1433920440209084419
@@ -103,7 +103,7 @@
 17	pi	PART	18	sep
 18	mute	NOUN	16	nmod
 19	pona	ADJ	18	amod
-20	.	PUNCT	13	punct
+20	.	PUNCT	2	punct
 
 # 8: tenpo pimeja ni la sina kama ala kama nasa ?
 # @lu8416, 1439443080277495810
@@ -237,5 +237,5 @@
 8	toki	VERB	5	acl
 9	e	PART	10	sep
 10	seme	PRON	8	obj
-11	.	PUNCT	8	punct
+11	.	PUNCT	2	punct
 
