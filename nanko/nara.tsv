@@ -1,0 +1,186 @@
+# 1: lon ma Nala la jan li ken lukin e palisa kasi pi tenpo pini .
+# Ja: 奈良では，過去の木簡が見られる。
+1	lon	ADP	2	case
+2	ma	NOUN	8	advcl
+3	Nara	PROPN	2	appos
+4	la	PART	8	sep
+5	jan	NOUN	8	nsubj
+6	li	PART	8	sep
+7	ken	AUX	8	aux
+8	lukin	VERB	0	root
+9	e	PART	10	sep
+10	palisa	NOUN	8	obj
+11	kasi	ADJ	10	amod
+12	pi	PART	13	sep
+13	tenpo	NOUN	10	nmod
+14	pini	ADJ	13	amod
+15	.	PUNCT	8	punct
+
+# 2: tenpo pini mute la jan li kepeken palisa kasi li sitelen tan ni : lipu li lon ala .
+# Ja: 非常に昔，人々は植物の棒を使って書いていたが，それは，紙が無かったからである。
+1	tenpo	NOUN	8	advcl
+2	pini	ADJ	1	amod
+3	mute	ADJ	1	amod
+4	la	PART	8	sep
+5	jan	NOUN	8	nsubj
+6	li	PART	8	sep
+7	kepeken	ADP	8	case
+8	palisa	NOUN	0	root
+9	kasi	ADJ	8	amod
+10	li	PART	11	sep
+11	sitelen	VERB	8	cconj
+12	tan	ADP	13	case
+13	ni	DET	8	obl
+14	:	PUNCT	8	punct
+15	lipu	NOUN	17	nsubj
+16	li	PART	17	sep
+17	lon	ADJ	13	acl
+18	ala	ADV	17	neg
+19	.	PUNCT	8	punct
+
+# 3: palisa kasi li tan noka pi tomo lawa Setesi .
+# Ja: 植物の棒は宗教的建物西大寺の下から出てきた。
+1	palisa	NOUN	5	nsubj
+2	kasi	ADJ	1	amod
+3	li	PART	5	sep
+4	tan	ADP	5	case
+5	noka	NOUN	0	root
+6	pi	PART	7	sep
+7	tomo	NOUN	5	nmod
+8	lawa	ADJ	7	amod
+9	Setesi	PROPN	7	appos
+10	.	PUNCT	5	punct
+
+# 4: jan li ken sona tan palisa kasi e ni : jan pi nasin lawa li moku e kasi .
+# Ja: 植物の棒から，僧侶は植物を食べていたことがわかる。
+1	jan	NOUN	4	nsubj
+2	li	PART	4	sep
+3	ken	AUX	4	aux
+4	sona	VERB	0	root
+5	e	PART	6	sep
+6	ni	DET	4	obj
+7	tan	ADP	8	case
+8	palisa	NOUN	4	obl
+9	kasi	ADJ	8	amod
+10	:	PUNCT	4	punct
+11	jan	NOUN	16	nsubj
+12	pi	PART	13	sep
+13	nasin	NOUN	11	nmod
+14	lawa	ADJ	13	amod
+15	li	PART	16	sep
+16	moku	VERB	6	acl
+17	e	PART	18	sep
+18	kasi	NOUN	16	obj
+19	.	PUNCT	4	root
+
+# 5: nasin lawa li kama e ni : jan li ken ala moku e soweli e kala .
+# Ja: 宗教の為すところでは，動物や魚を食べることはできなかった。
+1	nasin	NOUN	4	nsubj
+2	lawa	ADJ	1	amod
+3	li	PART	4	sep
+4	kama	VERB	0	root
+5	e	PART	6	sep
+6	ni	DET	4	obj
+7	:	PUNCT	4	punct
+8	jan	NOUN	12	nsubj
+9	li	PART	12	sep
+10	ken	AUX	12	aux
+11	ala	ADV	10	neg
+12	moku	VERB	6	acl
+13	e	PART	14	sep
+14	soweli	NOUN	12	obj
+15	e	PART	16	sep
+16	kala	NOUN	14	cconj
+17	.	PUNCT	4	punct
+
+# 6: taso lon la palisa insa kala li lon noka pi tomo lawa Setesi kin .
+# Ja: しかし，実は，西大寺の下には，魚の骨もあったのだ。
+1	taso	CCONJ	9	cc
+2	lon	NOUN	9	advcl
+3	la	PART	9	sep
+4	palisa	NOUN	9	nsubj
+5	insa	ADJ	4	amod
+6	kala	ADJ	4	amod
+7	li	PART	9	sep
+8	lon	ADP	9	case
+9	noka	NOUN	0	root
+10	pi	PART	11	sep
+11	tomo	NOUN	9	nmod
+12	lawa	ADJ	11	amod
+13	Setesi	PROPN	11	appos
+14	kin	ADV	9	advmod
+15	.	PUNCT	9	punct
+
+# 7: jan li ken sona e ijo ante tan ijo lon noka ma a .
+# Ja: 地中のものからは，別のことがわかるのだなあ。
+1	jan	NOUN	4	nsubj
+2	li	PART	4	sep
+3	ken	AUX	4	aux
+4	sona	VERB	0	root
+5	e	PART	6	obj
+6	ijo	NOUN	4	obj
+7	ante	ADJ	6	amod
+8	tan	ADP	9	case
+9	ijo	NOUN	4	obl
+10	lon	ADP	11	case
+11	noka	NOUN	9	nmod
+12	ma	NOUN	11	nmod
+13	a	INTJ	4	intj
+14	.	PUNCT	4	punct
+
+# 8: sina wile lukin la o kama tawa tomo pi ijo pini lon tomo pi jan lawa pi tenpo pini Peso .
+# Ja: 見たければ，平城宮跡資料館に来てください。
+1	sina	PRON	3	nsubj
+2	wile	AUX	3	aux
+3	lukin	VERB	6	advcl
+4	la	PART	6	sep
+5	o	AUX	6	aux
+6	kama	VERB	0	root
+7	tawa	ADP	8	case
+8	tomo	NOUN	6	obl
+9	pi	PART	10	sep
+10	ijo	NOUN	8	nmod
+11	pini	ADJ	10	amod
+12	lon	ADP	13	case
+13	tomo	NOUN	8	nmod
+14	pi	PART	15	sep
+15	jan	NOUN	13	nmod
+16	lawa	ADJ	15	amod
+17	pi	PART	18	sep
+18	tenpo	NOUN	15	nmod
+19	pini	ADJ	18	amod
+20	Peso	PROPN	18	appos
+21	.	PUNCT	6	punct
+
+# 9: tenpo suno ni la sina ken kama lukin .
+# Ja: 今日から見ることができ，
+1	tenpo	NOUN	8	advcl
+2	suno	ADJ	1	amod
+3	ni	DET	1	amod
+4	la	PART	8	sep
+5	sina	PRON	8	nsubj
+6	ken	AUX	8	aux
+7	kama	AUX	8	aux
+8	lukin	VERB	0	root
+9	.	PUNCT	8	punct
+
+# 10: tenpo suno nanpa luka tu pi tenpo mun nanpa luka luka wan la ona li pini .
+# Ja: 11月7日にそれは終わる。
+1	tenpo	NOUN	16	advcl
+2	suno	ADJ	1	amod
+3	nanpa	NOUN	1	nmod
+4	luka	NUM	3	nummod
+5	tu	NUM	4	flat
+6	pi	PART	7	sep
+7	tenpo	NOUN	1	nmod
+8	mun	ADJ	7	amod
+9	nanpa	NOUN	7	nmod
+10	luka	NUM	9	nummod
+11	luka	NUM	10	flat
+12	wan	NUM	11	flat
+13	la	PART	16	sep
+14	ona	PRON	16	nsubj
+15	li	PART	16	sep
+16	pini	VERB	0	root
+17	.	PUNCT	16	punct
+
