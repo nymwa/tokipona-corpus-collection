@@ -345,7 +345,7 @@
 8	.	PUNCT	7	punct
 
 # 36: pan li lon insa poki pimeja .
-# correction: 4 5 | M | pi
+# correction: pan li lon insa pi poki pimeja .
 1	pan	NOUN	4	nsubj
 2	li	PART	4	sep
 3	lon	ADP	4	case
@@ -392,7 +392,7 @@
 9	?	PUNCT	5	punct
 
 # 41: sina wile e ilo sitelen tawa la mi alasa e mani mute .
-# correction: 4 5 | M | pi
+# correction: sina wile e ilo pi sitelen tawa la mi alasa e mani mute .
 1	sina	PRON	2	nsubj
 2	wile	VERB	10	advcl
 3	e	PART	4	sep
@@ -479,7 +479,7 @@
 9	?	PUNCT	7	punct
 
 # 47: jan Miku li ilo kalama musi .
-# correction: 4 5 | M | pi
+# correction: jan Miku li ilo pi kalama musi .
 1	jan	NOUN	4	nsubj
 2	Miku	PROPN	1	appos
 3	li	PART	4	sep
@@ -497,20 +497,21 @@
 5	.	PUNCT	4	punct
 
 # 49: kasi suli suli li open e uta la ona tawa insa kasi .
-# correction: 9 10 | M | li
+# correction: kasi suli suli li open e uta la ona li tawa insa kasi .
 1	kasi	NOUN	5	nsubj
 2	suli	ADJ	1	amod
 3	suli	ADJ	1	amod
 4	li	PART	5	sep
-5	open	VERB	11	advcl
+5	open	VERB	12	advcl
 6	e	PART	7	sep
 7	uta	NOUN	5	obj
-8	la	PART	11	sep
-9	ona	PRON	11	nsubj
-10	tawa	ADP	11	case
-11	insa	NOUN	0	root
-12	kasi	ADJ	11	nmod
-13	.	PUNCT	11	punct
+8	la	PART	12	sep
+9	ona	PRON	12	nsubj
+10	li	PART	12	sep
+11	tawa	ADP	12	case
+12	insa	NOUN	0	root
+13	kasi	ADJ	12	nmod
+14	.	PUNCT	12	punct
 
 # 50: pipi monsuta li lon insa mi .
 1	pipi	NOUN	5	nsubj
@@ -568,7 +569,7 @@
 7	.	PUNCT	4	punct
 
 # 55: mi pana e mani mute seme la mi ken esun e ilo kipisi ni ?
-# correction: 4 4 | M | pi
+# correction: mi pana e mani pi mute seme la mi ken esun e ilo kipisi ni ?
 1	mi	PRON	2	nsubj
 2	pana	VERB	11	advcl
 3	e	PART	4	sep
@@ -775,12 +776,12 @@
 11	.	PUNCT	8	punct
 
 # 73: o lon e wile sina .
-# correction: 2 3 | U |
-1	o	AUX	3	aux
-2	lon	ADP	3	case
-3	wile	NOUN	0	root
-4	sina	PRON	3	nmod
-5	.	PUNCT	3	punct
+1	o	AUX	2	aux
+2	lon	VERB	0	root
+3	e	PART	4	sep
+4	wile	NOUN	2	obj
+5	sina	PRON	4	nmod
+6	.	PUNCT	2	punct
 
 # 74: ilo pi pana moku li pakala la soweli li moli .
 1	ilo	NOUN	6	nsubj
@@ -1130,64 +1131,64 @@
 11	.	PUNCT	4	punct
 
 # 102: len pi tenpo sin li nasa tan seme ?
-1	len	NOUN	0	x
-2	pi	PART	0	x
-3	tenpo	NOUN	0	x
-4	sin	ADJ	0	x
-5	li	PART	0	x
-6	nasa	ADJ	0	x
-7	tan	ADP	0	x
-8	seme	PRON	0	x
-9	?	PUNCT	0	x
+1	len	NOUN	6	nsubj
+2	pi	PART	3	sep
+3	tenpo	NOUN	1	nmod
+4	sin	ADJ	3	amod
+5	li	PART	6	sep
+6	nasa	ADJ	0	root
+7	tan	ADP	8	case
+8	seme	PRON	6	obl
+9	?	PUNCT	6	punct
 
 # 103: tomo tawa kon mute li kama tan sewi li utala e ma tomo .
-1	tomo	NOUN	0	x
-2	tawa	ADJ	0	x
-3	kon	ADJ	0	x
-4	mute	ADJ	0	x
-5	li	PART	0	x
-6	kama	VERB	0	x
-7	tan	ADP	0	x
-8	sewi	NOUN	0	x
-9	li	PART	0	x
-10	utala	VERB	0	x
-11	e	PART	0	x
-12	ma	NOUN	0	x
-13	tomo	ADJ	0	x
-14	.	PUNCT	0	x
+1	tomo	NOUN	6	nsubj
+2	tawa	ADJ	1	amod
+3	kon	ADJ	1	amod
+4	mute	ADJ	1	amod
+5	li	PART	6	sep
+6	kama	VERB	0	root
+7	tan	ADP	8	case
+8	sewi	NOUN	6	obl
+9	li	PART	10	sep
+10	utala	VERB	6	conj
+11	e	PART	12	sep
+12	ma	NOUN	10	obj
+13	tomo	ADJ	12	amod
+14	.	PUNCT	6	punct
 
 # 104: kulupu pi jan alasa li tawa ma kasi la soweli li kama moku ona .
-1	kulupu	NOUN	0	x
-2	pi	PART	0	x
-3	jan	NOUN	0	x
-4	alasa	ADJ	0	x
-5	li	PART	0	x
-6	tawa	ADP	0	x
-7	ma	NOUN	0	x
-8	kasi	ADJ	0	x
-9	la	PART	0	x
-10	soweli	NOUN	0	x
-11	li	PART	0	x
-12	kama	AUX	0	x
-13	moku	NOUN	0	x
-14	ona	PRON	0	x
-15	.	PUNCT	0	x
+1	kulupu	NOUN	7	nsubj
+2	pi	PART	3	sep
+3	jan	NOUN	1	nmod
+4	alasa	ADJ	3	amod
+5	li	PART	7	sep
+6	tawa	ADP	7	case
+7	ma	NOUN	13	advcl
+8	kasi	ADJ	7	amod
+9	la	PART	13	sep
+10	soweli	NOUN	13	nsubj
+11	li	PART	13	sep
+12	kama	AUX	13	aux
+13	moku	NOUN	0	root
+14	ona	PRON	13	nmod
+15	.	PUNCT	13	punct
 
 # 105: tenpo pini la jan li utala suli li pali e ilo utala monsuta .
-1	tenpo	NOUN	0	x
-2	pini	ADJ	0	x
-3	la	PART	0	x
-4	jan	NOUN	0	x
-5	li	PART	0	x
-6	utala	VERB	0	x
-7	suli	ADV	0	x
-8	li	PART	0	x
-9	pali	VERB	0	x
-10	e	PART	0	x
-11	ilo	NOUN	0	x
-12	utala	ADJ	0	x
-13	monsuta	ADJ	0	x
-14	.	PUNCT	0	x
+1	tenpo	NOUN	6	advcl
+2	pini	ADJ	1	amod
+3	la	PART	6	sep
+4	jan	NOUN	6	nsubj
+5	li	PART	6	sep
+6	utala	VERB	0	root
+7	suli	ADV	6	advmod
+8	li	PART	9	sep
+9	pali	VERB	6	conj
+10	e	PART	11	sep
+11	ilo	NOUN	9	obj
+12	utala	ADJ	11	amod
+13	monsuta	ADJ	11	amod
+14	.	PUNCT	6	punct
 
 # 106: jan ilo tu li tawa tomo ante kepeken lupa sike .
 1	jan	NOUN	0	x
@@ -1222,8 +1223,8 @@
 9	sewi	NOUN	0	x
 10	.	PUNCT	0	x
 
-# 109: o tawa weka tan ma suwi li tawa insa pi kon lete .
-# correction: 9 10 | M | pi
+# 109: o tawa weka tan ma suwi li tawa insa kon lete .
+# correction: o tawa weka tan ma suwi li tawa insa pi kon lete .
 1	o	AUX	0	x
 2	tawa	VERB	0	x
 3	weka	ADV	0	x
@@ -1264,15 +1265,15 @@
 9	seme	PRON	0	x
 10	?	PUNCT	0	x
 
-# 112: ma tomo Akipa li lon insa pi ma tomo Tokijo li jo e esun mute pi sitelen pi jan meli lili suwi .
-# correction: 6 7 | M | pi
+# 112: ma tomo Akipa li lon insa ma tomo Tokijo li jo e esun mute pi sitelen pi jan meli lili suwi .
+# correction: ma tomo Akipa li lon insa pi ma tomo Tokijo li jo e esun mute pi sitelen pi jan meli lili suwi .
 1	ma	NOUN	0	x
 2	tomo	ADJ	0	x
 3	Akipa	PROPN	0	x
 4	li	PART	0	x
 5	lon	ADP	0	x
-6	pi	PART	0	x
-7	insa	NOUN	0	x
+6	insa	NOUN	0	x
+7	pi	PART	0	x
 8	ma	NOUN	0	x
 9	tomo	ADJ	0	x
 10	Tokijo	PROPN	0	x
@@ -1312,8 +1313,8 @@
 7	nasa	ADJ	0	x
 8	.	PUNCT	0	x
 
-# 115: sina telo ala e sinpin sina la pipi lili lili li kama mute lon insa pi lupa pi sinpin sina .
-# correction: 15 16 | M | pi
+# 115: sina telo ala e sinpin sina la pipi lili lili li kama mute lon insa lupa pi sinpin sina .
+# correction: sina telo ala e sinpin sina la pipi lili lili li kama mute lon insa pi lupa pi sinpin sina .
 1	sina	PRON	0	x
 2	telo	VERB	0	x
 3	ala	ADV	0	x
@@ -1398,7 +1399,7 @@
 15	.	PUNCT	0	x
 
 # 120: kulupu Nintento li sona e nasin pali pi musi .
-# correction: 6 8 | R | pi pali
+# correction: kulupu Nintento li sona e nasin pi pali musi .
 1	kulupu	NOUN	0	x
 2	Nintento	PROPN	0	x
 3	li	PART	0	x
@@ -1440,8 +1441,8 @@
 14	sama	ADV	0	x
 15	.	PUNCT	0	x
 
-# 123: mi sona e ni : ilo unpa sina li lon insa pi supa poki ni .
-# correction: 11 11 | M | pi
+# 123: mi sona e ni : ilo unpa sina li lon insa supa poki ni .
+# correction: mi sona e ni : ilo unpa sina li lon insa pi supa poki ni .
 1	mi	PRON	0	x
 2	sona	VERB	0	x
 3	e	PART	0	x
@@ -1535,7 +1536,7 @@
 10	.	PUNCT	0	x
 
 # 130: kiwen li lon insa palisa mije mi la mi pilin ike mute mute .
-# correction: 4 4 | M | pi
+# correction: kiwen li lon insa pi palisa mije mi la mi pilin ike mute mute .
 1	kiwen	NOUN	0	x
 2	li	PART	0	x
 3	lon	ADP	0	x
@@ -1586,7 +1587,7 @@
 9	.	PUNCT	3	punct
 
 # 134: pan pimeja lili li lon insa moku telo ni .
-# correction: 6 6 | M | pi
+# correction: pan pimeja lili li lon insa pi moku telo ni .
 1	pan	NOUN	0	x
 2	pimeja	ADJ	0	x
 3	lili	ADJ	0	x
@@ -1722,7 +1723,7 @@
 10	.	PUNCT	0	x
 
 # 144: sona ali pi jan ali li lon insa ilo sona ni .
-# correction: 8 8 | M | pi
+# correction: sona ali pi jan ali li lon insa pi ilo sona ni .
 1	sona	NOUN	0	x
 2	ali	ADJ	0	x
 3	pi	PART	0	x
@@ -1787,7 +1788,7 @@
 8	.	PUNCT	0	x
 
 # 149: meli li lon luka suli pi jan ilo utala .
-# correction: 7 7 | M | pi
+# correction: meli li lon luka suli pi jan pi ilo utala .
 1	meli	NOUN	0	x
 2	li	PART	0	x
 3	lon	ADP	0	x
@@ -1819,7 +1820,7 @@
 16	.	PUNCT	0	x
 
 # 151: tenpo suno sin la jan Sansa li pini e lape la ona li sona e ni : ona kama pipi lon supa .
-# correction: 18 18 | M | li
+# correction: tenpo suno sin la jan Sansa li pini e lape la ona li sona e ni : ona li kama pipi lon supa .
 1	tenpo	NOUN	0	x
 2	suno	ADJ	0	x
 3	sin	ADJ	0	x
@@ -1973,7 +1974,7 @@
 18	.	PUNCT	0	x
 
 # 161: mi alasa mani ala la mi jo ala e mani mute .
-# correction: 2 4 | R | ala e mani
+# correction: mi alasa ala e mani la mi jo ala e mani mute .
 1	mi	PRON	0	x
 2	alasa	VERB	0	x
 3	ala	ADV	0	0
@@ -2411,7 +2412,7 @@
 12	.	PUNCT	0	x
 
 # 193: jan sama li awen moku lon sinpin pi ilo sitelen tawa lon tenpo pimeja .
-# correction: 9 9 | M | pi
+# correction: jan sama li awen moku lon sinpin pi ilo pi sitelen tawa lon tenpo pimeja .
 1	jan	NOUN	0	x
 2	sama	ADJ	0	x
 3	li	PART	0	x
@@ -2430,7 +2431,7 @@
 16	.	PUNCT	0	x
 
 # 194: jan Kesali li tawa telo linja Lupikon la ona toki e ni : kiwen nanpa li weka tan luka .
-# correction: 10 10 | M | li
+# correction: jan Kesali li tawa telo linja Lupikon la ona li toki e ni : kiwen nanpa li weka tan luka .
 1	jan	NOUN	0	x
 2	Kesali	PROPN	0	x
 3	li	PART	0	x
@@ -2441,17 +2442,17 @@
 8	la	PART	0	x
 9	ona	PRON	0	x
 10	li	PART	0	0
-10	toki	VERB	0	x
-11	e	PART	0	x
-12	ni	DET	0	x
-13	:	PUNCT	0	x
-14	kiwen	NOUN	0	x
-15	nanpa	ADJ	0	x
-16	li	PART	0	x
-17	weka	ADJ	0	x
-18	tan	ADP	0	x
-19	luka	NOUN	0	x
-20	.	PUNCT	0	x
+11	toki	VERB	0	x
+12	e	PART	0	x
+13	ni	DET	0	x
+14	:	PUNCT	0	x
+15	kiwen	NOUN	0	x
+16	nanpa	ADJ	0	x
+17	li	PART	0	x
+18	weka	ADJ	0	x
+19	tan	ADP	0	x
+20	luka	NOUN	0	x
+21	.	PUNCT	0	x
 
 # 195: mi alasa e toki olin tan ma ali la ni li mute ala tawa wile mi tawa sina .
 1	mi	PRON	0	x
@@ -2508,7 +2509,6 @@
 15	.	PUNCT	0	x
 
 # 198: kiwen pi mun kili li sama kili palisa li jo e wawa suli li ken lon e wile pi jan ali .
-# correction: 16 17 | U |
 1	kiwen	NOUN	0	x
 2	pi	PART	0	x
 3	mun	NOUN	0	x
@@ -2525,11 +2525,12 @@
 14	li	PART	0	x
 15	ken	AUX	0	x
 16	lon	ADP	0	x
-17	wile	NOUN	0	x
-18	pi	PART	0	x
-19	jan	NOUN	0	x
-20	ali	ADJ	0	x
-21	.	PUNCT	0	x
+17	e	PART	0	0
+18	wile	NOUN	0	x
+19	pi	PART	0	x
+20	jan	NOUN	0	x
+21	ali	ADJ	0	x
+22	.	PUNCT	0	x
 
 # 199: mun li jan lawa meli ike .
 1	mun	NOUN	0	x
@@ -2541,7 +2542,7 @@
 7	.	PUNCT	0	x
 
 # 200: kalama suli li ike tawa kute mi la mi len e palisa sike lili lon insa kute mi .
-# correction: 16 16 | M pi
+# correction: kalama suli li ike tawa kute mi la mi len e palisa sike lili lon insa pi kute mi .
 1	kalama	NOUN	0	x
 2	suli	ADJ	0	x
 3	li	PART	0	x
@@ -2846,423 +2847,430 @@
 17	.	PUNCT	0	x
 
 # 221: mute pi jan Nijon li ken moku pona ala e telo mama soweli .
-1	mute	X	0	x
-2	pi	X	0	x
-3	jan	X	0	x
-4	Nijon	X	0	x
-5	li	X	0	x
-6	ken	X	0	x
-7	moku	X	0	x
-8	pona	X	0	x
-9	ala	X	0	x
-10	e	X	0	x
-11	telo	X	0	x
-12	mama	X	0	x
-13	soweli	X	0	x
-14	.	X	0	x
+1	mute	NOUN	0	x
+2	pi	PART	0	x
+3	jan	NOUN	0	x
+4	Nijon	PROPN	0	x
+5	li	PART	0	x
+6	ken	AUX	0	x
+7	moku	VERB	0	x
+8	pona	ADV	0	x
+9	ala	PART	0	x
+10	e	PART	0	x
+11	telo	NOUN	0	x
+12	mama	ADJ	0	x
+13	soweli	ADJ	0	x
+14	.	PUNCT	0	x
 
 # 222: jan Jesu li moli lon nena Kokota .
-1	jan	X	0	x
-2	Jesu	X	0	x
-3	li	X	0	x
-4	moli	X	0	x
-5	lon	X	0	x
-6	nena	X	0	x
-7	Kokota	X	0	x
-8	.	X	0	x
+1	jan	NOUN	0	x
+2	Jesu	PROPN	0	x
+3	li	PART	0	x
+4	moli	VERB	0	x
+5	lon	ADP	0	x
+6	nena	NOUN	0	x
+7	Kokota	PROPN	0	x
+8	.	PUNCT	0	x
 
 # 223: sina olin e kalama seme ?
-1	sina	X	0	x
-2	olin	X	0	x
-3	e	X	0	x
-4	kalama	X	0	x
-5	seme	X	0	x
-6	?	X	0	x
+1	sina	PRON	0	x
+2	olin	VERB	0	x
+3	e	PART	0	x
+4	kalama	NOUN	0	x
+5	seme	PRON	0	x
+6	?	PUNCT	0	x
 
 # 224: sina kute la mi open .
-1	sina	X	0	x
-2	kute	X	0	x
-3	la	X	0	x
-4	mi	X	0	x
-5	open	X	0	x
-6	.	X	0	x
+1	sina	PRON	0	x
+2	kute	VERB	0	x
+3	la	PART	0	x
+4	mi	PRON	0	x
+5	open	VERB	0	x
+6	.	PUNCT	0	x
 
 # 225: sina musi mute li alasa sona ala la sina ken ala jo e sona mute .
-1	sina	X	0	x
-2	musi	X	0	x
-3	mute	X	0	x
-4	li	X	0	x
-5	alasa	X	0	x
-6	sona	X	0	x
-7	ala	X	0	x
-8	la	X	0	x
-9	sina	X	0	x
-10	ken	X	0	x
-11	ala	X	0	x
-12	jo	X	0	x
-13	e	X	0	x
-14	sona	X	0	x
-15	mute	X	0	x
-16	.	X	0	x
+1	sina	PRON	0	x
+2	musi	VERB	0	x
+3	mute	ADV	0	x
+4	li	PART	0	x
+5	alasa	VERB	0	x
+6	sona	ADV	0	x
+7	ala	ADV	0	x
+8	la	PART	0	x
+9	sina	PRON	0	x
+10	ken	AUX	0	x
+11	ala	ADV	0	x
+12	jo	VERB	0	x
+13	e	PART	0	x
+14	sona	NOUN	0	x
+15	mute	ADJ	0	x
+16	.	PUNCT	0	x
 
 # 226: tenpo ni la kulupu pi toki pona li jo e jan mute ala .
-1	tenpo	X	0	x
-2	ni	X	0	x
-3	la	X	0	x
-4	kulupu	X	0	x
-5	pi	X	0	x
-6	toki	X	0	x
-7	pona	X	0	x
-8	li	X	0	x
-9	jo	X	0	x
-10	e	X	0	x
-11	jan	X	0	x
-12	mute	X	0	x
-13	ala	X	0	x
-14	.	X	0	x
+# correction: tenpo ni la kulupu pi toki pona li jo ala e jan mute .
+1	tenpo	NOUN	0	x
+2	ni	DET	0	x
+3	la	PART	0	x
+4	kulupu	NOUN	0	x
+5	pi	PART	0	x
+6	toki	NOUN	0	x
+7	pona	ADJ	0	x
+8	li	PART	0	x
+9	jo	VERB	0	x
+10	ala	ADV	0	x
+11	e	PART	0	x
+12	jan	NOUN	0	x
+13	mute	ADJ	0	x
+14	.	PUNCT	0	x
 
 # 227: telo mute li kama tan sewi la mi ken ala tawa tan tomo mi .
-1	telo	X	0	x
-2	mute	X	0	x
-3	li	X	0	x
-4	kama	X	0	x
-5	tan	X	0	x
-6	sewi	X	0	x
-7	la	X	0	x
-8	mi	X	0	x
-9	ken	X	0	x
-10	ala	X	0	x
-11	tawa	X	0	x
-12	tan	X	0	x
-13	tomo	X	0	x
-14	mi	X	0	x
-15	.	X	0	x
+1	telo	NOUN	0	x
+2	mute	ADJ	0	x
+3	li	PART	0	x
+4	kama	VERB	0	x
+5	tan	ADP	0	x
+6	sewi	NOUN	0	x
+7	la	PART	0	x
+8	mi	PRON	0	x
+9	ken	AUX	0	x
+10	ala	ADV	0	x
+11	tawa	VERB	0	x
+12	tan	ADP	0	x
+13	tomo	NOUN	0	x
+14	mi	PRON	0	x
+15	.	PUNCT	0	x
 
 # 228: kili li moku tan kasi .
-1	kili	X	0	x
-2	li	X	0	x
-3	moku	X	0	x
-4	tan	X	0	x
-5	kasi	X	0	x
-6	.	X	0	x
+1	kili	NOUN	0	x
+2	li	PART	0	x
+3	moku	NOUN	0	x
+4	tan	ADP	0	x
+5	kasi	NOUN	0	x
+6	.	PUNCT	0	x
 
 # 229: len sin sina li lili tawa sina anu seme ?
-1	len	X	0	x
-2	sin	X	0	x
-3	sina	X	0	x
-4	li	X	0	x
-5	lili	X	0	x
-6	tawa	X	0	x
-7	sina	X	0	x
-8	anu	X	0	x
-9	seme	X	0	x
-10	?	X	0	x
+1	len	NOUN	0	x
+2	sin	ADJ	0	x
+3	sina	PRON	0	x
+4	li	PART	0	x
+5	lili	ADJ	0	x
+6	tawa	ADP	0	x
+7	sina	PRON	0	x
+8	anu	CCONJ	0	x
+9	seme	PRON	0	x
+10	?	PUNCT	0	x
 
 # 230: noka pi jan lili mi li jaki ala jaki ?
-1	noka	X	0	x
-2	pi	X	0	x
-3	jan	X	0	x
-4	lili	X	0	x
-5	mi	X	0	x
-6	li	X	0	x
-7	jaki	X	0	x
-8	ala	X	0	x
-9	jaki	X	0	x
-10	?	X	0	x
+1	noka	NOUN	0	x
+2	pi	PART	0	x
+3	jan	NOUN	0	x
+4	lili	ADJ	0	x
+5	mi	PRON	0	x
+6	li	PART	0	x
+7	jaki	ADJ	0	x
+8	ala	ADV	0	x
+9	jaki	ADJ	0	x
+10	?	PUNCT	0	x
 
 # 231: toki pona li jo ala e nimi mute la sina ken sona e ona kepeken pali lili .
-1	toki	X	0	x
-2	pona	X	0	x
-3	li	X	0	x
-4	jo	X	0	x
-5	ala	X	0	x
-6	e	X	0	x
-7	nimi	X	0	x
-8	mute	X	0	x
-9	la	X	0	x
-10	sina	X	0	x
-11	ken	X	0	x
-12	sona	X	0	x
-13	e	X	0	x
-14	ona	X	0	x
-15	kepeken	X	0	x
-16	pali	X	0	x
-17	lili	X	0	x
-18	.	X	0	x
+1	toki	NOUN	0	x
+2	pona	ADJ	0	x
+3	li	PART	0	x
+4	jo	VERB	0	x
+5	ala	ADV	0	x
+6	e	PART	0	x
+7	nimi	NOUN	0	x
+8	mute	ADJ	0	x
+9	la	PART	0	x
+10	sina	PRON	0	x
+11	ken	AUX	0	x
+12	sona	VERB	0	x
+13	e	PART	0	x
+14	ona	PRON	0	x
+15	kepeken	ADP	0	x
+16	pali	NOUN	0	x
+17	lili	ADJ	0	x
+18	.	PUNCT	0	x
 
 # 232: jan alasa kala li alasa e kala kepeken poki alasa .
-1	jan	X	0	x
-2	alasa	X	0	x
-3	kala	X	0	x
-4	li	X	0	x
-5	alasa	X	0	x
-6	e	X	0	x
-7	kala	X	0	x
-8	kepeken	X	0	x
-9	poki	X	0	x
-10	alasa	X	0	x
-11	.	X	0	x
+1	jan	NOUN	0	x
+2	alasa	ADJ	0	x
+3	kala	ADJ	0	x
+4	li	PART	0	x
+5	alasa	VERB	0	x
+6	e	PART	0	x
+7	kala	NOUN	0	x
+8	kepeken	ADP	0	x
+9	poki	NOUN	0	x
+10	alasa	ADJ	0	x
+11	.	PUNCT	0	x
 
 # 233: toki Sonka li toki lawa pi ma Putan .
-1	toki	X	0	x
-2	Sonka	X	0	x
-3	li	X	0	x
-4	toki	X	0	x
-5	lawa	X	0	x
-6	pi	X	0	x
-7	ma	X	0	x
-8	Putan	X	0	x
-9	.	X	0	x
+1	toki	NOUN	0	x
+2	Sonka	PROPN	0	x
+3	li	PART	0	x
+4	toki	NOUN	0	x
+5	lawa	ADJ	0	x
+6	pi	PART	0	x
+7	ma	NOUN	0	x
+8	Putan	PROPN	0	x
+9	.	PUNCT	0	x
 
 # 234: jan Pipon li ken toki e toki mute tan ni : mama tu ona li tan ma ante
-1	jan	X	0	x
-2	Pipon	X	0	x
-3	li	X	0	x
-4	ken	X	0	x
-5	toki	X	0	x
-6	e	X	0	x
-7	toki	X	0	x
-8	mute	X	0	x
-9	tan	X	0	x
-10	ni	X	0	x
-11	:	X	0	x
-12	mama	X	0	x
-13	tu	X	0	x
-14	ona	X	0	x
-15	li	X	0	x
-16	tan	X	0	x
-17	ma	X	0	x
-18	ante	X	0	x
+# correction: jan Pipon li ken toki e toki mute tan ni : mama tu ona li tan ma ante .
+1	jan	NOUN	0	x
+2	Pipon	PROPN	0	x
+3	li	PART	0	x
+4	ken	AUX	0	x
+5	toki	VERB	0	x
+6	e	PART	0	x
+7	toki	NOUN	0	x
+8	mute	ADJ	0	x
+9	tan	ADP	0	x
+10	ni	DET	0	x
+11	:	PUNCT	0	x
+12	mama	NOUN	0	x
+13	tu	NUM	0	x
+14	ona	PRON	0	x
+15	li	PART	0	x
+16	tan	ADP	0	x
+17	ma	NOUN	0	x
+18	ante	ADJ	0	x
+19	.	PUNCT	0	0
 
 # 235: linja lawa ona li pimeja ala pimeja ?
-1	linja	X	0	x
-2	lawa	X	0	x
-3	ona	X	0	x
-4	li	X	0	x
-5	pimeja	X	0	x
-6	ala	X	0	x
-7	pimeja	X	0	x
-8	?	X	0	x
+1	linja	NOUN	0	x
+2	lawa	ADJ	0	x
+3	ona	PRON	0	x
+4	li	PART	0	x
+5	pimeja	ADJ	0	x
+6	ala	ADV	0	x
+7	pimeja	ADJ	0	x
+8	?	PUNCT	0	x
 
 # 236: mi wile ala e ni : mi pali e toki sama lon tenpo tu .
-1	mi	X	0	x
-2	wile	X	0	x
-3	ala	X	0	x
-4	e	X	0	x
-5	ni	X	0	x
-6	:	X	0	x
-7	mi	X	0	x
-8	pali	X	0	x
-9	e	X	0	x
-10	toki	X	0	x
-11	sama	X	0	x
-12	lon	X	0	x
-13	tenpo	X	0	x
-14	tu	X	0	x
-15	.	X	0	x
+1	mi	PRON	0	x
+2	wile	VERB	0	x
+3	ala	ADV	0	x
+4	e	PART	0	x
+5	ni	DET	0	x
+6	:	PUNCT	0	x
+7	mi	PRON	0	x
+8	pali	VERB	0	x
+9	e	PART	0	x
+10	toki	NOUN	0	x
+11	sama	ADJ	0	x
+12	lon	ADP	0	x
+13	tenpo	NOUN	0	x
+14	tu	NUM	0	x
+15	.	PUNCT	0	x
 
 # 237: ma ali li kepeken e sitelen nanpa Alapi .
-1	ma	X	0	x
-2	ali	X	0	x
-3	li	X	0	x
-4	kepeken	X	0	x
-5	e	X	0	x
-6	sitelen	X	0	x
-7	nanpa	X	0	x
-8	Alapi	X	0	x
-9	.	X	0	x
+1	ma	NOUN	0	x
+2	ali	ADJ	0	x
+3	li	PART	0	x
+4	kepeken	VERB	0	x
+5	e	PART	0	x
+6	sitelen	NOUN	0	x
+7	nanpa	NOUN	0	x
+8	Alapi	PROPN	0	x
+9	.	PUNCT	0	x
 
 # 238: jan tan ma sike ante li jo ala jo e sijelo sama jan ?
-1	jan	X	0	x
-2	tan	X	0	x
-3	ma	X	0	x
-4	sike	X	0	x
-5	ante	X	0	x
-6	li	X	0	x
-7	jo	X	0	x
-8	ala	X	0	x
-9	jo	X	0	x
-10	e	X	0	x
-11	sijelo	X	0	x
-12	sama	X	0	x
-13	jan	X	0	x
-14	?	X	0	x
+1	jan	NOUN	0	x
+2	tan	ADP	0	x
+3	ma	NOUN	0	x
+4	sike	ADJ	0	x
+5	ante	ADJ	0	x
+6	li	PART	0	x
+7	jo	VERB	0	x
+8	ala	ADV	0	x
+9	jo	VERB	0	x
+10	e	PART	0	x
+11	sijelo	NOUN	0	x
+12	sama	ADP	0	x
+13	jan	NOUN	0	x
+14	?	PUNCT	0	x
 
 # 239: mije ni li ike tan ni : ona li jo e lipu sitelen pi meli lili unpa .
-1	mije	X	0	x
-2	ni	X	0	x
-3	li	X	0	x
-4	ike	X	0	x
-5	tan	X	0	x
-6	ni	X	0	x
-7	:	X	0	x
-8	ona	X	0	x
-9	li	X	0	x
-10	jo	X	0	x
-11	e	X	0	x
-12	lipu	X	0	x
-13	sitelen	X	0	x
-14	pi	X	0	x
-15	meli	X	0	x
-16	lili	X	0	x
-17	unpa	X	0	x
-18	.	X	0	x
+1	mije	NOUN	0	x
+2	ni	DET	0	x
+3	li	PART	0	x
+4	ike	ADJ	0	x
+5	tan	ADP	0	x
+6	ni	DET	0	x
+7	:	PUNCT	0	x
+8	ona	PRON	0	x
+9	li	PART	0	x
+10	jo	VERB	0	x
+11	e	PART	0	x
+12	lipu	NOUN	0	x
+13	sitelen	ADJ	0	x
+14	pi	PART	0	x
+15	meli	NOUN	0	x
+16	lili	ADJ	0	x
+17	unpa	ADJ	0	x
+18	.	PUNCT	0	x
 
 # 240: tenpo mun pi nanpa wan li jo e tenpo suno mute luka luka wan .
-1	tenpo	X	0	x
-2	mun	X	0	x
-3	pi	X	0	x
-4	nanpa	X	0	x
-5	wan	X	0	x
-6	li	X	0	x
-7	jo	X	0	x
-8	e	X	0	x
-9	tenpo	X	0	x
-10	suno	X	0	x
-11	mute	X	0	x
-12	luka	X	0	x
-13	luka	X	0	x
-14	wan	X	0	x
-15	.	X	0	x
+1	tenpo	NOUN	0	x
+2	mun	ADJ	0	x
+3	pi	PART	0	x
+4	nanpa	NOUN	0	x
+5	wan	NUM	0	x
+6	li	PART	0	x
+7	jo	VERB	0	x
+8	e	PART	0	x
+9	tenpo	NOUN	0	x
+10	suno	ADJ	0	x
+11	mute	ADJ	0	x
+12	luka	NUM	0	x
+13	luka	NUM	0	x
+14	wan	NUM	0	x
+15	.	PUNCT	0	x
 
 # 241: sina alasa e olin mute kin lon ma ni la sina kama ken pali e ijo mute
-1	sina	X	0	x
-2	alasa	X	0	x
-3	e	X	0	x
-4	olin	X	0	x
-5	mute	X	0	x
-6	kin	X	0	x
-7	lon	X	0	x
-8	ma	X	0	x
-9	ni	X	0	x
-10	la	X	0	x
-11	sina	X	0	x
-12	kama	X	0	x
-13	ken	X	0	x
-14	pali	X	0	x
-15	e	X	0	x
-16	ijo	X	0	x
-17	mute	X	0	x
+# correction: sina alasa e olin mute kin lon ma ni la sina kama ken pali e ijo mute .
+1	sina	PRON	0	x
+2	alasa	VERB	0	x
+3	e	PART	0	x
+4	olin	NOUN	0	x
+5	mute	ADJ	0	x
+6	kin	ADV	2	x
+7	lon	ADP	0	x
+8	ma	NOUN	0	x
+9	ni	DET	0	x
+10	la	PART	0	x
+11	sina	PRON	0	x
+12	kama	AUX	0	x
+13	ken	AUX	0	x
+14	pali	VERB	0	x
+15	e	PART	0	x
+16	ijo	NOUN	0	x
+17	mute	ADJ	0	x
+18	.	PUNCT	0	0
 
 # 242: tenpo pimeja la ilo sitelen tawa li tawa nasa li moku e mije lili .
-1	tenpo	X	0	x
-2	pimeja	X	0	x
-3	la	X	0	x
-4	ilo	X	0	x
-5	sitelen	X	0	x
-6	tawa	X	0	x
-7	li	X	0	x
-8	tawa	X	0	x
-9	nasa	X	0	x
-10	li	X	0	x
-11	moku	X	0	x
-12	e	X	0	x
-13	mije	X	0	x
-14	lili	X	0	x
-15	.	X	0	x
+# correction: tenpo pimeja la ilo pi sitelen tawa li tawa nasa li moku e mije lili .
+1	tenpo	NOUN	0	x
+2	pimeja	ADJ	0	x
+3	la	PART	0	x
+4	ilo	NOUN	0	x
+5	pi	PART	0	0
+6	sitelen	ADJ	0	x
+7	tawa	ADJ	0	x
+8	li	PART	0	x
+9	tawa	VERB	0	x
+10	nasa	ADV	0	x
+11	li	PART	0	x
+12	moku	VERB	0	x
+13	e	PART	0	x
+14	mije	NOUN	0	x
+15	lili	ADJ	0	x
+16	.	PUNCT	0	x
 
 # 243: sijelo ona li jo ala e kule la jan ala li ken lukin e ona .
-1	sijelo	X	0	x
-2	ona	X	0	x
-3	li	X	0	x
-4	jo	X	0	x
-5	ala	X	0	x
-6	e	X	0	x
-7	kule	X	0	x
-8	la	X	0	x
-9	jan	X	0	x
-10	ala	X	0	x
-11	li	X	0	x
-12	ken	X	0	x
-13	lukin	X	0	x
-14	e	X	0	x
-15	ona	X	0	x
-16	.	X	0	x
+1	sijelo	NOUN	0	x
+2	ona	PRON	0	x
+3	li	PART	0	x
+4	jo	VERB	0	x
+5	ala	ADV	0	x
+6	e	PART	0	x
+7	kule	NOUN	0	x
+8	la	PART	0	x
+9	jan	NOUN	0	x
+10	ala	ADJ	0	x
+11	li	PART	0	x
+12	ken	AUX	0	x
+13	lukin	VERB	0	x
+14	e	PART	0	x
+15	ona	PRON	0	x
+16	.	PUNCT	0	x
 
 # 244: ken la kala Nesi li kala linja .
-1	ken	X	0	x
-2	la	X	0	x
-3	kala	X	0	x
-4	Nesi	X	0	x
-5	li	X	0	x
-6	kala	X	0	x
-7	linja	X	0	x
-8	.	X	0	x
+1	ken	NOUN	0	x
+2	la	PART	0	x
+3	kala	NOUN	0	x
+4	Nesi	PROPN	0	x
+5	li	PART	0	x
+6	kala	NOUN	0	x
+7	linja	ADJ	0	x
+8	.	PUNCT	0	x
 
 # 245: tenpo seme la mi ken lape ?
-1	tenpo	X	0	x
-2	seme	X	0	x
-3	la	X	0	x
-4	mi	X	0	x
-5	ken	X	0	x
-6	lape	X	0	x
-7	?	X	0	x
+1	tenpo	NOUN	0	x
+2	seme	PRON	0	x
+3	la	PART	0	x
+4	mi	PRON	0	x
+5	ken	AUX	0	x
+6	lape	VERB	0	x
+7	?	PUNCT	0	x
 
 # 246: mije ni li poki e soweli li pali e ilo sona .
-1	mije	X	0	x
-2	ni	X	0	x
-3	li	X	0	x
-4	poki	X	0	x
-5	e	X	0	x
-6	soweli	X	0	x
-7	li	X	0	x
-8	pali	X	0	x
-9	e	X	0	x
-10	ilo	X	0	x
-11	sona	X	0	x
-12	.	X	0	x
+1	mije	NOUN	0	x
+2	ni	DET	0	x
+3	li	PART	0	x
+4	poki	VERB	0	x
+5	e	PART	0	x
+6	soweli	NOUN	0	x
+7	li	PART	0	x
+8	pali	VERB	0	x
+9	e	PART	0	x
+10	ilo	NOUN	0	x
+11	sona	ADJ	0	x
+12	.	PUNCT	0	x
 
 # 247: soweli lon insa poki li moli ala moli ?
-1	soweli	X	0	x
-2	lon	X	0	x
-3	insa	X	0	x
-4	poki	X	0	x
-5	li	X	0	x
-6	moli	X	0	x
-7	ala	X	0	x
-8	moli	X	0	x
-9	?	X	0	x
+1	soweli	NOUN	0	x
+2	lon	ADP	0	x
+3	insa	NOUN	0	x
+4	poki	NOUN	0	x
+5	li	PART	0	x
+6	moli	ADJ	0	x
+7	ala	ADV	0	x
+8	moli	ADJ	0	x
+9	?	PUNCT	0	x
 
 # 248: poki esun ni li pakala la mi toki tawa kulupu pali kepeken ilo toki .
-1	poki	X	0	x
-2	esun	X	0	x
-3	ni	X	0	x
-4	li	X	0	x
-5	pakala	X	0	x
-6	la	X	0	x
-7	mi	X	0	x
-8	toki	X	0	x
-9	tawa	X	0	x
-10	kulupu	X	0	x
-11	pali	X	0	x
-12	kepeken	X	0	x
-13	ilo	X	0	x
-14	toki	X	0	x
-15	.	X	0	x
+1	poki	NOUN	0	x
+2	esun	ADJ	0	x
+3	ni	DET	0	x
+4	li	PART	0	x
+5	pakala	ADJ	0	x
+6	la	PART	0	x
+7	mi	PRON	0	x
+8	toki	VERB	0	x
+9	tawa	ADP	0	x
+10	kulupu	NOUN	0	x
+11	pali	ADJ	0	x
+12	kepeken	ADP	0	x
+13	ilo	NOUN	0	x
+14	toki	ADJ	0	x
+15	.	PUNCT	0	x
 
 # 249: kili Lemomo li kili sama seme ?
-1	kili	X	0	x
-2	Lemomo	X	0	x
-3	li	X	0	x
-4	kili	X	0	x
-5	sama	X	0	x
-6	seme	X	0	x
-7	?	X	0	x
+1	kili	NOUN	0	x
+2	Lemomo	PROPN	0	x
+3	li	PART	0	x
+4	kili	NOUN	0	x
+5	sama	ADP	0	x
+6	seme	PRON	0	x
+7	?	PUNCT	0	x
 
 # 250: jan lawa Seson li pali e sitelen toki sin pi toki Anku .
-1	jan	X	0	x
-2	lawa	X	0	x
-3	Seson	X	0	x
-4	li	X	0	x
-5	pali	X	0	x
-6	e	X	0	x
-7	sitelen	X	0	x
-8	toki	X	0	x
-9	sin	X	0	x
-10	pi	X	0	x
-11	toki	X	0	x
-12	Anku	X	0	x
-13	.	X	0	x
+1	jan	NOUN	0	x
+2	lawa	ADJ	0	x
+3	Seson	PROPN	0	x
+4	li	PART	0	x
+5	pali	VERB	0	x
+6	e	PART	0	x
+7	sitelen	NOUN	0	x
+8	toki	ADJ	0	x
+9	sin	ADJ	0	x
+10	pi	PART	0	x
+11	toki	NOUN	0	x
+12	Anku	PROPN	0	x
+13	.	PUNCT	0	x
 
 # 251: jan Nijon li moku e kasi pimeja pi telo suli .
 1	jan	X	0	x
