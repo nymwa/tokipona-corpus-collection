@@ -362,7 +362,7 @@
 4	ilo	NOUN	2	obj
 5	kepeken	ADP	6	case
 6	nasin	NOUN	2	obl
-7	seme	DET	6	nmod
+7	seme	DET	6	det
 8	?	PUNCT	2	punct
 
 # 44: jan Mopu li jan lawa pona pi ma Mopu .
@@ -616,7 +616,7 @@
 3	e	PART	4	sep
 4	ijo	NOUN	2	obj
 5	tu	NUM	4	nummod
-6	ni	DET	4	nmod
+6	ni	DET	4	det
 7	.	PUNCT	2	punct
 
 # 74: o tu !
@@ -663,7 +663,7 @@
 2	sona	VERB	8	advcl
 3	e	PART	4	sep
 4	toki	NOUN	2	obj
-5	ni	DET	4	nmod
+5	ni	DET	4	det
 6	la	PART	8	sep
 7	sina	PRON	8	nsubj
 8	sona	VERB	0	root
@@ -736,7 +736,7 @@
 4	e	PART	5	sep
 5	toki	NOUN	3	obj
 6	awen	ADJ	5	amod
-7	ni	DET	5	nmod
+7	ni	DET	5	det
 8	.	PUNCT	3	punct
 
 # 87: sina ken kin toki tawa jan ante pi toki pona .

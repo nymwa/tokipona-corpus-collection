@@ -28,7 +28,7 @@
 # Ja: あれに見られてると落ち着きません。
 1	ona	PRON	3	nsubj
 2	li	PART	3	sep
-3	lukin	VERB	7	advcl
+3	lukin	VERB	8	advcl
 4	e	PART	5	sep
 5	mi	PRON	3	obj
 6	la	PART	8	sep
@@ -71,7 +71,7 @@
 # @lu8416, 1433920440209084419
 # Ja: 今はまだ夢を棄てないで。
 1	tenpo	NOUN	5	advcl
-2	ni	DET	1	amod
+2	ni	DET	1	det
 3	la	PART	5	sep
 4	o	AUX	5	aux
 5	weka	VERB	0	root
@@ -110,7 +110,7 @@
 # Ja: あなたが正気を失ってしまうのは今夜のことですか？
 1	tenpo	NOUN	9	advcl
 2	pimeja	ADJ	1	amod
-3	ni	DET	1	amod
+3	ni	DET	1	det
 4	la	PART	9	sep
 5	sina	PRON	9	nsubj
 6	kama	AUX	9	aux
@@ -213,7 +213,7 @@
 # @Roonin_KK, 1446902699396460547
 # Ja: ヤピは今彼の家に居座っているよ。
 1	tenpo	NOUN	7	advcl
-2	ni	DET	1	amod
+2	ni	DET	1	det
 3	la	PART	7	sep
 4	jan	NOUN	7	nsubj
 5	Japi	PROPN	4	appos

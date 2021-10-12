@@ -156,7 +156,7 @@
 # Ja: 今日から見ることができ，
 1	tenpo	NOUN	8	advcl
 2	suno	ADJ	1	amod
-3	ni	DET	1	amod
+3	ni	DET	1	det
 4	la	PART	8	sep
 5	sina	PRON	8	nsubj
 6	ken	AUX	8	aux
