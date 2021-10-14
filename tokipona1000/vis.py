@@ -118,8 +118,19 @@ def to_conllu(lines, f):
 
 def main():
     lipu = load_lipu('lipu.tsv')
-    for i in range(10):
-        sub = lipu[i * 100 : (i + 1) * 100]
+    spans = [
+            (0, 100),
+            (100, 200),
+            (200, 300),
+            (300, 401), # 383
+            (401, 501),
+            (501, 601),
+            (601, 701),
+            (701, 801),
+            (801, 901),
+            (901, 1001)]
+    for i, (b, e) in enumerate(spans):
+        sub = lipu[b : e]
         with open('lipu.{}.html'.format(i + 1), 'w') as f:
             print(head, file = f)
             for x in sub:
