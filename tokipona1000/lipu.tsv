@@ -6,7 +6,7 @@
 
 # 2: ali li ike tawa ona .
 1	ali	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	ike	ADJ	0	root
 4	tawa	ADP	5	case
 5	ona	PRON	3	obl
@@ -15,7 +15,7 @@
 # 3: tomo mi li suli ala .
 1	tomo	NOUN	4	nsubj
 2	mi	PRON	1	nmod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	suli	ADJ	0	root
 5	ala	ADV	4	neg
 6	.	PUNCT	4	punct
@@ -24,7 +24,7 @@
 1	mi	PRON	2	nsubj
 2	jo	VERB	0	root
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	tomo	NOUN	2	obj
 6	tawa	ADJ	5	amod
 7	.	PUNCT	2	punct
@@ -39,7 +39,7 @@
 # 6: tenpo ni la mi lon supa mi .
 1	tenpo	NOUN	6	advcl
 2	ni	DET	1	det
-3	la	PART	6	sep
+3	la	PART	6	aux
 4	mi	PRON	6	nsubj
 5	lon	ADP	6	case
 6	supa	NOUN	0	root
@@ -50,17 +50,17 @@
 1	tomo	NOUN	5	nsubj
 2	pali	ADJ	1	amod
 3	mi	PRON	1	nmod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	sin	ADJ	0	root
 6	.	PUNCT	5	punct
 
 # 8: kon li seli li jo e telo mute .
 1	kon	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	seli	ADJ	0	root
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	jo	VERB	3	conj
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	telo	NOUN	5	obj
 8	mute	ADJ	7	amod
 9	.	PUNCT	3	punct
@@ -68,7 +68,7 @@
 # 9: moku mi li kili palisa .
 1	moku	NOUN	4	nsubj
 2	mi	PRON	1	nmod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	kili	NOUN	0	root
 5	palisa	ADJ	4	amod
 6	.	PUNCT	4	punct
@@ -76,9 +76,9 @@
 # 10: mi jo e lipu pi toki pali .
 1	mi	PRON	2	nsubj
 2	jo	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	lipu	NOUN	2	obj
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	toki	NOUN	4	nmod
 7	pali	ADJ	6	amod
 8	.	PUNCT	2	punct
@@ -88,9 +88,9 @@
 2	meli	ADJ	1	amod
 3	lili	ADJ	1	amod
 4	ni	DET	1	det
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	jo	VERB	0	root
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	palisa	NOUN	6	obj
 9	nasa	ADJ	8	amod
 10	.	PUNCT	6	punct
@@ -98,10 +98,10 @@
 # 12: sina moku e telo nasa la sina nasa .
 1	sina	PRON	2	nsubj
 2	moku	VERB	8	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	telo	NOUN	2	obj
 5	nasa	ADJ	4	amod
-6	la	PART	8	sep
+6	la	PART	8	aux
 7	sina	PRON	8	nsubj
 8	nasa	ADJ	0	root
 9	.	PUNCT	8	punct
@@ -110,7 +110,7 @@
 1	mi	PRON	2	nsubj
 2	wile	VERB	0	root
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	moku	NOUN	2	obj
 6	jaki	ADJ	5	amod
 7	.	PUNCT	2	punct
@@ -118,26 +118,26 @@
 # 14: sina seli e telo la telo li pana e kon .
 1	sina	PRON	2	nsubj
 2	seli	VERB	8	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	telo	NOUN	2	obj
-5	la	PART	8	sep
+5	la	PART	8	aux
 6	telo	NOUN	8	nsubj
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	pana	VERB	0	root
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	kon	NOUN	8	obj
 11	.	PUNCT	8	punct
 
 # 15: ona li sitelen e sike la akesi suli li kama .
 1	ona	PRON	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	sitelen	VERB	10	advcl
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	sike	NOUN	3	obj
-6	la	PART	10	sep
+6	la	PART	10	aux
 7	akesi	NOUN	10	nsubj
 8	suli	ADJ	7	amod
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	kama	VERB	0	root
 11	.	PUNCT	10	punct
 
@@ -166,7 +166,7 @@
 2	kute	VERB	0	root
 3	ala	ADP	2	neg
 4	kute	VERB	2	conj
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	kalama	NOUN	2	obj
 7	ni	DET	6	det
 8	?	PUNCT	2	punct
@@ -185,7 +185,7 @@
 1	waso	NOUN	5	nsubj
 2	walo	ADJ	1	amod
 3	lili	ADJ	1	amod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	pona	ADJ	0	root
 6	tawa	ADP	7	case
 7	mi	PRON	5	obl
@@ -194,9 +194,9 @@
 # 21: kala Opapinija li jo e oko luka .
 1	kala	NOUN	4	nsubj
 2	Opapinija	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	jo	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	oko	NOUN	4	obj
 7	luka	NUM	6	nummod
 8	.	PUNCT	4	punct
@@ -204,7 +204,7 @@
 # 22: mi esun e len sin .
 1	mi	PRON	2	nsubj
 2	esun	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	len	NOUN	2	obj
 5	sin	ADJ	4	amod
 6	.	PUNCT	2	punct
@@ -212,9 +212,9 @@
 # 23: jan Sonja li mama pi toki pona .
 1	jan	NOUN	4	nsubj
 2	Sonja	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	mama	NOUN	0	root
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	toki	NOUN	4	nmod
 7	pona	ADJ	6	amod
 8	.	PUNCT	4	punct
@@ -222,7 +222,7 @@
 # 24: jan nasa li lon monsi sina .
 1	jan	NOUN	5	nsubj
 2	nasa	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	lon	ADP	5	case
 5	monsi	NOUN	0	root
 6	sina	PRON	5	nmod
@@ -231,7 +231,7 @@
 # 25: jan pali pi ma ale o wan .
 1	jan	NOUN	7	nsubj
 2	pali	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	ma	NOUN	1	nmod
 5	ale	ADJ	4	amod
 6	o	AUX	7	aux
@@ -241,7 +241,7 @@
 # 26: luka tu li nanpa pona .
 1	luka	NUM	4	nsubj
 2	tu	NUM	1	nummod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	nanpa	NOUN	0	root
 5	pona	ADJ	4	amod
 6	.	PUNCT	4	punct
@@ -249,7 +249,7 @@
 # 27: ma ni li pi mi .
 1	ma	NOUN	5	nsubj
 2	ni	DET	1	det
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	pi	PART	5	aux
 5	mi	PRON	0	root
 6	.	PUNCT	5	punct
@@ -257,7 +257,7 @@
 # 28: o olin e mi taso .
 1	o	AUX	2	aux
 2	olin	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	mi	PRON	2	obj
 5	taso	ADJ	4	amod
 6	.	PUNCT	2	punct
@@ -265,7 +265,7 @@
 # 29: sina moku e pan suwi mi , anu seme ?
 1	sina	PRON	2	nsubj
 2	moku	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	pan	NOUN	2	obj
 5	suwi	ADJ	4	amod
 6	mi	PRON	4	nmod
@@ -277,19 +277,19 @@
 # 30: mi pana e ko jaki lon tenpo sona la tenpo pi tomo sona mi li pini .
 1	mi	PRON	2	nsubj
 2	pana	VERB	16	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	ko	NOUN	2	obj
 5	jaki	ADJ	4	amod
 6	lon	ADP	7	case
 7	tenpo	NOUN	2	obl
 8	sona	ADJ	7	amod
-9	la	PART	16	sep
+9	la	PART	16	aux
 10	tenpo	NOUN	16	nsubj
-11	pi	PART	12	sep
+11	pi	PART	12	aux
 12	tomo	NOUN	10	nmod
 13	sona	ADJ	12	amod
 14	mi	PRON	12	nmod
-15	li	PART	16	sep
+15	li	PART	16	aux
 16	pini	VERB	0	root
 17	.	PUNCT	16	punct
 
@@ -306,7 +306,7 @@
 # 32: akesi linja li ike tawa sina .
 1	akesi	NOUN	4	nsubj
 2	linja	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	ike	ADJ	0	root
 5	tawa	ADP	6	case
 6	sina	PRON	4	obl
@@ -315,7 +315,7 @@
 # 33: kon pona li kama tan ma kasi .
 1	kon	NOUN	4	nsubj
 2	pona	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	kama	VERB	0	root
 5	tan	ADP	6	case
 6	ma	NOUN	4	obl
@@ -324,11 +324,11 @@
 
 # 34: telo li kama tan sewi li tawa telo suli .
 1	telo	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	kama	VERB	0	root
 4	tan	ADP	5	case
 5	sewi	NOUN	3	obl
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	tawa	ADP	8	case
 8	telo	NOUN	3	conj
 9	suli	ADJ	8	amod
@@ -340,17 +340,17 @@
 3	en	CCONJ	4	cc
 4	kili	NOUN	1	conj
 5	laso	ADJ	4	amod
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	suwi	ADJ	0	root
 8	.	PUNCT	7	punct
 
 # 36: pan li lon insa poki pimeja .
 # correction: pan li lon insa pi poki pimeja .
 1	pan	NOUN	4	nsubj
-2	li	PART	4	sep
+2	li	PART	4	aux
 3	lon	ADP	4	case
 4	insa	NOUN	0	root
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	poki	NOUN	4	nmod
 7	pimeja	ADJ	6	amod
 8	.	PUNCT	4	punct
@@ -358,7 +358,7 @@
 # 37: esun mute li lon ma tomo Tokijo .
 1	esun	NOUN	5	nsubj
 2	mute	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	lon	ADP	5	case
 5	ma	NOUN	0	root
 6	tomo	ADJ	5	amod
@@ -368,14 +368,14 @@
 # 38: ijo ali li kama ante .
 1	ijo	NOUN	5	nsubj
 2	ali	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	kama	AUX	5	aux
 5	ante	VERB	0	root
 6	.	PUNCT	5	punct
 
 # 39: jan li soweli sona .
 1	jan	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	soweli	NOUN	0	root
 4	sona	ADJ	3	amod
 5	.	PUNCT	3	punct
@@ -383,10 +383,10 @@
 # 40: tan seme la sina olin e toki Losupan ?
 1	tan	ADP	2	case
 2	seme	PRON	5	advcl
-3	la	PART	5	sep
+3	la	PART	5	aux
 4	sina	PRON	5	nsubj
 5	olin	VERB	0	root
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	toki	NOUN	5	obj
 8	Losupan	PROPN	7	appos
 9	?	PUNCT	5	punct
@@ -395,15 +395,15 @@
 # correction: sina wile e ilo pi sitelen tawa la mi alasa e mani mute .
 1	sina	PRON	2	nsubj
 2	wile	VERB	10	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	ilo	NOUN	2	obj
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	sitelen	NOUN	4	nmod
 7	tawa	ADJ	6	amod
-8	la	PART	10	sep
+8	la	PART	10	aux
 9	mi	PRON	10	nsubj
 10	alasa	VERB	0	root
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	mani	NOUN	10	obj
 13	mute	ADJ	12	amod
 14	.	PUNCT	10	punct
@@ -411,13 +411,13 @@
 # 42: jan mute li tawa tomo telo li telo e sijelo ona .
 1	jan	NOUN	5	nsubj
 2	mute	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	tawa	ADP	5	case
 5	tomo	NOUN	0	root
 6	telo	ADJ	5	amod
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	telo	VERB	5	conj
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	sijelo	NOUN	8	obj
 11	ona	PRON	10	nmod
 12	.	PUNCT	5	punct
@@ -436,15 +436,15 @@
 1	tenpo	NOUN	5	nsubj
 2	suno	ADJ	1	amod
 3	sin	ADJ	1	amod
-4	li	NOUN	5	sep
+4	li	NOUN	5	aux
 5	open	VERB	9	advcl
-6	la	PART	9	sep
+6	la	PART	9	aux
 7	suno	NOUN	9	nsubj
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	kama	VERB	0	root
 10	tan	ADP	11	case
 11	monsi	NOUN	9	obl
-12	pi	PART	13	sep
+12	pi	PART	13	aux
 13	nena	NOUN	11	nmod
 14	weka	ADJ	13	amod
 15	.	PUNCT	9	punct
@@ -452,12 +452,12 @@
 # 45: sina pali e moku la mi pana e kili anu kasi anu kala tawa sina .
 1	sina	PRON	2	nsubj
 2	pali	VERB	7	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	moku	NOUN	2	obj
-5	la	PART	7	sep
+5	la	PART	7	aux
 6	mi	PART	7	nsubj
 7	pana	VERB	0	root
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	kili	NOUN	7	obj
 10	anu	CCONJ	11	cc
 11	kasi	NOUN	9	conj
@@ -472,7 +472,7 @@
 2	tawa	ADJ	1	amod
 3	nanpa	NOUN	1	nummod
 4	luka	NUM	3	nummod
-5	li	PART	7	sep
+5	li	PART	7	aux
 6	pi	PART	7	aux
 7	jan	NOUN	0	root
 8	seme	PRON	7	nmod
@@ -482,9 +482,9 @@
 # correction: jan Miku li ilo pi kalama musi .
 1	jan	NOUN	4	nsubj
 2	Miku	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	ilo	NOUN	0	root
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	kalama	NOUN	4	nmod
 7	musi	ADJ	6	amod
 8	.	PUNCT	4	punct
@@ -492,7 +492,7 @@
 # 48: kule sewi li laso .
 1	kule	NOUN	4	nsubj
 2	sewi	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	laso	ADJ	0	root
 5	.	PUNCT	4	punct
 
@@ -501,13 +501,13 @@
 1	kasi	NOUN	5	nsubj
 2	suli	ADJ	1	amod
 3	suli	ADJ	1	amod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	open	VERB	12	advcl
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	uta	NOUN	5	obj
-8	la	PART	12	sep
+8	la	PART	12	aux
 9	ona	PRON	12	nsubj
-10	li	PART	12	sep
+10	li	PART	12	aux
 11	tawa	ADP	12	case
 12	insa	NOUN	0	root
 13	kasi	ADJ	12	nmod
@@ -516,7 +516,7 @@
 # 50: pipi monsuta li lon insa mi .
 1	pipi	NOUN	5	nsubj
 2	monsuta	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	lon	ADP	5	case
 5	insa	NOUN	0	root
 6	mi	PRON	5	nmod
@@ -525,21 +525,21 @@
 # 51: sitelen toki pi toki Tawi li jo e sike .
 1	sitelen	NOUN	7	nsubj
 2	toki	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	toki	NOUN	1	nmod
 5	Tawi	PROPN	4	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	jo	VERB	0	root
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	sike	NOUN	7	obj
 10	.	PUNCT	7	punct
 
 # 52: sinpin pi meli ni li pona lukin .
 1	sinpin	NOUN	6	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	meli	NOUN	1	nmod
 4	ni	DET	3	det
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	pona	ADJ	0	root
 7	lukin	ADV	6	advmod
 8	.	PUNCT	6	punct
@@ -547,14 +547,14 @@
 # 53: ma tu li open e utala la jan mute li kama moli .
 1	ma	NOUN	4	nusbj
 2	tu	NUM	1	nummod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	open	VERB	12	advcl
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	utala	NOUN	4	obj
-7	la	PART	12	sep
+7	la	PART	12	aux
 8	jan	NOUN	12	nsubj
 9	mute	ADJ	8	amod
-10	li	PART	12	sep
+10	li	PART	12	aux
 11	kama	AUX	12	aux
 12	moli	VERB	0	root
 13	.	PUNCT	12	punct
@@ -562,9 +562,9 @@
 # 54: supa kiwen li kiwen li lete .
 1	supa	NOUN	4	nsubj
 2	kiwen	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	kiwen	ADJ	0	root
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	lete	ADJ	4	conj
 7	.	PUNCT	4	punct
 
@@ -572,16 +572,16 @@
 # correction: mi pana e mani pi mute seme la mi ken esun e ilo kipisi ni ?
 1	mi	PRON	2	nsubj
 2	pana	VERB	11	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	mani	NOUN	2	obj
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	mute	NOUN	4	nmod
 7	seme	PRON	6	amod
-8	la	PART	11	sep
+8	la	PART	11	aux
 9	mi	PRON	11	nsubj
 10	ken	AUX	11	aux
 11	esun	VERB	0	root
-12	e	PART	13	sep
+12	e	PART	13	aux
 13	ilo	NOUN	11	obj
 14	kipisi	ADJ	13	amod
 15	ni	DET	13	det
@@ -591,10 +591,10 @@
 1	mama	NOUN	5	nsubj
 2	tu	NUM	1	nummod
 3	mi	PRON	1	nmod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	unpa	VERB	9	advcl
 6	ala	ADV	5	neg
-7	la	PART	9	sep
+7	la	PART	9	aux
 8	mi	PRON	9	nsubj
 9	lon	VERB	0	root
 10	ala	ADV	9	neg
@@ -602,12 +602,12 @@
 
 # 57: tomo pi kulupu pi jan sona li lon ma ni .
 1	tomo	NOUN	9	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	kulupu	NOUN	1	nmod
-4	pi	PART	5	sep
+4	pi	PART	5	aux
 5	jan	NOUN	3	nmod
 6	sona	ADJ	5	amod
-7	li	PART	9	sep
+7	li	PART	9	aux
 8	lon	ADP	9	case
 9	ma	NOUN	0	root
 10	ni	DET	9	det
@@ -616,10 +616,10 @@
 # 58: jan Ototake li jo ala e luka en noka .
 1	jan	NOUN	4	nsubj
 2	Ototake	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	jo	VERB	0	root
 5	ala	ADV	4	neg
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	luka	NOUN	4	obj
 8	en	CCONJ	9	cc
 9	noka	NOUN	7	conj
@@ -628,11 +628,11 @@
 # 59: tomo tawa pi sitelen tawa ni li ilo tawa tenpo .
 1	tomo	NOUN	8	nsubj
 2	tawa	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	sitelen	NOUN	1	nmod
 5	tawa	ADJ	4	amod
 6	ni	DET	4	det
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	ilo	NOUN	0	root
 9	tawa	ADJ	8	amod
 10	tenpo	ADJ	8	amod
@@ -642,7 +642,7 @@
 1	mi	PRON	2	nsubj
 2	sona	VERB	0	root
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	nimi	NOUN	2	obj
 6	sina	PRON	5	nmod
 7	.	PUNCT	2	punct
@@ -651,7 +651,7 @@
 1	o	AUX	2	aux
 2	kute	VERB	0	root
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	kalama	NOUN	2	obj
 6	musi	ADJ	5	amod
 7	ike	ADJ	5	amod
@@ -660,7 +660,7 @@
 # 62: tenpo ali la sina jan pona mi .
 1	tenpo	NOUN	5	nsubj
 2	ali	ADJ	1	nmod
-3	la	PART	5	sep
+3	la	PART	5	aux
 4	sina	PRON	5	nsubj
 5	jan	NOUN	0	root
 6	pona	ADJ	5	amod
@@ -669,14 +669,14 @@
 
 # 63: jan pi pali tomo o , mi lukin e sina .
 1	jan	NOUN	8	vocative
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	pali	NOUN	1	nmod
 4	tomo	ADJ	3	amod
-5	o	PART	1	sep
+5	o	PART	1	aux
 6	,	PUNCT	1	punct
 7	mi	PRON	8	nsubj
 8	lukin	VERB	0	root
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	sina	PRON	8	obj
 11	.	PUNCT	8	punct
 
@@ -684,7 +684,7 @@
 1	sina	PRON	2	nsubj
 2	wile	VERB	6	advcl
 3	ala	ADV	2	neg
-4	la	PART	6	sep
+4	la	PART	6	aux
 5	sina	PRON	6	nsubj
 6	moli	VERB	0	root
 7	ala	ADV	6	neg
@@ -693,7 +693,7 @@
 # 65: len ni li sama selo jan .
 1	len	NOUN	5	nsubj
 2	ni	DET	1	det
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	sama	ADP	5	case
 5	selo	NOUN	0	root
 6	jan	ADJ	5	amod
@@ -702,7 +702,7 @@
 # 66: soweli Mekemeke li mu lon nasin nasa .
 1	soweli	NOUN	4	nsubj
 2	Mekemeke	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	mu	VERB	0	root
 5	lon	ADP	6	case
 6	nasin	NOUN	4	obl
@@ -711,12 +711,12 @@
 
 # 67: ona li jo e luka monsuta li tan ma anpa .
 1	ona	PRON	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	jo	VERB	0	root
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	luka	NOUN	3	obj
 6	monsuta	ADJ	5	amod
-7	li	PART	9	sep
+7	li	PART	9	aux
 8	tan	ADP	9	case
 9	ma	NOUN	3	conj
 10	anpa	ADJ	9	amod
@@ -725,9 +725,9 @@
 # 68: waso Kopentan li pona e pilin sina .
 1	waso	NOUN	4	nsubj
 2	Kopentan	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	pona	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	pilin	NOUN	4	obj
 7	sina	PRON	6	nmod
 8	.	PUNCT	4	punct
@@ -735,7 +735,7 @@
 # 69: nimi namako li nimi pu ala .
 1	nimi	NOUN	4	nsubj
 2	namako	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	nimi	NOUN	0	root
 5	pu	ADJ	4	amod
 6	ala	ADJ	4	amod
@@ -744,9 +744,9 @@
 # 70: ma Italija li jo e moku pona pona .
 1	ma	NOUN	4	nsubj
 2	Italija	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	jo	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	moku	NOUN	4	obj
 7	pona	ADJ	6	amod
 8	pona	ADJ	6	amod
@@ -755,55 +755,55 @@
 # 71: tenpo pimeja pi ma tomo li lete .
 1	tenpo	NOUN	7	nsubj
 2	pimeja	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	ma	NOUN	1	nmod
 5	tomo	ADJ	4	amod
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	lete	ADJ	0	root
 8	.	PUNCT	7	punct
 
 # 72: mi open e uta tomo la mi lukin e mun .
 1	mi	PRON	2	nsubj
 2	open	VERB	8	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	uta	NOUN	2	obj
 5	tomo	ADJ	4	amod
-6	la	PART	8	sep
+6	la	PART	8	aux
 7	mi	PRON	8	nsubj
 8	lukin	VERB	0	root
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	mun	NOUN	8	obj
 11	.	PUNCT	8	punct
 
 # 73: o lon e wile sina .
 1	o	AUX	2	aux
 2	lon	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	wile	NOUN	2	obj
 5	sina	PRON	4	nmod
 6	.	PUNCT	2	punct
 
 # 74: ilo pi pana moku li pakala la soweli li moli .
 1	ilo	NOUN	6	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	pana	NOUN	1	nmod
 4	moku	ADJ	3	amod
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	pakala	VERB	10	advcl
-7	la	PART	10	sep
+7	la	PART	10	aux
 8	soweli	NOUN	10	nsubj
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	moli	VERB	0	root
 11	.	PUNCT	10	punct
 
 # 75: kala pi sike pan li jo e noka luka tu wan .
 1	kala	NOUN	6	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	sike	NOUN	1	nmod
 4	pan	ADJ	3	amod
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	jo	VERB	0	root
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	noka	NOUN	6	obj
 9	luka	NUM	8	nummod
 10	tu	NUM	9	flat
@@ -814,7 +814,7 @@
 1	o	AUX	2	aux
 2	moli	VERB	0	root
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	jan	NOUN	2	obj
 6	pona	ADJ	5	amod
 7	sina	PRON	5	nmod
@@ -824,11 +824,11 @@
 1	tomo	NOUN	5	nsubj
 2	tawa	ADJ	1	amod
 3	kon	ADJ	1	amod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	tawa	VERB	0	root
 6	lon	ADP	7	case
 7	sewi	NOUN	5	obl
-8	pi	PART	9	sep
+8	pi	PART	9	aux
 9	tomo	NOUN	7	nmod
 10	palisa	ADJ	9	amod
 11	suli	ADJ	9	amod
@@ -839,7 +839,7 @@
 1	kili	NOUN	5	nsubj
 2	jelo	ADJ	1	amod
 3	ni	DET	1	det
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	moku	NOUN	0	root
 6	pona	ADJ	5	amod
 7	kin	ADJ	5	amod
@@ -849,7 +849,7 @@
 1	linja	NOUN	6	nsubj
 2	lawa	ADJ	1	amod
 3	mije	ADJ	1	amod
-4	li	PART	6	sep
+4	li	PART	6	aux
 5	kama	AUX	6	aux
 6	lili	ADJ	0	root
 7	.	PUNCT	6	punct
@@ -859,41 +859,41 @@
 2	utala	ADJ	1	amod
 3	sin	ADJ	1	amod
 4	ni	DET	1	det
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	pana	VERB	0	rootx
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	kulupu	NOUN	6	obj
-9	pi	PART	10	sep
+9	pi	PART	10	aux
 10	sike	NOUN	8	nmod
 11	kiwen	ADJ	10	amod
 12	.	PUNCT	6	punct
 
 # 81: ala li moku e kiwen .
 1	ala	PRON	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	moku	VERB	0	root
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	kiwen	NOUN	3	obj
 6	.	PUNCT	3	punct
 
 # 82: mi pakala e kili ni la ona li pana e telo suwi .
 1	mi	PRON	2	nsubj
 2	pakala	VERB	9	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	kili	NOUN	2	obj
 5	ni	DET	4	det
-6	la	PART	9	sep
+6	la	PART	9	aux
 7	ona	PRON	9	nsubj
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	pana	VERB	0	root
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	telo	NOUN	9	obj
 12	suwi	ADJ	11	amod
 13	.	PUNCT	9	punct
 
 # 83: olin li pilin jan .
 1	olin	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	pilin	NOUN	0	root
 4	jan	ADJ	3	amod
 5	.	PUNCT	3	punct
@@ -902,7 +902,7 @@
 1	o	AUX	2	aux
 2	pana	VERB	0	root
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	toki	NOUN	2	obj
 6	jaki	ADJ	5	amod
 7	.	PUNCT	2	punct
@@ -910,14 +910,14 @@
 # 85: sitelen tawa pi jan Misali li pana e sona pi toki pona tawa sina .
 1	sitelen	NOUN	7	nsubj
 2	tawa	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	jan	NOUN	1	nmod
 5	Misali	PROPN	4	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	pana	VERB	0	root
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	sona	NOUN	7	obj
-10	pi	PART	11	sep
+10	pi	PART	11	aux
 11	toki	NOUN	9	nmod
 12	pona	ADJ	11	amod
 13	tawa	ADP	14	case
@@ -927,11 +927,11 @@
 # 86: waso Penkin li tawa kon ala li tawa telo .
 1	waso	NOUN	5	nsubj
 2	Penkin	PROPN	1	appos
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	tawa	ADP	5	case
 5	kon	NOUN	0	root
 6	ala	ADJ	5	amod
-7	li	PART	9	sep
+7	li	PART	9	aux
 8	tawa	ADP	9	case
 9	telo	NOUN	5	conj
 10	.	PUNCT	5	punct
@@ -939,7 +939,7 @@
 # 87: sina utala e meli sina kepeken ilo kipisi .
 1	sina	PRON	2	nsubj
 2	utala	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	meli	NOUN	2	obj
 5	sina	PRON	4	nmod
 6	kepeken	ADP	7	case
@@ -950,9 +950,9 @@
 # 88: palisa sitelen li jo e telo pimeja lon insa ona .
 1	palisa	NOUN	4	nsubj
 2	sitelen	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	jo	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	telo	NOUN	4	obj
 7	pimeja	ADJ	6	amod
 8	lon	ADP	9	case
@@ -964,10 +964,10 @@
 1	sike	NOUN	2	nsubj
 2	ma	ADJ	0	root
 3	Tela	PROPN	2	appos
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	ma	NOUN	2	conj
 6	mama	ADJ	5	amod
-7	pi	PART	8	sep
+7	pi	PART	8	aux
 8	jan	NOUN	5	nmod
 9	ali	ADJ	8	amod
 10	.	PUNCT	2	punct
@@ -975,10 +975,10 @@
 # 90: mi jo e mani mute la mi wile ala pali .
 1	mi	PRON	2	nsubj
 2	jo	VERB	10	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	mani	NOUN	2	obj
 5	mute	ADJ	4	amod
-6	la	PART	10	sep
+6	la	PART	10	aux
 7	mi	PRON	10	nsubj
 8	wile	AUX	10	aux
 9	ala	ADV	8	neg
@@ -988,10 +988,10 @@
 # 91: tenpo kama la jan ali li lon tomo suli suli wan .
 1	tenpo	NOUN	8	advcl
 2	kama	ADJ	1	amod
-3	la	PART	8	sep
+3	la	PART	8	aux
 4	jan	NOUN	8	nsubj
 5	ali	ADJ	4	amod
-6	li	PART	8	sep
+6	li	PART	8	aux
 7	lon	ADP	8	case
 8	tomo	NOUN	0	root
 9	suli	ADJ	8	amod
@@ -1001,9 +1001,9 @@
 
 # 92: jan li pali e lipu tan kasi .
 1	jan	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	pali	VERB	0	root
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	lipu	NOUN	3	obj
 6	tan	ADP	7	case
 7	kasi	NOUN	3	obl
@@ -1012,29 +1012,29 @@
 # 93: palisa ni li jo e wawa nasa li ken lawa e jan mute .
 1	palisa	NOUN	4	nsubj
 2	ni	DET	1	det
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	jo	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	wawa	NOUN	4	obj
 7	nasa	ADJ	6	amod
-8	li	PART	10	sep
+8	li	PART	10	aux
 9	ken	AUX	10	aux
 10	lawa	VERB	4	conj
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	jan	NOUN	10	obj
 13	mute	ADJ	12	amod
 14	.	PUNCT	4	punct
 
 # 94: suno li lon sewi li seli e kon la mi pilin ike .
 1	suno	NOUN	4	nsubj
-2	li	PART	4	sep
+2	li	PART	4	aux
 3	lon	ADP	4	case
 4	sewi	NOUN	11	advcl
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	seli	VERB	4	conj
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	kon	NOUN	6	obj
-9	la	PART	11	sep
+9	la	PART	11	aux
 10	mi	PRON	11	nsubj
 11	pilin	VERB	0	root
 12	ike	ADV	11	advmod
@@ -1043,27 +1043,27 @@
 # 95: telo mute li lon insa pi sijelo jan .
 1	telo	NOUN	5	nsubj
 2	mute	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	lon	ADP	5	case
 5	insa	NOUN	0	obl
-6	pi	PART	7	sep
+6	pi	PART	7	aux
 7	sijelo	NOUN	5	nmod
 8	jan	ADJ	7	amod
 9	.	PUNCT	5	punct
 
 # 96: ma li tawa wawa la telo mute li tawa li pakala e ma tomo .
 1	ma	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	tawa	VERB	9	advcl
 4	wawa	ADV	3	advmod
-5	la	PART	9	sep
+5	la	PART	9	aux
 6	telo	NOUN	9	nsubj
 7	mute	ADJ	6	amod
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	tawa	VERB	0	root
-10	li	PART	11	sep
+10	li	PART	11	aux
 11	pakala	VERB	9	conj
-12	e	PART	13	sep
+12	e	PART	13	aux
 13	ma	NOUN	11	obj
 14	tomo	ADJ	13	amod
 15	.	PUNCT	9	punct
@@ -1071,20 +1071,20 @@
 # 97: sitelen toki pi toki Anku li pona .
 1	sitelen	NOUN	7	nsubj
 2	toki	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	toki	NOUN	1	nmod
 5	Anku	PROPN	4	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	pona	ADJ	0	root
 8	.	PUNCT	7	punct
 
 # 98: tenpo seme la sina sona e pona jan ?
 1	tenpo	NOUN	5	advcl
 2	seme	PRON	1	amod
-3	la	PART	5	sep
+3	la	PART	5	aux
 4	sina	PRON	5	nsubj
 5	sona	VERB	0	root
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	pona	NOUN	5	obj
 8	jan	ADJ	7	amod
 9	?	PUNCT	5	punct
@@ -1092,14 +1092,14 @@
 # 99: tomo tawa pi esun unpa li tawa li pana e kalama musi nasa lon ma tomo .
 1	tomo	NOUN	7	nsubj
 2	tawa	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	esun	NOUN	1	nmod
 5	unpa	ADJ	4	amod
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	tawa	VERB	0	root
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	pana	VERB	7	conj
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	kalama	NOUN	9	obj
 12	musi	ADJ	11	amod
 13	nasa	ADJ	11	amod
@@ -1110,9 +1110,9 @@
 
 # 100: ni li ijo pi nanpa ale .
 1	ni	DET	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	ijo	NOUN	0	root
-4	pi	PART	5	sep
+4	pi	PART	5	aux
 5	nanpa	NOUN	3	nmod
 6	ale	NUM	5	nummod
 7	.	PUNCT	3	punct
@@ -1120,10 +1120,10 @@
 # 101: pali sitelen li pana ala e mani mute tawa sina .
 1	pali	NOUN	4	nsubj
 2	sitelen	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	pana	VERB	0	root
 5	ala	ADV	4	neg
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	mani	NOUN	4	obj
 8	mute	ADJ	7	amod
 9	tawa	ADP	10	case
@@ -1132,10 +1132,10 @@
 
 # 102: len pi tenpo sin li nasa tan seme ?
 1	len	NOUN	6	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	tenpo	NOUN	1	nmod
 4	sin	ADJ	3	amod
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	nasa	ADJ	0	root
 7	tan	ADP	8	case
 8	seme	PRON	6	obl
@@ -1146,29 +1146,29 @@
 2	tawa	ADJ	1	amod
 3	kon	ADJ	1	amod
 4	mute	ADJ	1	amod
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	kama	VERB	0	root
 7	tan	ADP	8	case
 8	sewi	NOUN	6	obl
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	utala	VERB	6	conj
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	ma	NOUN	10	obj
 13	tomo	ADJ	12	amod
 14	.	PUNCT	6	punct
 
 # 104: kulupu pi jan alasa li tawa ma kasi la soweli li kama moku ona .
 1	kulupu	NOUN	7	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	jan	NOUN	1	nmod
 4	alasa	ADJ	3	amod
-5	li	PART	7	sep
+5	li	PART	7	aux
 6	tawa	ADP	7	case
 7	ma	NOUN	13	advcl
 8	kasi	ADJ	7	amod
-9	la	PART	13	sep
+9	la	PART	13	aux
 10	soweli	NOUN	13	nsubj
-11	li	PART	13	sep
+11	li	PART	13	aux
 12	kama	AUX	13	aux
 13	moku	NOUN	0	root
 14	ona	PRON	13	nmod
@@ -1177,14 +1177,14 @@
 # 105: tenpo pini la jan li utala suli li pali e ilo utala monsuta .
 1	tenpo	NOUN	6	advcl
 2	pini	ADJ	1	amod
-3	la	PART	6	sep
+3	la	PART	6	aux
 4	jan	NOUN	6	nsubj
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	utala	VERB	0	root
 7	suli	ADV	6	advmod
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	pali	VERB	6	conj
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	ilo	NOUN	9	obj
 12	utala	ADJ	11	amod
 13	monsuta	ADJ	11	amod
@@ -1194,7 +1194,7 @@
 1	jan	NOUN	6	nsubj
 2	ilo	ADJ	1	amod
 3	tu	NUM	1	nummod
-4	li	PART	6	sep
+4	li	PART	6	aux
 5	tawa	ADP	6	case
 6	tomo	NOUN	0	root
 7	ante	ADJ	6	amod
@@ -1205,7 +1205,7 @@
 
 # 107: suno li sike seli suli .
 1	suno	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	sike	NOUN	0	root
 4	seli	ADJ	3	amod
 5	suli	ADJ	3	amod
@@ -1213,9 +1213,9 @@
 
 # 108: waso li lukin e ma tomo mi lon sewi .
 1	waso	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	lukin	VERB	0	root
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	ma	NOUN	3	obj
 6	tomo	ADJ	5	amod
 7	mi	PRON	5	nmod
@@ -1231,23 +1231,23 @@
 4	tan	ADP	5	case
 5	ma	NOUN	2	obl
 6	suwi	ADJ	5	amod
-7	li	PART	9	sep
+7	li	PART	9	aux
 8	tawa	ADP	9	case
 9	insa	NOUN	2	obl
-10	pi	PART	11	sep
+10	pi	PART	11	aux
 11	kon	NOUN	9	nmod
 12	lete	ADJ	11	amod
 13	.	PUNCT	2	punct
 
 # 110: nasin li pakala la tomo tawa mi li ken ala tawa .
 1	nasin	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	pakala	ADJ	11	advcl
-4	la	PART	11	sep
+4	la	PART	11	aux
 5	tomo	NOUN	11	nsubj
 6	tawa	ADJ	5	amod
 7	mi	PRON	5	nmod
-8	li	PART	11	sep
+8	li	PART	11	aux
 9	ken	AUX	11	aux
 10	ala	ADV	9	neg
 11	tawa	VERB	0	root
@@ -1257,7 +1257,7 @@
 1	kule	NOUN	5	nsubj
 2	ni	DET	1	det
 3	taso	ADJ	1	amod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	pona	ADJ	0	root
 6	tawa	ADP	7	case
 7	sina	PRON	5	nmod
@@ -1270,21 +1270,21 @@
 1	ma	NOUN	6	nsubj
 2	tomo	ADJ	1	amod
 3	Akipa	PROPN	1	appos
-4	li	PART	6	sep
+4	li	PART	6	aux
 5	lon	ADP	6	case
 6	insa	NOUN	0	root
-7	pi	PART	8	sep
+7	pi	PART	8	aux
 8	ma	NOUN	6	nmod
 9	tomo	ADJ	8	amod
 10	Tokijo	PROPN	8	appos
-11	li	PART	12	sep
+11	li	PART	12	aux
 12	jo	VERB	6	conj
-13	e	PART	14	sep
+13	e	PART	14	aux
 14	esun	NOUN	12	obj
 15	mute	ADJ	14	amod
-16	pi	PART	17	sep
+16	pi	PART	17	aux
 17	sitelen	NOUN	14	nmod
-18	pi	PART	19	sep
+18	pi	PART	19	aux
 19	jan	NOUN	17	nmod
 20	meli	ADJ	19	amod
 21	lili	ADJ	19	amod
@@ -1294,10 +1294,10 @@
 # 113: nimi lupa pi toki pona li tan toki Losupan .
 1	nimi	NOUN	8	nsubj
 2	lupa	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	toki	NOUN	1	nmod
 5	pona	ADJ	4	amod
-6	li	PART	8	sep
+6	li	PART	8	aux
 7	tan	ADP	8	case
 8	toki	NOUN	0	root
 9	Losupan	PROPN	8	appos
@@ -1306,9 +1306,9 @@
 # 114: toki Alapi li jo e kalama nasa .
 1	toki	NOUN	4	nsubj
 2	Alapi	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	jo	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	kalama	NOUN	4	obj
 7	nasa	ADJ	6	amod
 8	.	PUNCT	4	punct
@@ -1318,21 +1318,21 @@
 1	sina	PRON	2	nsubj
 2	telo	VERB	13	advcl
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	sinpin	NOUN	2	obj
 6	sina	PRON	5	nmod
-7	la	PART	13	sep
+7	la	PART	13	aux
 8	pipi	NOUN	13	nsubj
 9	lili	ADJ	8	amod
 10	lili	ADJ	8	amod
-11	li	PART	13	sep
+11	li	PART	13	aux
 12	kama	AUX	13	aux
 13	mute	ADJ	0	root
 14	lon	ADP	15	case
 15	insa	NOUN	13	nmod
-16	pi	PART	17	sep
+16	pi	PART	17	aux
 17	lupa	NOUN	15	nmod
-18	pi	PART	19	sep
+18	pi	PART	19	aux
 19	sinpin	NOUN	17	nmod
 20	sina	PRON	19	nmod
 21	.	PUNCT	13	punct
@@ -1340,15 +1340,15 @@
 # 116: sitelen tawa li pona la meli mi li kama pana e telo oko .
 1	sitelen	NOUN	4	nsubj
 2	tawa	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	pona	ADJ	10	advcl
-5	la	PART	10	sep
+5	la	PART	10	aux
 6	meli	NOUN	10	nsubj
 7	mi	PRON	6	nmod
-8	li	PART	10	sep
+8	li	PART	10	aux
 9	kama	AUX	10	aux
 10	pana	VERB	0	root
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	telo	NOUN	10	obj
 13	oko	ADJ	12	amod
 14	.	PUNCT	10	punct
@@ -1357,15 +1357,15 @@
 1	sina	PRON	2	nsubj
 2	jan	NOUN	8	advcl
 3	lili	ADJ	2	amod
-4	la	PART	8	sep
+4	la	PART	8	aux
 5	sina	PRON	8	nsubj
 6	ken	AUX	8	aux
 7	ala	ADV	6	neg
 8	kepeken	VERB	0	root
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	ilo	NOUN	8	obj
 11	esun	ADJ	10	amod
-12	pi	PART	13	sep
+12	pi	PART	13	aux
 13	telo	NOUN	10	nmod
 14	nasa	ADJ	13	amod
 15	.	PUNCT	8	punct
@@ -1373,7 +1373,7 @@
 # 118: toki Ikuwi li pona ala sama toki pona .
 1	toki	NOUN	4	nsubj
 2	Ikuwi	ADJ	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	pona	ADJ	0	root
 5	ala	ADV	4	neg
 6	sama	ADP	7	case
@@ -1387,11 +1387,11 @@
 3	meli	ADJ	1	amod
 4	lili	ADJ	1	amod
 5	mi	PRON	1	nmod
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	pana	VERB	0	root
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	kasi	NOUN	7	obj
-10	pi	PART	11	sep
+10	pi	PART	11	aux
 11	suwi	ADJ	9	amod
 12	lukin	ADV	11	advmod
 13	tawa	ADP	14	case
@@ -1402,11 +1402,11 @@
 # correction: kulupu Nintento li sona e nasin pi pali musi .
 1	kulupu	NOUN	4	nsubj
 2	Nintento	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	sona	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	nasin	NOUN	4	obj
-7	pi	PART	8	sep
+7	pi	PART	8	aux
 8	pali	NOUN	6	nmod
 9	musi	ADJ	8	amod
 10	.	PUNCT	4	punct
@@ -1415,11 +1415,11 @@
 1	ma	NOUN	5	nsubj
 2	tomo	ADJ	1	amod
 3	Otawa	PROPN	1	appos
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	ma	NOUN	0	root
 6	tomo	ADJ	5	amod
 7	lawa	ADJ	5	amod
-8	pi	PART	9	sep
+8	pi	PART	9	aux
 9	ma	NOUN	5	nmod
 10	Kanata	PROPN	9	appos
 11	.	PUNCT	5	punct
@@ -1427,16 +1427,16 @@
 # 122: mi wile e ni : jan ali li jo e mani pi mute sama .
 1	mi	PRON	2	nsubj
 2	wile	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	ni	DET	2	obj
 5	:	PUNCT	2	punct
 6	jan	NOUN	9	nsubj
 7	ali	ADJ	6	amod
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	jo	VERB	4	acl
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	mani	NOUN	9	obj
-12	pi	PART	13	sep
+12	pi	PART	13	aux
 13	mute	ADJ	11	amod
 14	sama	ADV	13	advmod
 15	.	PUNCT	2	punct
@@ -1445,16 +1445,16 @@
 # correction: mi sona e ni : ilo unpa sina li lon insa pi supa poki ni .
 1	mi	PRON	2	nsubj
 2	sona	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	ni	DET	2	obj
 5	:	PUNCT	2	punct
 6	ilo	NOUN	11	nsubj
 7	unpa	ADJ	6	amod
 8	sina	PRON	6	nmod
-9	li	PART	11	sep
+9	li	PART	11	aux
 10	lon	ADP	11	case
 11	insa	NOUN	4	acl
-12	pi	PART	13	sep
+12	pi	PART	13	aux
 13	supa	NOUN	11	nmod
 14	poki	ADJ	13	amod
 15	ni	DET	13	det
@@ -1463,7 +1463,7 @@
 # 124: mi telo e ilo ni kepeken telo .
 1	mi	PRON	2	nsubj
 2	telo	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	ilo	NOUN	2	obj
 5	ni	DET	4	det
 6	kepeken	ADP	7	case
@@ -1473,24 +1473,24 @@
 # 125: tenpo ni la mi lukin e lipu Kolan .
 1	tenpo	NOUN	5	advcl
 2	ni	DET	1	det
-3	la	PART	5	sep
+3	la	PART	5	aux
 4	mi	NOUN	5	nsubj
 5	lukin	VERB	0	root
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	lipu	NOUN	5	obj
 8	Kolan	PROPN	7	appos
 9	.	PUNCT	5	punct
 
 # 126: moku pi esun ni li pan linja namako la mi pilin pona .
 1	moku	NOUN	6	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	esun	NOUN	1	nmod
 4	ni	DET	3	det
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	pan	NOUN	11	advcl
 7	linja	ADJ	6	amod
 8	namako	ADJ	6	amod
-9	la	PART	11	sep
+9	la	PART	11	aux
 10	mi	PRON	11	nsubj
 11	pilin	VERB	0	root
 12	pona	ADV	11	advmod
@@ -1498,7 +1498,7 @@
 
 # 127: soweli li lon ma musi soweli .
 1	soweli	NOUN	4	nsubj
-2	li	PART	4	sep
+2	li	PART	4	aux
 3	lon	ADP	4	case
 4	ma	NOUN	0	root
 5	musi	ADJ	4	amod
@@ -1507,16 +1507,16 @@
 
 # 128: jan li kute e kalama mu la ona li utala e akesi kepeken ilo alasa .
 1	jan	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	kute	VERB	10	advcl
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	kalama	NOUN	3	obj
 6	mu	ADJ	5	amod
-7	la	PART	10	sep
+7	la	PART	10	aux
 8	ona	PRON	10	nsubj
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	utala	VERB	0	root
-11	e	PRON	12	sep
+11	e	PRON	12	aux
 12	akesi	NOUN	10	obj
 13	kepeken	ADP	14	case
 14	ilo	NOUN	10	obl
@@ -1525,12 +1525,12 @@
 
 # 129: mama pi toki Epelanto li pona e oko ike .
 1	mama	NOUN	6	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	toki	NOUN	1	nmod
 4	Epelanto	PROPN	3	appos
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	pona	ADJ	0	root
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	oko	NOUN	6	obj
 9	ike	ADJ	8	amod
 10	.	PUNCT	6	punct
@@ -1538,14 +1538,14 @@
 # 130: kiwen li lon insa palisa mije mi la mi pilin ike mute mute .
 # correction: kiwen li lon insa pi palisa mije mi la mi pilin ike mute mute .
 1	kiwen	NOUN	4	nsubj
-2	li	PART	4	sep
+2	li	PART	4	aux
 3	lon	ADP	4	case
 4	insa	NOUN	11	advcl
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	palisa	NOUN	4	nmod
 7	mije	ADJ	6	amod
 8	mi	PRON	6	nmod
-9	la	PART	11	sep
+9	la	PART	11	aux
 10	mi	PRON	11	nsubj
 11	pilin	VERB	0	root
 12	ike	ADV	11	advcl
@@ -1556,7 +1556,7 @@
 # 131: o nanpa e ike sina .
 1	o	AUX	2	aux
 2	nanpa	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	ike	NOUN	2	obj
 5	sina	PRON	4	nmod
 6	.	PUNCT	2	punct
@@ -1568,7 +1568,7 @@
 3	loje	ADJ	1	amod
 4	laso	ADJ	1	amod
 5	ni	DET	1	det
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	pona	ADJ	0	root
 8	lukin	ADV	7	advmod
 9	tawa	ADP	10	case
@@ -1577,11 +1577,11 @@
 
 # 133: ni li lupa pi nasin pi telo jaki .
 1	ni	DET	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	lupa	NOUN	0	root
-4	pi	PART	5	sep
+4	pi	PART	5	aux
 5	nasin	NOUN	3	nmod
-6	pi	PART	7	sep
+6	pi	PART	7	aux
 7	telo	NOUN	5	nmod
 8	jaki	ADJ	7	amod
 9	.	PUNCT	3	punct
@@ -1591,10 +1591,10 @@
 1	pan	NOUN	6	nsubj
 2	pimeja	ADJ	1	amod
 3	lili	ADJ	1	amod
-4	li	PART	6	sep
+4	li	PART	6	aux
 5	lon	ADP	6	case
 6	insa	NOUN	0	root
-7	pi	PART	8	sep
+7	pi	PART	8	aux
 8	moku	NOU	6	nmod
 9	telo	ADJ	8	amod
 10	ni	DET	8	det
@@ -1603,11 +1603,11 @@
 # 135: tenpo pimeja la sina lon tomo pi jan seme ?
 1	tenpo	NOUN	6	advcl
 2	pimeja	ADJ	1	amod
-3	la	PART	6	sep
+3	la	PART	6	aux
 4	sina	PRON	6	nsubj
 5	lon	ADP	6	case
 6	tomo	NOUN	0	root
-7	pi	PART	8	sep
+7	pi	PART	8	aux
 8	jan	NOUN	6	nmod
 9	seme	PRON	8	amod
 10	?	PUNCT	6	punct
@@ -1615,9 +1615,9 @@
 # 136: waso pimeja li alasa e moku tan poki jaki .
 1	waso	NOUN	4	nsubj
 2	pimeja	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	alasa	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	moku	NOUN	4	obj
 7	tan	ADP	8	case
 8	poki	NOUN	4	obl
@@ -1627,7 +1627,7 @@
 # 137: mi pali e nena kepeken lipu en kili lon esun lipu .
 1	mi	PRON	2	nsubj
 2	pali	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	nena	NOUN	2	obj
 5	kepeken	ADP	6	case
 6	lipu	NOUN	2	obl
@@ -1643,13 +1643,13 @@
 2	seli	VERB	10	advcl
 3	pona	ADV	2	advmod
 4	ala	ADV	2	neg
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	moku	NOUN	2	obj
-7	la	PART	10	sep
+7	la	PART	10	aux
 8	moku	NOUN	10	nsubj
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	pakala	VERB	0	root
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	sijelo	NOUN	10	obj
 13	sina	PRON	12	nmod
 14	.	PUNCT	10	punct
@@ -1657,11 +1657,11 @@
 # 139: moli ona li pana e sona tawa jan lili mute .
 1	moli	NOUN	4	nsubj
 2	ona	PRON	1	nmod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	pana	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	sona	NOUN	4	obj
-7	tawa	ADP	8	sep
+7	tawa	ADP	8	aux
 8	jan	NOUN	4	obl
 9	lili	ADJ	8	amod
 10	mute	ADJ	8	amod
@@ -1669,31 +1669,31 @@
 
 # 140: kulupu pi jan sewi Puta li alasa sona lon ma kasi .
 1	kulupu	NOUN	7	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	jan	NOUN	1	nmod
 4	sewi	ADJ	3	amod
 5	Puta	PROPN	3	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	alasa	VERB	0	root
 8	sona	ADV	7	advmod
-9	lon	ADP	10	sep
+9	lon	ADP	10	aux
 10	ma	NOUN	7	obl
 11	kasi	ADJ	10	amod
 12	.	PUNCT	7	punct
 
 # 141: oko pi pipi mute li loje la pipi li kama pakala e mi mute .
 1	oko	NOUN	6	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	pipi	NOUN	1	nmod
 4	mute	ADJ	3	amod
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	loje	ADJ	11	advcl
-7	la	PART	11	sep
+7	la	PART	11	aux
 8	pipi	NOUN	11	nsubj
-9	li	PART	11	sep
+9	li	PART	11	aux
 10	kama	AUX	11	aux
 11	pakala	VERB	0	root
-12	e	PART	13	sep
+12	e	PART	13	aux
 13	mi	PRON	11	obj
 14	mute	ADJ	13	amod
 15	.	PUNCT	11	punct
@@ -1701,7 +1701,7 @@
 # 142: o pana e telo kiwen lete tawa telo kili .
 1	o	AUX	2	aux
 2	pana	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	telo	NOUN	2	obj
 5	kiwen	ADJ	4	amod
 6	lete	ADJ	4	amod
@@ -1713,10 +1713,10 @@
 # 143: sina mute li unpa olin la mi pilin utala .
 1	sina	PRON	4	nsubj
 2	mute	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	unpa	VERB	8	advcl
 5	olin	ADV	4	advmod
-6	la	PART	8	sep
+6	la	PART	8	aux
 7	mi	PRON	8	nsubj
 8	pilin	VERB	0	root
 9	utala	ADV	8	advmod
@@ -1726,13 +1726,13 @@
 # correction: sona ali pi jan ali li lon insa pi ilo sona ni .
 1	sona	NOUN	8	nsubj
 2	ali	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	jan	NOUN	1	nmod
 5	ali	ADJ	4	amod
-6	li	PART	8	sep
+6	li	PART	8	aux
 7	lon	ADP	8	case
 8	insa	NOUN	0	root
-9	pi	PART	10	sep
+9	pi	PART	10	aux
 10	ilo	NOUN	8	nmod
 11	sona	ADJ	10	amod
 12	ni	DET	10	det
@@ -1741,12 +1741,12 @@
 # 145: ilo waso li kon tawa li tawa e ijo esun .
 1	ilo	NOUN	4	nsubj
 2	waso	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	kon	NOUN	0	root
 5	tawa	ADJ	4	amod
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	tawa	VERB	4	conj
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	ijo	NOUN	7	obj
 10	esun	ADJ	9	amod
 11	.	PUNCT	4	punct
@@ -1755,9 +1755,9 @@
 1	kiwen	NOUN	5	nsubj
 2	uta	ADJ	1	amod
 3	mi	PRON	1	nmod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	pakala	ADJ	10	advcl
-6	la	PART	10	sep
+6	la	PART	10	aux
 7	mi	PRON	10	nsubj
 8	ken	AUX	10	aux
 9	ala	ADV	8	neg
@@ -1768,11 +1768,11 @@
 1	mi	PRON	3	nsubj
 2	kama	AUX	3	aux
 3	pini	VERB	0	root
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	nasin	NOUN	3	obj
 6	pali	ADJ	5	amod
 7	ali	ADJ	5	amod
-8	pi	PART	9	sep
+8	pi	PART	9	aux
 9	mije	NOUN	5	nmod
 10	ni	DET	9	det
 11	.	PUNCT	3	punct
@@ -1781,7 +1781,7 @@
 1	o	AUX	2	aux
 2	jo	VERB	0	root
 3	luka	ADV	2	advmod
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	telo	NOUN	2	obj
 6	nasa	ADJ	5	amod
 7	mi	PRON	5	nmod
@@ -1790,13 +1790,13 @@
 # 149: meli li lon luka suli pi jan ilo utala .
 # correction: meli li lon luka suli pi jan pi ilo utala .
 1	meli	NOUN	4	nsubj
-2	li	PART	4	sep
+2	li	PART	4	aux
 3	lon	ADP	4	case
 4	luka	NOUN	0	root
 5	suli	ADJ	4	amod
-6	pi	PART	7	sep
+6	pi	PART	7	aux
 7	jan	NOUN	4	nmod
-8	pi	PART	9	sep
+8	pi	PART	9	aux
 9	ilo	NOUN	7	nmod
 10	utala	ADJ	9	amod
 11	.	PUNCT	4	punct
@@ -1807,14 +1807,14 @@
 3	sona	ADV	2	advmod
 4	tan	ADP	5	case
 5	pu	NOUN	2	obl
-6	la	PART	9	sep
+6	la	PART	9	aux
 7	mi	PRON	9	nsubj
 8	ken	AUX	9	aux
 9	toki	VERB	0	root
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	toki	NOUN	9	obj
 12	pona	ADJ	11	amod
-13	li	PART	14	sep
+13	li	PART	14	aux
 14	pakala	VERB	9	conj
 15	ala	ADV	14	neg
 16	.	PUNCT	9	punct
@@ -1824,22 +1824,22 @@
 1	tenpo	NOUN	8	advcl
 2	suno	ADJ	1	amod
 3	sin	ADJ	1	amod
-4	la	PART	8	sep
+4	la	PART	8	aux
 5	jan	NOUN	8	nsubj
 6	Sansa	PROPN	5	appos
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	pini	VERB	14	advcl
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	lape	NOUN	8	obj
-11	la	PART	14	sep
+11	la	PART	14	aux
 12	ona	PRON	14	nsubj
-13	li	PART	14	sep
+13	li	PART	14	aux
 14	sona	VERB	0	root
-15	e	PART	16	sep
+15	e	PART	16	aux
 16	ni	DET	14	obj
 17	:	PUNCT	14	punct
 18	ona	PRON	21	nsubj
-19	li	PART	21	sep
+19	li	PART	21	aux
 20	kama	AUX	21	aux
 21	pipi	NOUN	16	acl
 22	lon	ADP	23	case
@@ -1851,7 +1851,7 @@
 2	suwi	ADJ	1	amod
 3	laso	ADJ	1	amod
 4	ni	DET	1	det
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	moku	NOUN	0	root
 7	pona	ADJ	6	amod
 8	tawa	ADP	9	case
@@ -1863,9 +1863,9 @@
 1	pipi	NOUN	5	nsubj
 2	linja	ADJ	1	amod
 3	ni	DET	1	det
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	jo	VERB	0	root
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	noka	NOUN	5	obj
 8	mute	ADJ	7	amod
 9	mute	ADJ	7	amod
@@ -1874,12 +1874,12 @@
 # 154: telo laso pi kule len li pana e kon jaki .
 1	telo	NOUN	7	nsubj
 2	laso	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	kule	NOUN	1	nmod
 5	len	ADJ	4	amod
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	pana	VERB	0	root
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	kon	NOUN	7	obj
 10	jaki	ADJ	9	amod
 11	.	PUNCT	7	punct
@@ -1887,13 +1887,13 @@
 # 155: mi moli e ona tan ni : suno li seli mute tawa oko mi .
 1	mi	PRON	2	nsubj
 2	moli	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	ona	PRON	2	obj
 5	tan	ADP	6	case
 6	ni	DET	2	obl
 7	:	PUNCT	2	punct
 8	suno	NOUN	10	nsubj
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	seli	ADJ	6	acl
 11	mute	ADV	10	advmod
 12	tawa	ADP	13	case
@@ -1906,9 +1906,9 @@
 2	musi	ADJ	1	amod
 3	telo	ADJ	1	amod
 4	ni	DET	1	det
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	jo	VERB	0	root
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	nasin	NOUN	6	obj
 9	musi	ADJ	8	amod
 10	telo	ADJ	8	amod
@@ -1917,10 +1917,10 @@
 # 157: sitelen ma pi ma Nijon li walo en loje .
 1	sitelen	NOUN	7	nsubj
 2	ma	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	ma	NOUN	1	nmod
 5	Nijon	PROPN	4	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	walo	ADJ	0	root
 8	en	CCONJ	9	cc
 9	loje	ADJ	7	conj
@@ -1928,10 +1928,10 @@
 
 # 158: ken la moku mi li kama jaki .
 1	ken	NOUN	7	advcl
-2	la	PART	7	sep
+2	la	PART	7	aux
 3	moku	NOUN	7	nsubj
 4	mi	PRON	3	nmod
-5	li	PART	7	sep
+5	li	PART	7	aux
 6	kama	AUX	7	aux
 7	jaki	ADJ	0	root
 8	.	PUNCT	7	punct
@@ -1939,35 +1939,35 @@
 # 159: jan Salon li pali e sike wan li lawa e jan lawa pi jan .
 1	jan	NOUN	4	nsubj
 2	Salon	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	pali	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	sike	NOUN	4	obj
 7	wan	NUM	6	nummod
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	lawa	VERB	4	conj
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	jan	NOUN	9	obj
 12	lawa	ADJ	11	amod
-13	pi	PART	14	sep
+13	pi	PART	14	aux
 14	jan	NOUN	11	nmod
 15	.	PUNCT	4	punct
 
 # 160: soweli mi li wile musi la mi en soweli li tawa ma tomo li musi kepeken sike .
 1	soweli	NOUN	5	nsubj
 2	mi	PRON	1	nmod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	wile	AUX	5	aux
 5	musi	VERB	12	advcl
-6	la	PART	12	sep
+6	la	PART	12	aux
 7	mi	PRON	12	nsubj
 8	en	CCONJ	9	cc
 9	soweli	NOUN	7	conj
-10	li	PART	12	sep
+10	li	PART	12	aux
 11	tawa	ADP	12	case
 12	ma	NOUN	0	root
 13	tomo	ADJ	12	amod
-14	li	PART	15	sep
+14	li	PART	15	aux
 15	musi	VERB	12	conj
 16	kepeken	ADP	17	case
 17	sike	NOUN	15	obl
@@ -1978,13 +1978,13 @@
 1	mi	PRON	2	nsubj
 2	alasa	VERB	8	advcl
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	mani	NOUN	2	obj
-6	la	PART	8	sep
+6	la	PART	8	aux
 7	mi	PRON	8	nsubj
 8	jo	VERB	0	root
 9	ala	ADV	8	neg
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	mani	NOUN	8	obj
 12	mute	ADJ	11	amod
 13	.	PUNCT	8	punct
@@ -1992,11 +1992,11 @@
 # 162: tenpo pini la mi toki ala e ni : mi jan Lusipe .
 1	tenpo	NOUN	5	advcl
 2	pini	ADJ	1	amod
-3	la	PART	5	sep
+3	la	PART	5	aux
 4	mi	PRON	5	nsubj
 5	toki	VERB	0	root
 6	ala	ADP	5	neg
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	ni	DET	5	obj
 9	:	PUNCT	5	punct
 10	mi	PRON	11	nsubj
@@ -2007,13 +2007,13 @@
 # 163: nena Pusi li nena suli pi nanpa wan pi ma Nijon .
 1	nena	NOUN	4	nsubj
 2	Pusi	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	nena	NOUN	0	root
 5	suli	ADJ	4	amod
-6	pi	PART	7	sep
+6	pi	PART	7	aux
 7	nanpa	NOUN	4	nmod
 8	wan	NUM	7	nummod
-9	pi	PART	10	sep
+9	pi	PART	10	aux
 10	ma	NOUN	7	nmod
 11	Nijon	PROPN	10	appos
 12	.	PUNCT	4	punct
@@ -2022,17 +2022,17 @@
 1	ilo	NOUN	5	nsubj
 2	tenpo	ADJ	1	amod
 3	mi	PRON	1	nmod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	tawa	VERB	9	advcl
 6	ala	ADV	5	neg
-7	la	PART	9	sepe
+7	la	PART	9	aux
 8	mi	PRON	9	nsubj
 9	tawa	VERB	0	root
-10	e	PART	11	sep
+10	e	PART	11	aux
 11	esun	NOUN	9	obj
-12	li	PART	13	sep
+12	li	PART	13	aux
 13	esun	VERB	9	conj
-14	e	PART	15	sep
+14	e	PART	15	aux
 15	ilo	NOUN	13	obj
 16	sin	ADJ	15	amod
 17	.	PUNCT	9	punct
@@ -2047,7 +2047,7 @@
 1	ma	NOUN	5	nsubj
 2	tomo	ADJ	1	amod
 3	Pali	PROPN	1	appos
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	seli	ADJ	0	root
 6	ala	ADV	5	neg
 7	seli	ADJ	5	conj
@@ -2056,7 +2056,7 @@
 # 167: toki Linepane li kalama sama toki Losi .
 1	toki	NOUN	4	nsubj
 2	Linepane	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	kalama	ADJ	0	root
 5	sama	ADP	6	case
 6	toki	NOUN	4	obl
@@ -2066,12 +2066,12 @@
 # 168: tenpo sama la mi mute li toki e toki sama .
 1	tenpo	NOUN	7	advcl
 2	sama	ADJ	1	amod
-3	la	PART	7	sep
+3	la	PART	7	aux
 4	mi	PRON	7	nsubj
 5	mute	ADJ	4	amod
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	toki	VERB	0	root
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	toki	NOUN	7	obj
 10	sama	ADJ	9	amod
 11	.	PUNCT	7	punct
@@ -2080,19 +2080,19 @@
 1	tenpo	NOUN	8	advcl
 2	suno	ADJ	1	amod
 3	ali	ADJ	1	amod
-4	la	PART	8	sep
+4	la	PART	8	aux
 5	jan	NOUN	8	nsubj
 6	Jusi	PROPN	5	appos
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	pali	VERB	0	root
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	sitelen	NOUN	8	obj
 11	.	PUNCT	8	punct
 
 # 170: o open e oko tu .
 1	o	AUX	2	aux
 2	open	VERB	0	root
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	oko	NOUN	2	obj
 5	tu	NUM	4	nummod
 6	.	PUNCT	2	punct
@@ -2100,11 +2100,11 @@
 # 171: insa ike li alasa e kute pi jan Powisi .
 1	insa	NOUN	4	nsubj
 2	ike	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	alasa	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	kute	NOUN	4	obj
-7	pi	PART	8	sep
+7	pi	PART	8	aux
 8	jan	NOUN	6	nmod
 9	Powisi	PROPN	8	appos
 10	.	PUNCT	4	punct
@@ -2114,7 +2114,7 @@
 2	tawa	ADJ	1	amod
 3	kon	ADJ	1	amod
 4	ni	DET	1	det
-5	li	PART	7	sep
+5	li	PART	7	aux
 6	pi	PART	7	aux
 7	meli	NOUN	0	root
 8	mute	ADJ	7	amod
@@ -2124,21 +2124,21 @@
 # 173: tenpo suno pi nanpa tu wan li kama la mun monsuta li tawa anpa li pakala e ma ali .
 1	tenpo	NOUN	8	nsubj
 2	suno	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	nanpa	NOUN	1	nmod
 5	tu	NUM	4	nummod
 6	wan	NUM	5	flat
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	kama	VERB	14	advcl
-9	la	PART	14	sep
+9	la	PART	14	aux
 10	mun	NOUN	14	nsubj
 11	monsuta	ADJ	10	amod
-12	li	PART	14	sep
+12	li	PART	14	aux
 13	tawa	ADP	14	case
 14	anpa	NOUN	0	root
-15	li	PART	16	sep
+15	li	PART	16	aux
 16	pakala	VERB	14	conj
-17	e	PART	18	sep
+17	e	PART	18	aux
 18	ma	NOUN	16	obj
 19	ali	ADJ	18	amod
 20	.	PUNCT	14	punct
@@ -2146,17 +2146,17 @@
 # 174: jan mute li toki e ni : tenpo pimeja la jan kon li lon tomo sewi ni .
 1	jan	NOUN	4	nsubj
 2	mute	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	toki	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	ni	DET	4	obj
 7	:	PUNCT	4	punct
 8	tenpo	NOUN	15	advcl
 9	pimeja	ADJ	8	amod
-10	la	PART	15	sep
+10	la	PART	15	aux
 11	jan	NOUN	15	nsubj
 12	kon	ADJ	11	amod
-13	li	PART	15	sep
+13	li	PART	15	aux
 14	lon	ADP	15	case
 15	tomo	NOUN	6	acl
 16	sewi	ADJ	15	amod
@@ -2165,9 +2165,9 @@
 
 # 175: ona li pali e telo nasa kepeken ko suwi pipi .
 1	ona	PRON	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	pali	VERB	0	root
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	telo	NOUN	3	obj
 6	nasa	ADJ	5	amod
 7	kepeken	ADP	8	case
@@ -2178,12 +2178,12 @@
 
 # 176: kulupu pi kalama musi nasa jelo li tan ma Nijon .
 1	kulupu	NOUN	9	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	kalama	NOUN	1	nmod
 4	musi	ADJ	3	amod
 5	nasa	ADJ	3	amod
 6	jelo	ADJ	3	amod
-7	li	PART	9	sep
+7	li	PART	9	aux
 8	tan	ADP	9	case
 9	ma	NOUN	0	root
 10	Nijon	PROPN	9	appos
@@ -2192,12 +2192,12 @@
 # 177: jan Tolimija li jo e waso laso e waso jelo .
 1	jan	NOUN	4	nsubj
 2	Tolimija	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	jo	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	waso	NOUN	4	obj
 7	laso	ADJ	6	amod
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	waso	NOUN	4	obj
 10	jelo	ADJ	9	amod
 11	.	PUNCT	4	punct
@@ -2207,7 +2207,7 @@
 2	walo	ADJ	1	amod
 3	lili	ADJ	1	amod
 4	ni	DET	1	det
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	lukin	ADJ	0	root
 7	sama	ADP	8	case
 8	ko	NOUN	6	obl
@@ -2217,10 +2217,10 @@
 # 179: pan kule pi ma Mewika li lukin nasa .
 1	pan	NOUN	7	nsubj
 2	kule	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	ma	NOUN	1	nmod
 5	Mewika	PROPN	4	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	lukin	ADJ	0	root
 8	nasa	ADV	7	advmod
 9	.	PUNCT	7	punct
@@ -2229,11 +2229,11 @@
 1	mi	PRON	2	nsubj
 2	pali	VERB	6	advcl
 3	mute	ADV	2	advmod
-4	la	PART	6	sep
+4	la	PART	6	aux
 5	mi	PRON	6	nsubj
 6	jo	VERB	0	root
 7	ala	ADV	6	neg
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	wawa	NOUN	6	obj
 10	.	PUNCT	6	punct
 
@@ -2242,9 +2242,9 @@
 2	mije	ADJ	1	amod
 3	suli	ADJ	1	amod
 4	mi	PRON	1	nmod
-5	li	PART	6	sep
+5	li	PART	6	aux
 6	jo	VERB	0	root
-7	e	PART	8	sep
+7	e	PART	8	aux
 8	ilo	NOUN	6	obj
 9	sona	ADJ	8	amod
 10	kalama	ADJ	8	amod
@@ -2255,12 +2255,12 @@
 1	jan	NOUN	8	nsubj
 2	lili	ADJ	1	amod
 3	mije	ADJ	1	amod
-4	pi	PART	5	sep
+4	pi	PART	5	aux
 5	jan	NOUN	1	nmod
 6	Toko	PROPN	5	appos
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	pali	VERB	0	root
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	toki	NOUN	8	obj
 11	Pomi	PROPN	10	appos
 12	.	PUNCT	8	punct
@@ -2268,10 +2268,10 @@
 # 183: sitelen toki pi toki Sinala li lukin pona tawa mi .
 1	sitelen	NOUN	7	nsubj
 2	toki	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	toki	NOUN	1	nmod
 5	Sinala	PROPN	4	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	lukin	ADJ	0	root
 8	pona	ADV	7	advmod
 9	tawa	ADP	10	case
@@ -2281,15 +2281,15 @@
 # 184: jan Kelisi li utala e jan lawa ike li pali e ma Sinkon .
 1	jan	NOUN	4	nsubj
 2	Kelisi	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	utala	VERB	0	root
-5	e	PART	6	sep
+5	e	PART	6	aux
 6	jan	NOUN	4	obj
 7	lawa	ADJ	6	amod
 8	ike	ADJ	6	amod
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	pali	VERB	4	conj
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	ma	NOUN	10	obj
 13	Sinkon	PROPN	12	appos
 14	.	PUNCT	4	punct
@@ -2297,11 +2297,11 @@
 # 185: jan ala li tawa pali kulupu pi jan Samu lon esun suli Ijon .
 1	jan	NOUN	5	nsubj
 2	ala	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	tawa	ADP	5	case
 5	pali	NOUN	0	root
 6	kulupu	ADJ	5	amod
-7	pi	PART	8	sep
+7	pi	PART	8	aux
 8	jan	NOUN	5	nmod
 9	Samu	PROPN	8	appos
 10	lon	ADP	11	case
@@ -2313,7 +2313,7 @@
 # 186: jan pali pi ma ali o kute .
 1	jan	NOUN	7	nsubj
 2	pali	ADJ	1	amod
-3	pi	PART	4	sep
+3	pi	PART	4	aux
 4	ma	NOUN	1	nmod
 5	ali	ADJ	4	amod
 6	o	AUX	7	aux
@@ -2324,12 +2324,12 @@
 1	sina	PRON	3	nsubj
 2	ken	AUX	3	aux
 3	moli	VERB	11	advcl
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	mi	PRON	3	obj
-6	la	PART	11	sep
+6	la	PART	11	aux
 7	kiwen	NOUN	11	nsubj
 8	ni	DET	7	det
-9	li	PART	11	sep
+9	li	PART	11	aux
 10	pi	PART	11	aux
 11	sina	PRON	0	root
 12	.	PUNCT	11	punct
@@ -2338,7 +2338,7 @@
 # correction: jan mute li tawa ma ante tan ni : ona li wile jo e pali pona .
 1	jan	NONU	5	nsubj
 2	mute	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	tawa	ADP	5	case
 5	ma	NOUN	0	root
 6	ante	ADJ	5	amod
@@ -2346,10 +2346,10 @@
 8	ni	DET	5	obl
 9	:	PUNCT	5	punct
 10	ona	PRON	15	nsubj
-11	li	PART	15	sep
+11	li	PART	15	aux
 12	wile	AUX	15	aux
 13	jo	VERB	8	acl
-14	e	PART	15	sep
+14	e	PART	15	aux
 15	pali	NOUN	13	obj
 16	pona	ADJ	15	amod
 17	.	PUNCT	5	punct
@@ -2358,20 +2358,20 @@
 1	jan	NOUN	5	nsubj
 2	utala	ADJ	1	amod
 3	lawa	ADJ	1	amod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	toki	VERB	0	root
-6	e	PART	7	sep
+6	e	PART	7	aux
 7	ni	DET	5	obj
 8	:	PUNCT	5	punct
 9	waso	NOUN	12	nsubj
 10	Pototokisu	PROPN	9	appos
-11	li	PART	12	sep
+11	li	PART	12	aux
 12	mu	VERB	16	advcl
 13	ala	ADV	12	neg
-14	la	PART	16	sep
+14	la	PART	16	aux
 15	o	AUX	16	aux
 16	moli	VERB	7	acl
-17	e	PART	18	sep
+17	e	PART	18	aux
 18	ona	PRON	16	obj
 19	.	PUNCT	5	punct
 
@@ -2379,7 +2379,7 @@
 1	taso	CCONJ	5	conj
 2	olin	NOUN	5	nsubj
 3	unpa	ADJ	2	amod
-4	li	PART	5	sep
+4	li	PART	5	aux
 5	olin	NOUN	0	root
 6	pona	ADJ	5	amod
 7	ala	ADJ	5	amod
@@ -2388,11 +2388,11 @@
 # 191: nena meli li suli la ona li pona ala tawa mi .
 1	nena	NOUN	4	nsubj
 2	meli	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	suli	ADJ	8	advcl
-5	la	PART	8	sep
+5	la	PART	8	aux
 6	ona	PRON	8	nsubj
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	pona	ADJ	0	root
 9	ala	ADV	8	amod
 10	tawa	ADP	11	case
@@ -2402,12 +2402,12 @@
 # 192: tenpo pini la ma Loma li lawa e telo suli Mesitewane .
 1	tenpo	NOUN	7	advcl
 2	pini	ADJ	1	amod
-3	la	PART	7	sep
+3	la	PART	7	aux
 4	ma	NOUN	7	nsubj
 5	Loma	PROPN	4	appos
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	lawa	VERB	0	root
-8	e	PART	9	sep
+8	e	PART	9	aux
 9	telo	NOUN	7	obj
 10	suli	ADJ	9	amod
 11	Mesitewane	PROPN	9	appos
@@ -2417,14 +2417,14 @@
 # correction: jan sama li awen moku lon sinpin pi ilo pi sitelen tawa lon tenpo pimeja .
 1	jan	NOUN	5	nsubj
 2	sama	ADJ	1	amod
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	awen	AUX	5	aux
 5	moku	VERB	0	root
 6	lon	ADP	7	case
 7	sinpin	NOUN	5	obl
-8	pi	PART	9	sep
+8	pi	PART	9	aux
 9	ilo	NOUN	7	nmod
-10	pi	PART	11	sep
+10	pi	PART	11	aux
 11	sitelen	NOUN	9	nmod
 12	tawa	ADJ	11	amod
 13	lon	ADP	14	case
@@ -2436,21 +2436,21 @@
 # correction: jan Kesali li tawa telo linja Lupikon la ona li toki e ni : kiwen nanpa li weka tan luka .
 1	jan	NOUN	5	nsubj
 2	Kesali	PROPN	1	appos
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	tawa	ADP	5	case
 5	telo	NOUN	11	advcl
 6	linja	ADJ	5	amod
 7	Lupikon	PROPN	5	appos
-8	la	PART	11	sep
+8	la	PART	11	aux
 9	ona	PRON	11	nsubj
-10	li	PART	11	sep
+10	li	PART	11	aux
 11	toki	VERB	0	root
-12	e	PART	13	sep
+12	e	PART	13	aux
 13	ni	DET	11	obj
 14	:	PUNCT	11	punct
 15	kiwen	NOUN	18	nsubj
 16	nanpa	ADJ	15	amod
-17	li	PART	18	sep
+17	li	PART	18	aux
 18	weka	ADJ	11	acl
 19	tan	ADP	20	case
 20	luka	NOUN	18	obl
@@ -2459,15 +2459,15 @@
 # 195: mi alasa e toki olin tan ma ali la ni li mute ala tawa wile mi tawa sina .
 1	mi	PRON	2	nsubj
 2	alasa	VERB	12	advcl
-3	e	PART	4	sep
+3	e	PART	4	aux
 4	toki	NOUN	2	obj
 5	olin	ADJ	4	amod
 6	tan	ADP	7	case
 7	ma	NOUN	2	obl
 8	ali	ADJ	7	amod
-9	la	PART	12	sep
+9	la	PART	12	aux
 10	ni	DET	12	nsubj
-11	li	PART	12	sep
+11	li	PART	12	aux
 12	mute	ADJ	0	root
 13	ala	ADV	12	amod
 14	tawa	ADP	15	case
@@ -2480,15 +2480,15 @@
 # 196: tenpo pini la ma Mewika en ma Sowe li tu e ma Soson .
 1	tenpo	NOUN	10	advcl
 2	pini	ADJ	1	amod
-3	la	PART	10	sep
+3	la	PART	10	aux
 4	ma	NOUN	10	nsubj
 5	Mewika	PROPN	4	appos
 6	en	CCONJ	7	cc
 7	ma	NOUN	4	conj
 8	Sowe	PROPN	7	appos
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	tu	VERB	0	root
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	ma	NOUN	10	obj
 13	Soson	PROPN	12	appos
 14	.	PUNCT	10	punct
@@ -2496,47 +2496,47 @@
 # 197: jan Pota li wile pi kulupu Kipinto , li wile ala pi kulupu Sisalin .
 1	jan	NOUN	4	nsubj
 2	Pota	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	wile	VERB	0	root
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	kulupu	NOUN	4	advmod
 7	Kipinto	PROPN	6	appos
 8	,	PUNCT	10	punct
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	wile	VERB	4	conj
 11	ala	ADV	10	neg
-12	pi	PART	13	sep
+12	pi	PART	13	aux
 13	kulupu	NOUN	10	advmod
 14	Sisalin	PROPN	13	appos
 15	.	PUNCT	10	punct
 
 # 198: kiwen pi mun kili li sama kili palisa li jo e wawa suli li ken lon e wile pi jan ali .
 1	kiwen	NOUN	7	nsubj
-2	pi	PART	3	sep
+2	pi	PART	3	aux
 3	mun	NOUN	1	nmod
 4	kili	ADJ	3	amod
-5	li	PART	7	sep
+5	li	PART	7	aux
 6	sama	ADP	7	case
 7	kili	NOUN	0	root
 8	palisa	ADJ	7	amod
-9	li	PART	10	sep
+9	li	PART	10	aux
 10	jo	VERB	7	conj
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	wawa	NOUN	10	obj
 13	suli	ADJ	12	amod
-14	li	PART	16	sep
+14	li	PART	16	aux
 15	ken	AUX	16	aux
 16	lon	VERB	7	conj
-17	e	PART	18	sep
+17	e	PART	18	aux
 18	wile	NOUN	16	obj
-19	pi	PART	20	sep
+19	pi	PART	20	aux
 20	jan	NOUN	18	nmod
 21	ali	ADJ	20	amod
 22	.	PUNCT	7	punct
 
 # 199: mun li jan lawa meli ike .
 1	mun	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	jan	NOUN	0	root
 4	lawa	ADJ	3	amod
 5	meli	ADJ	3	amod
@@ -2547,21 +2547,21 @@
 # correction: kalama suli li ike tawa kute mi la mi len e palisa sike lili lon insa pi kute mi .
 1	kalama	NOUN	4	nsubj
 2	suli	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	ike	ADJ	10	advcl
 5	tawa	ADP	6	case
 6	kute	NOUN	4	obl
 7	mi	PRON	6	nmod
-8	la	PART	10	sep
+8	la	PART	10	aux
 9	mi	PRON	10	nsubj
 10	len	VERB	0	root
-11	e	PART	12	sep
+11	e	PART	12	aux
 12	palisa	NOUN	10	obj
 13	sike	ADJ	12	amod
 14	lili	ADJ	12	amod
 15	lon	ADP	16	case
 16	insa	NOUN	10	obl
-17	pi	PART	18	sep
+17	pi	PART	18	aux
 18	kute	NOUN	16	nmod
 19	mi	PRON	18	nmod
 20	.	PUNCT	10	punct
@@ -3307,7 +3307,7 @@
 5	poka	NOUN	3	nmod
 6	tomo	NOUN	5	nmod
 7	mi	PRON	5	nmod
-8	li	PART	9	sep
+8	li	PART	9	aux
 9	jan	NOUN	0	root
 10	seme	PRON	9	amod
 11	?	PUNCT	9	punct
@@ -3326,9 +3326,9 @@
 # 255: moli taso li pini pi ali .
 1	moli	NOUN	4	nsubj
 2	taso	ADJ	1	amod
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	pini	NOUN	0	root
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	ali	NOUN	4	nmod
 7	.	PUNCT	4	punct
 
@@ -3354,7 +3354,7 @@
 8	mute	ADJ	0	x
 9	li	PART	0	x
 10	pali	VERB	0	x
-11	e	SEP	0	x
+11	e	PART	0	x
 12	tomo	NOUN	0	x
 13	anpa	ADJ	0	x
 14	.	PUNCT	0	x
@@ -3868,16 +3868,16 @@
 1	mi	PRON	2	nsubj
 2	sona	VERB	8	advcl
 3	ala	ADV	2	neg
-4	e	PART	5	sep
+4	e	PART	5	aux
 5	kijetesantakalu	NOUN	2	obj
-6	la	PART	8	sep
+6	la	PART	8	aux
 7	mi	PRON	8	nsubj
 8	toki	VERB	0	root
-9	e	PART	10	sep
+9	e	PART	10	aux
 10	ni	DET	8	obj
 11	:	PUNCT	8	punct
 12	kijetesantakalu	NOUN	14	nsubj
-13	li	PART	14	sep
+13	li	PART	14	aux
 14	seme	PRON	10	acl
 15	?	PUNCT	8	punct
 
@@ -3942,11 +3942,11 @@
 
 # 296: kijetesantakalu li soweli la ona li mu .
 1	kijetesantakalu	NOUN	3	nsubj
-2	li	PART	3	sep
+2	li	PART	3	aux
 3	soweli	NOUN	7	advcl
-4	la	PART	7	sep
+4	la	PART	7	aux
 5	ona	PRON	7	nsubj
-6	li	PART	7	sep
+6	li	PART	7	aux
 7	mu	VERB	0	root
 8	.	PUNCT	7	punct
 
@@ -4341,11 +4341,11 @@
 # 324: kasi Mantake li sama jan lukin li kalama suli lon tenpo moli .
 1	kasi	NOUN	5	nsubj
 2	Mantake	PROPN	1	appos
-3	li	PART	5	sep
+3	li	PART	5	aux
 4	sama	ADP	5	case
 5	jan	NOUN	0	root
 6	lukin	ADV	5	advmod
-7	li	PART	8	sep
+7	li	PART	8	aux
 8	kalama	VERB	5	conj
 9	suli	ADV	8	advmod
 10	lon	ADP	11	case
@@ -5663,9 +5663,9 @@
 # 422: nimi Lanwapukuwinkikokelakuwantopulansilijokokoko li nimi pi ma tomo lili lon ma Juke .
 1	nimi	NOUN	4	nsubj
 2	Lanwapukuwinkikokelakuwantopulansilijokokoko	PROPN	1	appos
-3	li	PART	4	sep
+3	li	PART	4	aux
 4	nimi	NOUN	0	root
-5	pi	PART	6	sep
+5	pi	PART	6	aux
 6	ma	NOUN	4	nmod
 7	tomo	ADJ	6	amod
 8	lili	ADJ	6	amod
@@ -5796,432 +5796,435 @@
 9	.	PUNCT	0	x
 
 # 431: oko mi li pakala la mi ken ala lukin .
-1	oko	X	0	x
-2	mi	X	0	x
-3	li	X	0	x
-4	pakala	X	0	x
-5	la	X	0	x
-6	mi	X	0	x
-7	ken	X	0	x
-8	ala	X	0	x
-9	lukin	X	0	x
-10	.	X	0	x
+1	oko	NOUN	0	x
+2	mi	PRON	0	x
+3	li	PART	0	x
+4	pakala	ADJ	0	x
+5	la	PART	0	x
+6	mi	PRON	0	x
+7	ken	AUX	0	x
+8	ala	ADV	0	x
+9	lukin	VERB	0	x
+10	.	PUNCT	0	x
 
 # 432: moku pi poki seli li pona tawa jan mute tan ma Mansu .
-1	moku	X	0	x
-2	pi	X	0	x
-3	poki	X	0	x
-4	seli	X	0	x
-5	li	X	0	x
-6	pona	X	0	x
-7	tawa	X	0	x
-8	jan	X	0	x
-9	mute	X	0	x
-10	tan	X	0	x
-11	ma	X	0	x
-12	Mansu	X	0	x
-13	.	X	0	x
+1	moku	NOUN	0	x
+2	pi	PART	0	x
+3	poki	NOUN	0	x
+4	seli	ADJ	0	x
+5	li	pART	0	x
+6	pona	ADJ	0	x
+7	tawa	ADP	0	x
+8	jan	NOUN	0	x
+9	mute	ADJ	0	x
+10	tan	ADP	0	x
+11	ma	NOUN	0	x
+12	Mansu	PROPN	0	x
+13	.	PUNCT	0	x
 
 # 433: sona soweli li suli la ona li tawa sewi li kama jan sewi .
-1	sona	X	0	x
-2	soweli	X	0	x
-3	li	X	0	x
-4	suli	X	0	x
-5	la	X	0	x
-6	ona	X	0	x
-7	li	X	0	x
-8	tawa	X	0	x
-9	sewi	X	0	x
-10	li	X	0	x
-11	kama	X	0	x
-12	jan	X	0	x
-13	sewi	X	0	x
-14	.	X	0	x
+1	sona	NOUN	0	x
+2	soweli	NOUN	0	x
+3	li	PART	0	x
+4	suli	ADJ	0	x
+5	la	PART	0	x
+6	ona	PRON	0	x
+7	li	PART	0	x
+8	tawa	ADP	0	x
+9	sewi	NOUN	0	x
+10	li	PART	0	x
+11	kama	AUX	0	x
+12	jan	NOUN	0	x
+13	sewi	ADJ	0	x
+14	.	PUNCT	0	x
 
 # 434: ali li sona ala e ni : jan Siki li sama jan Kawi .
-1	ali	X	0	x
-2	li	X	0	x
-3	sona	X	0	x
-4	ala	X	0	x
-5	e	X	0	x
-6	ni	X	0	x
-7	:	X	0	x
-8	jan	X	0	x
-9	Siki	X	0	x
-10	li	X	0	x
-11	sama	X	0	x
-12	jan	X	0	x
-13	Kawi	X	0	x
-14	.	X	0	x
+1	ali	NOUN	0	x
+2	li	PART	0	x
+3	sona	VERB	0	x
+4	ala	ADV	0	x
+5	e	PART	0	x
+6	ni	DET	0	x
+7	:	PUNCT	0	x
+8	jan	NOUN	0	x
+9	Siki	PROPN	0	x
+10	li	PART	0	x
+11	sama	ADP	0	x
+12	jan	NOUN	0	x
+13	Kawi	PROPN	0	x
+14	.	PUNCT	0	x
 
-# 435: <unk> li pona lukin anu seme ?
-1	<unk>	X	0	x
-2	li	X	0	x
-3	pona	X	0	x
-4	lukin	X	0	x
-5	anu	X	0	x
-6	seme	X	0	x
-7	?	X	0	x
+# 435: kijetesantakalu li pona lukin anu seme ?
+1	kijetesantakalu	NOUN	0	x
+2	li	PART	0	x
+3	pona	ADJ	0	x
+4	lukin	ADV	0	x
+5	anu	CONJ	0	x
+6	seme	PRON	0	x
+7	?	PUNCT	0	x
 
 # 436: toki Epelanto li jo e pini nimi la sina sona e kulupu nimi kepeken ona .
-1	toki	X	0	x
-2	Epelanto	X	0	x
-3	li	X	0	x
-4	jo	X	0	x
-5	e	X	0	x
-6	pini	X	0	x
-7	nimi	X	0	x
-8	la	X	0	x
-9	sina	X	0	x
-10	sona	X	0	x
-11	e	X	0	x
-12	kulupu	X	0	x
-13	nimi	X	0	x
-14	kepeken	X	0	x
-15	ona	X	0	x
-16	.	X	0	x
+1	toki	NOUN	0	x
+2	Epelanto	PROPN	0	x
+3	li	PART	0	x
+4	jo	VERB	0	x
+5	e	PART	0	x
+6	pini	NOUN	0	x
+7	nimi	ADJ	0	x
+8	la	PART	0	x
+9	sina	PRON	0	x
+10	sona	VERB	0	x
+11	e	PART	0	x
+12	kulupu	NOUN	0	x
+13	nimi	ADJ	0	x
+14	kepeken	ADP	0	x
+15	ona	PRON	0	x
+16	.	PUNCT	0	x
 
 # 437: ilo jan ni li ken tawa kon .
-1	ilo	X	0	x
-2	jan	X	0	x
-3	ni	X	0	x
-4	li	X	0	x
-5	ken	X	0	x
-6	tawa	X	0	x
-7	kon	X	0	x
-8	.	X	0	x
+1	ilo	NOUN	0	x
+2	jan	ADJ	0	x
+3	ni	DET	0	x
+4	li	PART	0	x
+5	ken	AUX	0	x
+6	tawa	ADP	0	x
+7	kon	NOUN	0	x
+8	.	PUNCT	0	x
 
 # 438: o open ala e lipu loje ni .
-1	o	X	0	x
-2	open	X	0	x
-3	ala	X	0	x
-4	e	X	0	x
-5	lipu	X	0	x
-6	loje	X	0	x
-7	ni	X	0	x
-8	.	X	0	x
+1	o	AUX	0	x
+2	open	VERB	0	x
+3	ala	ADV	0	x
+4	e	PART	0	x
+5	lipu	NOUN	0	x
+6	loje	ADJ	0	x
+7	ni	DET	0	x
+8	.	PUNCT	0	x
 
 # 439: wawa sona li suli li pini e utala lon insa pilin sina .
-1	wawa	X	0	x
-2	sona	X	0	x
-3	li	X	0	x
-4	suli	X	0	x
-5	li	X	0	x
-6	pini	X	0	x
-7	e	X	0	x
-8	utala	X	0	x
-9	lon	X	0	x
-10	insa	X	0	x
-11	pilin	X	0	x
-12	sina	X	0	x
-13	.	X	0	x
+1	wawa	NOUN	0	x
+2	sona	ADJ	0	x
+3	li	PART	0	x
+4	suli	ADJ	0	x
+5	li	PART	0	x
+6	pini	VERB	0	x
+7	e	PART	0	x
+8	utala	NOUN	0	x
+9	lon	ADP	0	x
+10	insa	NOUN	0	x
+11	pilin	NOUN	0	x
+12	sina	PRON	0	x
+13	.	PUNCT	0	x
 
 # 440: ilo sona ni li lili la mi ken tawa e ni tawa ma ali .
-1	ilo	X	0	x
-2	sona	X	0	x
-3	ni	X	0	x
-4	li	X	0	x
-5	lili	X	0	x
-6	la	X	0	x
-7	mi	X	0	x
-8	ken	X	0	x
-9	tawa	X	0	x
-10	e	X	0	x
-11	ni	X	0	x
-12	tawa	X	0	x
-13	ma	X	0	x
-14	ali	X	0	x
-15	.	X	0	x
+1	ilo	NOUN	0	x
+2	sona	ADJ	0	x
+3	ni	DET	0	x
+4	li	PART	0	x
+5	lili	ADJ	0	x
+6	la	PART	0	x
+7	mi	PRON	0	x
+8	ken	AUX	0	x
+9	tawa	VERB	0	x
+10	e	PART	0	x
+11	ni	DET	0	x
+12	tawa	ADP	0	x
+13	ma	NOUN	0	x
+14	ali	ADJ	0	x
+15	.	PUNCT	0	x
 
-# 441: ilo ni li pana e kon telo lon insa tomo la kon lon tomo li kama lete
-1	ilo	X	0	x
-2	ni	X	0	x
-3	li	X	0	x
-4	pana	X	0	x
-5	e	X	0	x
-6	kon	X	0	x
-7	telo	X	0	x
-8	lon	X	0	x
-9	insa	X	0	x
-10	tomo	X	0	x
-11	la	X	0	x
-12	kon	X	0	x
-13	lon	X	0	x
-14	tomo	X	0	x
-15	li	X	0	x
-16	kama	X	0	x
-17	lete	X	0	x
+# 441: ilo ni li pana e kon telo lon insa tomo la kon lon tomo li kama lete ala .
+1	ilo	NOUN	0	x
+2	ni	DET	0	x
+3	li	PART	0	x
+4	pana	VERB	0	x
+5	e	PART	0	x
+6	kon	NOUN	0	x
+7	telo	ADJ	0	x
+8	lon	ADP	0	x
+9	insa	NOUN	0	x
+10	tomo	NOUN	0	x
+11	la	PART	0	x
+12	kon	NOUN	0	x
+13	lon	ADP	0	x
+14	tomo	NOUN	0	x
+15	li	PART	0	x
+16	kama	AUX	0	x
+17	lete	ADJ	0	x
+18	ala	ADV	0	0
+19	.	PUNCT	0	0
 
 # 442: mije ni li pilin e ni : mi jan Olosimalu li pali e moku .
-1	mije	X	0	x
-2	ni	X	0	x
-3	li	X	0	x
-4	pilin	X	0	x
-5	e	X	0	x
-6	ni	X	0	x
-7	:	X	0	x
-8	mi	X	0	x
-9	jan	X	0	x
-10	Olosimalu	X	0	x
-11	li	X	0	x
-12	pali	X	0	x
-13	e	X	0	x
-14	moku	X	0	x
-15	.	X	0	x
+1	mije	NOUN	0	x
+2	ni	DET	0	x
+3	li	PART	0	x
+4	pilin	VERB	0	x
+5	e	PART	0	x
+6	ni	DET	0	x
+7	:	PUNCT	0	x
+8	mi	PRON	0	x
+9	jan	NOUN	0	x
+10	Olosimalu	PROPN	0	x
+11	li	PART	0	x
+12	pali	VERB	0	x
+13	e	PART	0	x
+14	moku	NOUN	0	x
+15	.	PUNCT	0	x
 
 # 443: telo moku pimeja li suwi li jo e kon lon insa ona .
-1	telo	X	0	x
-2	moku	X	0	x
-3	pimeja	X	0	x
-4	li	X	0	x
-5	suwi	X	0	x
-6	li	X	0	x
-7	jo	X	0	x
-8	e	X	0	x
-9	kon	X	0	x
-10	lon	X	0	x
-11	insa	X	0	x
-12	ona	X	0	x
-13	.	X	0	x
+1	telo	NOUN	0	x
+2	moku	ADJ	0	x
+3	pimeja	ADJ	0	x
+4	li	PART	0	x
+5	suwi	ADJ	0	x
+6	li	PART	0	x
+7	jo	VERB	0	x
+8	e	PART	0	x
+9	kon	NOUN	0	x
+10	lon	ADP	0	x
+11	insa	NOUN	0	x
+12	ona	PRON	0	x
+13	.	PUNCT	0	x
 
 # 444: ilo musi ni li suli mute li luka mi li lili tawa ona .
-1	ilo	X	0	x
-2	musi	X	0	x
-3	ni	X	0	x
-4	li	X	0	x
-5	suli	X	0	x
-6	mute	X	0	x
-7	li	X	0	x
-8	luka	X	0	x
-9	mi	X	0	x
-10	li	X	0	x
-11	lili	X	0	x
-12	tawa	X	0	x
-13	ona	X	0	x
-14	.	X	0	x
+# correction: ilo musi ni li suli mute la luka mi li lili tawa ona .
+1	ilo	NOUN	0	x
+2	musi	ADJ	0	x
+3	ni	DET	0	x
+4	li	PART	0	x
+5	suli	ADJ	0	x
+6	mute	ADV	0	x
+7	la	PART	0	x
+8	luka	NOUN	0	x
+9	mi	PRON	0	x
+10	li	PART	0	x
+11	lili	ADJ	0	x
+12	tawa	ADP	0	x
+13	ona	PRON	0	x
+14	.	PUNCT	0	x
 
 # 445: ni li ike : jan li seli e ma li alasa e moku .
-1	ni	X	0	x
-2	li	X	0	x
-3	ike	X	0	x
-4	:	X	0	x
-5	jan	X	0	x
-6	li	X	0	x
-7	seli	X	0	x
-8	e	X	0	x
-9	ma	X	0	x
-10	li	X	0	x
-11	alasa	X	0	x
-12	e	X	0	x
-13	moku	X	0	x
-14	.	X	0	x
+1	ni	DET	0	x
+2	li	PART	0	x
+3	ike	ADJ	0	x
+4	:	PUNCT	0	x
+5	jan	NOUN	0	x
+6	li	PART	0	x
+7	seli	VERB	0	x
+8	e	PART	0	x
+9	ma	NOUN	0	x
+10	li	PART	0	x
+11	alasa	VERB	0	x
+12	e	PART	0	x
+13	moku	NOUN	0	x
+14	.	PUNCT	0	x
 
 # 446: oko pi ilo sona li pakala la mi ken ala lukin e sina .
-1	oko	X	0	x
-2	pi	X	0	x
-3	ilo	X	0	x
-4	sona	X	0	x
-5	li	X	0	x
-6	pakala	X	0	x
-7	la	X	0	x
-8	mi	X	0	x
-9	ken	X	0	x
-10	ala	X	0	x
-11	lukin	X	0	x
-12	e	X	0	x
-13	sina	X	0	x
-14	.	X	0	x
+1	oko	NOUN	0	x
+2	pi	PART	0	x
+3	ilo	NOUN	0	x
+4	sona	ADJ	0	x
+5	li	PART	0	x
+6	pakala	ADJ	0	x
+7	la	PART	0	x
+8	mi	PRON	0	x
+9	ken	AUX	0	x
+10	ala	ADV	0	x
+11	lukin	VERB	0	x
+12	e	PART	0	x
+13	sina	PRON	0	x
+14	.	PUNCT	0	x
 
 # 447: mi sona ala len e len linja .
-1	mi	X	0	x
-2	sona	X	0	x
-3	ala	X	0	x
-4	len	X	0	x
-5	e	X	0	x
-6	len	X	0	x
-7	linja	X	0	x
-8	.	X	0	x
+1	mi	PRON	0	x
+2	sona	AUX	0	x
+3	ala	ADV	0	x
+4	len	VERB	0	x
+5	e	PART	0	x
+6	len	NOUN	0	x
+7	linja	ADJ	0	x
+8	.	PUNCT	0	x
 
 # 448: kiwen li mu li tawa telo la mi sona e lon .
-1	kiwen	X	0	x
-2	li	X	0	x
-3	mu	X	0	x
-4	li	X	0	x
-5	tawa	X	0	x
-6	telo	X	0	x
-7	la	X	0	x
-8	mi	X	0	x
-9	sona	X	0	x
-10	e	X	0	x
-11	lon	X	0	x
-12	.	X	0	x
+1	kiwen	NOUN	0	x
+2	li	PART	0	x
+3	mu	VERB	0	x
+4	li	PART	0	x
+5	tawa	ADP	0	x
+6	telo	NOUN	0	x
+7	la	PART	0	x
+8	mi	PRON	0	x
+9	sona	VERB	0	x
+10	e	PART	0	x
+11	lon	NOUN	0	x
+12	.	PUNCT	0	x
 
 # 449: sina tawa ma kasi ni la sina ken lukin e soweli ike .
-1	sina	X	0	x
-2	tawa	X	0	x
-3	ma	X	0	x
-4	kasi	X	0	x
-5	ni	X	0	x
-6	la	X	0	x
-7	sina	X	0	x
-8	ken	X	0	x
-9	lukin	X	0	x
-10	e	X	0	x
-11	soweli	X	0	x
-12	ike	X	0	x
-13	.	X	0	x
+1	sina	PRON	0	x
+2	tawa	ADP	0	x
+3	ma	NOUN	0	x
+4	kasi	ADJ	0	x
+5	ni	DET	0	x
+6	la	PART	0	x
+7	sina	PRON	0	x
+8	ken	AUX	0	x
+9	lukin	VERB	0	x
+10	e	PART	0	x
+11	soweli	NOUN	0	x
+12	ike	ADJ	0	x
+13	.	PUNCT	0	x
 
 # 450: ken la jan Satosi li tan ma Nijon .
-1	ken	X	0	x
-2	la	X	0	x
-3	jan	X	0	x
-4	Satosi	X	0	x
-5	li	X	0	x
-6	tan	X	0	x
-7	ma	X	0	x
-8	Nijon	X	0	x
-9	.	X	0	x
+1	ken	NOUN	0	x
+2	la	PART	0	x
+3	jan	NOUN	0	x
+4	Satosi	PROPN	0	x
+5	li	PART	0	x
+6	tan	ADP	0	x
+7	ma	NOUN	0	x
+8	Nijon	PROPN	0	x
+9	.	PUNCT	0	x
 
 # 451: len supa mi li jaki la mi wile telo e ona .
-1	len	X	0	x
-2	supa	X	0	x
-3	mi	X	0	x
-4	li	X	0	x
-5	jaki	X	0	x
-6	la	X	0	x
-7	mi	X	0	x
-8	wile	X	0	x
-9	telo	X	0	x
-10	e	X	0	x
-11	ona	X	0	x
-12	.	X	0	x
+1	len	NOUN	0	x
+2	supa	ADJ	0	x
+3	mi	PRON	0	x
+4	li	PART	0	x
+5	jaki	ADJ	0	x
+6	la	PART	0	x
+7	mi	PRON	0	x
+8	wile	AUX	0	x
+9	telo	VERB	0	x
+10	e	PART	0	x
+11	ona	PRON	0	x
+12	.	PUNCT	0	x
 
 # 452: jan Kumalasiwa li ante e toki pi lipu pi nasin sewi .
-1	jan	X	0	x
-2	Kumalasiwa	X	0	x
-3	li	X	0	x
-4	ante	X	0	x
-5	e	X	0	x
-6	toki	X	0	x
-7	pi	X	0	x
-8	lipu	X	0	x
-9	pi	X	0	x
-10	nasin	X	0	x
-11	sewi	X	0	x
-12	.	X	0	x
+1	jan	NOUN	0	x
+2	Kumalasiwa	PROPN	0	x
+3	li	PART	0	x
+4	ante	VERB	0	x
+5	e	PART	0	x
+6	toki	NOUN	0	x
+7	pi	PART	0	x
+8	lipu	NOUN	0	x
+9	pi	PART	0	x
+10	nasin	NOUN	0	x
+11	sewi	ADJ	0	x
+12	.	PUNCT	0	x
 
 # 453: jan lili meli ni li sona ala kepeken e mani li len e ona .
-1	jan	X	0	x
-2	lili	X	0	x
-3	meli	X	0	x
-4	ni	X	0	x
-5	li	X	0	x
-6	sona	X	0	x
-7	ala	X	0	x
-8	kepeken	X	0	x
-9	e	X	0	x
-10	mani	X	0	x
-11	li	X	0	x
-12	len	X	0	x
-13	e	X	0	x
-14	ona	X	0	x
-15	.	X	0	x
+1	jan	NOUN	0	x
+2	lili	ADJ	0	x
+3	meli	ADJ	0	x
+4	ni	DET	0	x
+5	li	PART	0	x
+6	sona	AUX	0	x
+7	ala	ADV	0	x
+8	kepeken	VERB	0	x
+9	e	PART	0	x
+10	mani	NOUN	0	x
+11	li	PART	0	x
+12	len	VERB	0	x
+13	e	PART	0	x
+14	ona	PRON	0	x
+15	.	PUNCT	0	x
 
 # 454: lupa pi nena sinpin mi li jo e jaki pimeja mute .
-1	lupa	X	0	x
-2	pi	X	0	x
-3	nena	X	0	x
-4	sinpin	X	0	x
-5	mi	X	0	x
-6	li	X	0	x
-7	jo	X	0	x
-8	e	X	0	x
-9	jaki	X	0	x
-10	pimeja	X	0	x
-11	mute	X	0	x
-12	.	X	0	x
+1	lupa	NOUN	0	x
+2	pi	PART	0	x
+3	nena	NOUN	0	x
+4	sinpin	ADJ	0	x
+5	mi	DET	0	x
+6	li	PART	0	x
+7	jo	VERB	0	x
+8	e	PART	0	x
+9	jaki	NOUN	0	x
+10	pimeja	ADJ	0	x
+11	mute	ADJ	0	x
+12	.	PUNCT	0	x
 
 # 455: mi moku ala e soweli la mi pakala ala e ma .
-1	mi	X	0	x
-2	moku	X	0	x
-3	ala	X	0	x
-4	e	X	0	x
-5	soweli	X	0	x
-6	la	X	0	x
-7	mi	X	0	x
-8	pakala	X	0	x
-9	ala	X	0	x
-10	e	X	0	x
-11	ma	X	0	x
-12	.	X	0	x
+1	mi	PRON	0	x
+2	moku	VERB	0	x
+3	ala	ADV	0	x
+4	e	PART	0	x
+5	soweli	NOUN	0	x
+6	la	PART	0	x
+7	mi	PRON	0	x
+8	pakala	VERB	0	x
+9	ala	ADV	0	x
+10	e	PART	0	x
+11	ma	NOUN	0	x
+12	.	PUNCT	0	x
 
 # 456: soweli ni li jo e nena kute linja .
-1	soweli	X	0	x
-2	ni	X	0	x
-3	li	X	0	x
-4	jo	X	0	x
-5	e	X	0	x
-6	nena	X	0	x
-7	kute	X	0	x
-8	linja	X	0	x
-9	.	X	0	x
+1	soweli	NOUN	0	x
+2	ni	DET	0	x
+3	li	PART	0	x
+4	jo	VERB	0	x
+5	e	PART	0	x
+6	nena	NOUN	0	x
+7	kute	ADJ	0	x
+8	linja	ADJ	0	x
+9	.	PUNCT	0	x
 
 # 457: sike pi loje walo li suwi lukin li moku mute mute .
-1	sike	X	0	x
-2	pi	X	0	x
-3	loje	X	0	x
-4	walo	X	0	x
-5	li	X	0	x
-6	suwi	X	0	x
-7	lukin	X	0	x
-8	li	X	0	x
-9	moku	X	0	x
-10	mute	X	0	x
-11	mute	X	0	x
-12	.	X	0	x
+1	sike	NOUN	0	x
+2	pi	PART	0	x
+3	loje	ADJ	0	x
+4	walo	ADJ	0	x
+5	li	PART	0	x
+6	suwi	ADJ	0	x
+7	lukin	ADV	0	x
+8	li	PART	0	x
+9	moku	NOUN	0	x
+10	mute	ADJ	0	x
+11	mute	ADJ	0	x
+12	.	PUNCT	0	x
 
 # 458: jan Kankulo li utala kepeken ilo sama jan .
-1	jan	X	0	x
-2	Kankulo	X	0	x
-3	li	X	0	x
-4	utala	X	0	x
-5	kepeken	X	0	x
-6	ilo	X	0	x
-7	sama	X	0	x
-8	jan	X	0	x
-9	.	X	0	x
+1	jan	NOUN	0	x
+2	Kankulo	PROPN	0	x
+3	li	PART	0	x
+4	utala	VERB	0	x
+5	kepeken	ADP	0	x
+6	ilo	NOUN	0	x
+7	sama	ADP	0	x
+8	jan	NOUN	0	x
+9	.	PUNCT	0	x
 
 # 459: kalama musi ni li pona kute .
-1	kalama	X	0	x
-2	musi	X	0	x
-3	ni	X	0	x
-4	li	X	0	x
-5	pona	X	0	x
-6	kute	X	0	x
-7	.	X	0	x
+1	kalama	NOUN	0	x
+2	musi	ADJ	0	x
+3	ni	DET	0	x
+4	li	PART	0	x
+5	pona	ADJ	0	x
+6	kute	ADV	0	x
+7	.	PUNCT	0	x
 
 # 460: jan mute li toki e toki Jukoku lon ma Kata .
-1	jan	X	0	x
-2	mute	X	0	x
-3	li	X	0	x
-4	toki	X	0	x
-5	e	X	0	x
-6	toki	X	0	x
-7	Jukoku	X	0	x
-8	lon	X	0	x
-9	ma	X	0	x
-10	Kata	X	0	x
-11	.	X	0	x
+1	jan	NOUN	0	x
+2	mute	ADJ	0	x
+3	li	PART	0	x
+4	toki	VERB	0	x
+5	e	PART	0	x
+6	toki	NOUN	0	x
+7	Jukoku	PROPN	0	x
+8	lon	ADP	0	x
+9	ma	NOUN	0	x
+10	Kata	PROPN	0	x
+11	.	PUNCT	0	x
 
 # 461: pimeja walo li kule pona tawa mi .
-1	pimeja	X	0	x
-2	walo	X	0	x
-3	li	X	0	x
-4	kule	X	0	x
-5	pona	X	0	x
-6	tawa	X	0	x
-7	mi	X	0	x
-8	.	X	0	x
+1	pimeja	NOUN	4	nsubj
+2	walo	NOUN	1	flat
+3	li	PART	4	aux
+4	kule	NOUN	0	root
+5	pona	ADJ	4	amod
+6	tawa	ADP	7	case
+7	mi	PRON	4	obl
+8	.	PUNCT	4	punct
 
 # 462: telo jaki li tawa lon poki linja lon anpa ma .
 1	telo	X	0	x
