@@ -7401,7 +7401,7 @@
 12	esun	X	0	x
 13	.	X	0	x
 
-# 554: mi mute li ken ala kulupu tan ni : pipi ike li ken pakala e sijelo mi
+# 554: mi mute li ken ala kulupu tan ni : pipi ike li ken pakala e sijelo mi mute .
 1	mi	X	0	x
 2	mute	X	0	x
 3	li	X	0	x
@@ -7419,6 +7419,8 @@
 15	e	X	0	x
 16	sijelo	X	0	x
 17	mi	X	0	x
+18	mute	X	0	0
+19	.	X	0	0
 
 # 555: waso en kala li moku e kasi nasa .
 1	waso	X	0	x
@@ -8164,9 +8166,9 @@
 7	pona	X	0	x
 8	.	X	0	x
 
-# 614: nimi <unk> li nasa .
+# 614: nimi kijetesantakalu li nasa .
 1	nimi	X	0	x
-2	<unk>	X	0	x
+2	kijetesantakalu	X	0	x
 3	li	X	0	x
 4	nasa	X	0	x
 5	.	X	0	x
@@ -8286,8 +8288,8 @@
 11	mi	X	0	x
 12	.	X	0	x
 
-# 624: Soweli Suja li mu lon nasin sama nimi ona .
-1	Soweli	X	0	x
+# 624: soweli Suja li mu lon nasin sama nimi ona .
+1	soweli	X	0	x
 2	Suja	X	0	x
 3	li	X	0	x
 4	mu	X	0	x
@@ -8581,7 +8583,7 @@
 14	kasi	X	0	x
 15	.	X	0	x
 
-# 646: jaki ali li lon ala tan ni : jan sama mi li telo e tomo tawa kepeken
+# 646: jaki ali li lon ala tan ni : jan sama mi li telo e tomo tawa kepeken len .
 1	jaki	X	0	x
 2	ali	X	0	x
 3	li	X	0	x
@@ -8599,6 +8601,8 @@
 15	tomo	X	0	x
 16	tawa	X	0	x
 17	kepeken	X	0	x
+18	len	X	0	0
+19	.	X	0	0
 
 # 647: ilo tenpo mi li pini e tawa .
 1	ilo	X	0	x
@@ -8656,7 +8660,7 @@
 12	ni	X	0	x
 13	.	X	0	x
 
-# 651: jan mute e wile e ni : kulupu lawa pi ma Nijon li pana e mani tawa mi
+# 651: jan mute e wile e ni : kulupu lawa pi ma Nijon li pana e mani tawa mi mute .
 1	jan	X	0	x
 2	mute	X	0	x
 3	e	X	0	x
@@ -8675,6 +8679,8 @@
 16	mani	X	0	x
 17	tawa	X	0	x
 18	mi	X	0	x
+19	mute	X	0	0
+20	.	X	0	0
 
 # 652: tenpo pimeja ni la mun li suli lukin la mi pilin pona .
 1	tenpo	X	0	x
@@ -9107,63 +9113,63 @@
 8	ni	X	0	x
 9	.	X	0	x
 
-# 687: <unk> li moku .
-1	<unk>	X	0	x
+# 687: mulapisu li moku .
+1	mulapisu	X	0	x
 2	li	X	0	x
 3	moku	X	0	x
 4	.	X	0	x
 
-# 688: o seli e <unk> .
+# 688: o seli e mulapisu .
 1	o	X	0	x
 2	seli	X	0	x
 3	e	X	0	x
-4	<unk>	X	0	x
+4	mulapisu	X	0	x
 5	.	X	0	x
 
-# 689: <unk> ni li suwi ala .
-1	<unk>	X	0	x
+# 689: mulapisu ni li suwi ala .
+1	mulapisu	X	0	x
 2	ni	X	0	x
 3	li	X	0	x
 4	suwi	X	0	x
 5	ala	X	0	x
 6	.	X	0	x
 
-# 690: sina moku ala moku e <unk> ?
+# 690: sina moku ala moku e mulapisu ?
 1	sina	X	0	x
 2	moku	X	0	x
 3	ala	X	0	x
 4	moku	X	0	x
 5	e	X	0	x
-6	<unk>	X	0	x
+6	mulapisu	X	0	x
 7	?	X	0	x
 
-# 691: <unk> li sike .
-1	<unk>	X	0	x
+# 691: mulapisu li sike .
+1	mulapisu	X	0	x
 2	li	X	0	x
 3	sike	X	0	x
 4	.	X	0	x
 
-# 692: <unk> li moku e <unk> .
-1	<unk>	X	0	x
+# 692: kijetesantakalu li moku e mulapisu .
+1	kijetesantakalu	X	0	x
 2	li	X	0	x
 3	moku	X	0	x
 4	e	X	0	x
-5	<unk>	X	0	x
+5	mulapisu	X	0	x
 6	.	X	0	x
 
-# 693: mi pali e <unk> kepeken kala en pan .
+# 693: mi pali e mulapisu kepeken kala en pan .
 1	mi	X	0	x
 2	pali	X	0	x
 3	e	X	0	x
-4	<unk>	X	0	x
+4	mulapisu	X	0	x
 5	kepeken	X	0	x
 6	kala	X	0	x
 7	en	X	0	x
 8	pan	X	0	x
 9	.	X	0	x
 
-# 694: <unk> ni li pona tawa mi .
-1	<unk>	X	0	x
+# 694: mulapisu ni li pona tawa mi .
+1	mulapisu	X	0	x
 2	ni	X	0	x
 3	li	X	0	x
 4	pona	X	0	x
@@ -9171,8 +9177,8 @@
 6	mi	X	0	x
 7	.	X	0	x
 
-# 695: <unk> li pan ala pan ?
-1	<unk>	X	0	x
+# 695: mulapisu li pan ala pan ?
+1	mulapisu	X	0	x
 2	li	X	0	x
 3	pan	X	0	x
 4	ala	X	0	x
@@ -9392,7 +9398,7 @@
 14	Manila	X	0	x
 15	.	X	0	x
 
-# 713: kulupu esun ni li ike tan ni : ona li pana ala e mani mute tawa jan pali
+# 713: kulupu esun ni li ike tan ni : ona li pana ala e mani mute tawa jan pali ona .
 1	kulupu	X	0	x
 2	esun	X	0	x
 3	ni	X	0	x
@@ -9411,6 +9417,8 @@
 16	tawa	X	0	x
 17	jan	X	0	x
 18	pali	X	0	x
+19	ona	X	0	0
+20	.	X	0	0
 
 # 714: toki Luwa li pona li nasa ala .
 1	toki	X	0	x
@@ -9467,7 +9475,7 @@
 3	nasa	X	0	x
 4	.	X	0	x
 
-# 721: sina jo ala e mani la mi mute li wile e ni : sina pali lon tomo pali
+# 721: sina jo ala e mani la mi mute li wile e ni : sina pali lon tomo pali anpa ma .
 1	sina	X	0	x
 2	jo	X	0	x
 3	ala	X	0	x
@@ -9486,6 +9494,9 @@
 16	lon	X	0	x
 17	tomo	X	0	x
 18	pali	X	0	x
+19	anpa	X	0	0
+20	ma	X	0	0
+21	.	X	0	0
 
 # 722: soweli ni li pilin e ni : mi wile tawa weka .
 1	soweli	X	0	x
@@ -9536,7 +9547,7 @@
 3	seme	X	0	x
 4	?	X	0	x
 
-# 727: jan pali moku pi ma Italija li pali e <unk> pona kepeken pan pona .
+# 727: jan pali moku pi ma Italija li pali e mulapisu pona kepeken pan pona .
 1	jan	X	0	x
 2	pali	X	0	x
 3	moku	X	0	x
@@ -9546,7 +9557,7 @@
 7	li	X	0	x
 8	pali	X	0	x
 9	e	X	0	x
-10	<unk>	X	0	x
+10	mulapisu	X	0	x
 11	pona	X	0	x
 12	kepeken	X	0	x
 13	pan	X	0	x
@@ -10406,12 +10417,12 @@
 3	wawa	X	0	x
 4	.	X	0	x
 
-# 820: sina wile moku e <unk> la o pali e ni : sina tawa tomo esun li esun
+# 820: sina wile moku e mulapisu la o pali e ni : sina tawa tomo esun li esun e ko pan .
 1	sina	X	0	x
 2	wile	X	0	x
 3	moku	X	0	x
 4	e	X	0	x
-5	<unk>	X	0	x
+5	mulapisu	X	0	x
 6	la	X	0	x
 7	o	X	0	x
 8	pali	X	0	x
@@ -10424,6 +10435,10 @@
 15	esun	X	0	x
 16	li	X	0	x
 17	esun	X	0	x
+18	e	X	0	0
+19	ko	X	0	0
+20	pan	X	0	0
+21	.	X	0	0
 
 # 821: wawa ni li pona ala li ike ala .
 1	wawa	X	0	x
@@ -10774,7 +10789,7 @@
 16	nasa	X	0	x
 17	.	X	0	x
 
-# 860: soweli mute li moku e moku mute la poki pi moku soweli lon tomo soweli
+# 860: soweli mute li moku e moku mute la poki pi moku soweli lon tomo soweli li jo ala e moku .
 1	soweli	X	0	x
 2	mute	X	0	x
 3	li	X	0	x
@@ -10790,6 +10805,12 @@
 13	lon	X	0	x
 14	tomo	X	0	x
 15	soweli	X	0	x
+16	li	X	0	0
+17	jo	X	0	0
+18	ala	X	0	0
+19	e	X	0	0
+20	moku	X	0	0
+21	.	X	0	0
 
 # 861: mi mu ala .
 1	mi	X	0	x
@@ -11127,7 +11148,7 @@
 6	pona	X	0	x
 7	?	X	0	x
 
-# 891: ona li pana e kiwen kepeken ilo utala suli li pakala e tomo utala pi
+# 891: ona li pana e kiwen kepeken ilo utala suli li pakala e tomo utala pi jan ike ona .
 1	ona	X	0	x
 2	li	X	0	x
 3	pana	X	0	x
@@ -11143,6 +11164,10 @@
 13	tomo	X	0	x
 14	utala	X	0	x
 15	pi	X	0	x
+16	jan	X	0	0
+17	ike	X	0	0
+18	ona	X	0	0
+19	.	X	0	0
 
 # 892: sina soweli li sona ala toki .
 1	sina	X	0	x
@@ -11187,7 +11212,7 @@
 6	nasa	X	0	x
 7	?	X	0	x
 
-# 897: tenpo pini la jan Kesali li lukin e linja telo li toki e ni : ni li ma
+# 897: tenpo pini la jan Kesali li lukin e linja telo li toki e ni : ni li ma pini mi .
 1	tenpo	X	0	x
 2	pini	X	0	x
 3	la	X	0	x
@@ -11206,8 +11231,11 @@
 16	ni	X	0	x
 17	li	X	0	x
 18	ma	X	0	x
+19	pini	X	0	0
+20	mi	X	0	0
+21	.	X	0	0
 
-# 898: mi pali e ilo alasa kepeken kasi en kiwen li alasa e soweli li moku e
+# 898: mi pali e ilo alasa kepeken kasi en kiwen li alasa e soweli li moku e ona .
 1	mi	X	0	x
 2	pali	X	0	x
 3	e	X	0	x
@@ -11224,6 +11252,8 @@
 14	li	X	0	x
 15	moku	X	0	x
 16	e	X	0	x
+17	ona	X	0	0
+18	.	X	0	0
 
 # 899: sitelen unpa ni li nasa mute la mi ken ala musi kepeken ni .
 1	sitelen	X	0	x
@@ -11928,10 +11958,10 @@
 5	namako	X	0	x
 6	.	X	0	x
 
-# 976: ni li <unk> suli .
+# 976: ni li leko suli .
 1	ni	X	0	x
 2	li	X	0	x
-3	<unk>	X	0	x
+3	leko	X	0	x
 4	suli	X	0	x
 5	.	X	0	x
 
