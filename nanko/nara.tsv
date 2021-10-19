@@ -35,7 +35,7 @@
 15	lipu	NOUN	17	nsubj
 16	li	PART	17	aux
 17	lon	ADJ	13	acl
-18	ala	ADV	17	neg
+18	ala	ADV	17	advmod
 19	.	PUNCT	8	punct
 
 # 3: palisa kasi li tan noka pi tomo lawa Setesi .
@@ -85,7 +85,7 @@
 8	jan	NOUN	12	nsubj
 9	li	PART	12	aux
 10	ken	AUX	12	aux
-11	ala	ADV	10	neg
+11	ala	ADV	10	advmod
 12	moku	VERB	6	acl
 13	e	PART	14	aux
 14	soweli	NOUN	12	obj
@@ -125,7 +125,7 @@
 10	lon	ADP	11	case
 11	noka	NOUN	9	nmod
 12	ma	NOUN	11	nmod
-13	a	INTJ	4	intj
+13	a	INTJ	4	discourse
 14	.	PUNCT	4	punct
 
 # 8: sina wile lukin la o kama tawa tomo pi ijo pini lon tomo pi jan lawa pi tenpo pini Peso .
