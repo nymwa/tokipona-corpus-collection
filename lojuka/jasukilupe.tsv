@@ -48,7 +48,7 @@
 12	.	PUNCT	8	punct
 13	ona	PRON	15	nsubj
 14	li	PART	15	aux
-15	pali	VERB	0	advmod
+15	pali	VERB	1	advmod
 16	e	PART	17	aux
 17	ilo	NOUN	15	obj
 18	Jasukilupe	PROPN	17	appos
