@@ -1,0 +1,86 @@
+# 1: " ilo Jasukilupe "
+1	"	PUNCT	2	punct
+2	ilo	NOUN	0	root
+3	Jasukilupe	PROPN	2	appos
+4	"	PUNCT	2	punct
+
+# 2: jan Ken : " mi ken ala lukin e nimi lili mute ! "
+# correction: jan Ken : " mi ken ala lukin e nimi pi lili mute ! "
+1	jan	NOUN	0	root
+2	Ken	PROPN	1	appos
+3	:	PUNCT	1	punct
+4	"	PUNCT	8	punct
+5	mi	PRON	8	nsubj
+6	ken	AUX	8	aux
+7	ala	ADV	6	advmod
+8	lukin	VERB	1	advmod
+9	e	PART	10	aux
+10	nimi	NOUN	8	obj
+11	pi	PART	12	aux
+12	lili	ADJ	10	amod
+13	mute	ADV	12	advmod
+14	!	PUNCT	8	punct
+15	"	PUNCT	8	punct
+
+# 3: jan Lewi : " ma li ante . "
+1	jan	NOUN	0	root
+2	Lewi	PROPN	1	appos
+3	:	PUNCT	1	punct
+4	"	PUNCT	7	punct
+5	ma	NOUN	7	nsubj
+6	li	PART	7	aux
+7	ante	VERB	1	advmod
+8	.	PUNCT	7	punct
+9	"	PUNCT	7	punct
+
+# 4: jan Ken : " ma Nijon li pali pona e ilo . ona li pali e ilo Jasukilupe ! "
+1	jan	NOUN	0	root
+2	Ken	PROPN	1	appos
+3	:	PUNCT	1	punct
+4	"	PUNCT	8	punct
+5	ma	NOUN	8	nsubj
+6	Nijon	PROPN	5	appos
+7	li	PART	8	aux
+8	pali	VERB	1	advmod
+9	pona	ADV	8	advmod
+10	e	PART	11	aux
+11	ilo	NOUN	8	obj
+12	.	PUNCT	8	punct
+13	ona	PRON	15	nsubj
+14	li	PART	15	aux
+15	pali	VERB	0	advmod
+16	e	PART	17	aux
+17	ilo	NOUN	15	obj
+18	Jasukilupe	PROPN	17	appos
+19	!	PUNCT	15	punct
+20	"	PUNCT	15	punct
+
+# 5: jan Lewi : " a ! ( ilo Jasukilupe li pakala ala . ) "
+1	jan	NOUN	0	root
+2	Lewi	PROPN	1	appos
+3	:	PUNCT	1	punct
+4	"	PUNCT	5	punct
+5	a	INTJ	1	advmod
+6	!	PUNCT	5	punct
+7	(	PUNCT	11	punct
+8	ilo	NOUN	11	nsubj
+9	Jasukilupe	PROPN	8	appos
+10	li	PART	11	aux
+11	pakala	VERB	1	advmod
+12	ala	ADV	11	advmod
+13	.	PUNCT	11	punct
+14	)	PUNCT	11	punct
+15	"	PUNCT	11	punct
+
+# 6: jan Lewi : " mi olin e ilo Jasukilupe ! "
+1	jan	NOUN	0	root
+2	Lewi	PROPN	1	appos
+3	:	PUNCT	1	punct
+4	"	PUNCT	6	punct
+5	mi	PRON	6	nsubj
+6	olin	VERB	1	advmod
+7	e	PART	8	aux
+8	ilo	NOUN	6	obj
+9	Jasukilupe	PROPN	8	appos
+10	!	PUNCT	6	punct
+11	"	PUNCT	6	punct
