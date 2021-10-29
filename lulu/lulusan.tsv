@@ -1,0 +1,16 @@
+# 1: sitelen li lili mute la mi mute li ken ala lukin e ona !
+1	sitelen	NOUN	3	nsubj
+2	li	PART	3	aux
+3	lili	ADJ	11	advcl
+4	mute	ADV	3	advmod
+5	la	PART	11	aux
+6	mi	PRON	11	nsubj
+7	mute	ADJ	6	amod
+8	li	PART	11	aux
+9	ken	AUX	11	aux
+10	ala	ADV	9	advmod
+11	lukin	VERB	0	root
+12	e	PART	13	aux
+13	ona	PRON	11	obj
+14	.	PUNCT	11	punct
+
