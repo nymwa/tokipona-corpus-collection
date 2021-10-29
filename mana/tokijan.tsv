@@ -1,0 +1,231 @@
+# 1: toki !
+1	toki	INTJ	0	root
+2	!	PUNCT	1	punct
+
+# 2: tenpo kama la mi toki lon toki pona tan ni : sona ( Ijukenju ) mi li toki jan .
+1	tenpo	NOUN	5	advcl
+2	kama	ADJ	1	amod
+3	la	PART	5	aux
+4	mi	PRON	5	nsubj
+5	toki	VERB	0	root
+6	lon	ADP	7	case
+7	toki	NOUN	5	obl
+8	pona	ADJ	7	amod
+9	tan	ADP	10	case
+10	ni	DET	5	obl
+11	:	PUNCT	5	punct
+12	sona	NOUN	18	nsubj
+13	(	PUNCT	14	punct
+14	Ijukenju	PROPN	12	appos
+15	)	PUNCT	14	punct
+16	mi	PRON	12	nmod
+17	li	PART	18	aux
+18	toki	NOUN	10	acl
+19	jan	ADJ	18	amod
+20	.	PUNCT	5	punct
+
+# 3: sina sona ala sona e toki jan ?
+1	sina	PRON	2	nsubj
+2	sona	VERB	0	root
+3	ala	ADV	2	advmod
+4	sona	VERB	2	conj
+5	e	PART	6	aux
+6	toki	NOUN	2	obj
+7	jan	ADJ	6	amod
+8	?	PUNCT	2	punct
+
+# 4: toki pi toki mute mi li toki ale .
+1	toki	NOUN	7	nsubj
+2	pi	PART	3	aux
+3	toki	NOUN	1	nmod
+4	mute	ADJ	3	amod
+5	mi	PRON	3	nmod
+6	li	PART	7	aux
+7	toki	NOUN	0	root
+8	ale	ADJ	7	amod
+9	.	PUNCT	7	punct
+
+# 5: taso toki jan li ante : jan li pali e ni .
+1	taso	CONJ	5	conj
+2	toki	NOUN	5	nsubj
+3	jan	ADJ	2	amod
+4	li	PART	5	aux
+5	ante	ADJ	0	root
+6	:	PUNCT	5	punct
+7	jan	NOUN	9	nsubj
+8	li	PART	9	aux
+9	pali	VERB	5	advcl
+10	e	PART	11	aux
+11	ni	DET	9	obj
+12	.	PUNCT	5	punct
+
+# 6: toki Epelanto , toki Isukui , toki Aluka , toki Jumunosu , toki Losi , en mute mute mute . . . . . .
+1	toki	NOUN	0	root
+2	Epelanto	PROPN	1	appos
+3	,	PUNCT	4	punct
+4	toki	NOUN	1	conj
+5	Isukui	PROPN	4	appos
+6	,	PUNCT	7	punct
+7	toki	NOUN	1	conj
+8	Aluka	PROPN	7	appos
+9	,	PUNCT	10	punct
+10	toki	NOUN	1	conj
+11	Jumunosu	PROPN	10	appos
+12	,	PUNCT	13	punct
+13	toki	NOUN	1	conj
+14	Losi	PROPN	13	appos
+15	,	PUNCT	17	conj
+16	en	CONJ	17	cc
+17	mute	NOUN	1	conj
+18	mute	NOUN	17	conj
+19	mute	NOUN	17	conj
+20	.	PUNCT	0	punct
+21	.	PUNCT	20	flat
+22	.	PUNCT	21	flat
+23	.	PUNCT	22	flat
+24	.	PUNCT	23	flat
+25	.	PUNCT	24	flat
+
+# 7: toki jan pi sama .
+1	toki	NOUN	0	root
+2	jan	ADJ	1	amod
+3	pi	PART	4	aux
+4	sama	ADJ	1	amod
+5	.	PUNCT	1	punct
+
+# 8: mi wile sona mute mute lon toki jan tan ni : mi wile pali e toki jan .
+1	mi	PRON	3	nsubj
+2	wile	AUX	3	aux
+3	sona	VERB	0	root
+4	mute	ADV	3	advmod
+5	mute	ADV	3	advmod
+6	lon	ADP	7	case
+7	toki	NOUN	3	obl
+8	jan	ADJ	7	amod
+9	tan	ADP	10	case
+10	ni	DET	3	obl
+11	:	PUNCT	3	punct
+12	mi	PRON	14	nsubj
+13	wile	AUX	14	aux
+14	pali	VERB	10	amod
+15	e	PART	16	aux
+16	toki	NOUN	14	obj
+17	jan	ADJ	16	amod
+18	.	PUNCT	3	punct
+
+# 9: tenpo ni la mi wile toki e ni : toki pona li pona .
+1	tenpo	NOUN	6	advcl
+2	ni	DET	1	det
+3	la	PART	6	aux
+4	mi	PRON	6	nsubj
+5	wile	AUX	6	aux
+6	toki	VERB	0	root
+7	e	PART	8	aux
+8	ni	DET	6	obj
+9	:	PUNCT	6	punct
+10	toki	NOUN	13	nsubj
+11	pona	ADJ	10	amod
+12	li	PART	13	aux
+13	pona	ADJ	8	acl
+14	.	PUNCT	6	punct
+
+# 10: toki pona li jo e nimi pi nanpa pona .
+1	toki	NOUN	4	nsubj
+2	pona	ADJ	1	amod
+3	li	PART	4	aux
+4	jo	VERB	0	root
+5	e	PART	6	aux
+6	nimi	NOUN	4	obj
+7	pi	PART	8	aux
+8	nanpa	NOUN	6	nmod
+9	pona	ADJ	8	amod
+10	.	PUNCT	4	punct
+
+# 11: nanpa pona li lili ala li mute ala li pona .
+1	nanpa	NOUN	4	nsubj
+2	pona	ADJ	1	amod
+3	li	PART	4	aux
+4	lili	ADJ	0	root
+5	ala	ADV	4	advmod
+6	li	PART	7	aux
+7	mute	ADJ	4	conj
+8	ala	ADV	7	advmod
+9	li	PART	10	aux
+10	pona	ADJ	4	conj
+11	.	PUNCT	4	punct
+
+# 12: jan ale li ken toki kepeken toki pona .
+1	jan	NOUN	5	nsubj
+2	ale	ADJ	1	amod
+3	li	PART	5	aux
+4	ken	AUX	5	aux
+5	toki	VERB	0	root
+6	kepeken	ADP	7	case
+7	toki	NOUN	5	obl
+8	pona	ADJ	7	amod
+9	.	PUNCT	5	punct
+
+# 13: taso jan mute li sona ala e toki pona .
+1	taso	CONJ	5	cc
+2	jan	NOUN	5	nsubj
+3	mute	ADJ	2	amod
+4	li	PRAT	5	aux
+5	sona	VERB	0	root
+6	ala	ADV	5	advmod
+7	e	PART	8	aux
+8	toki	NOUN	5	obj
+9	pona	ADJ	8	amod
+10	.	PUNCT	5	punct
+
+# 14: ni li ike .
+1	ni	DET	3	nsubj
+2	li	PART	3	aux
+3	ike	ADJ	0	root
+4	.	PUNCT	3	punct
+
+# 15: ( tan ni la mi ken kepeken toki nasa mute . toki Inli li ike ! )
+1	(	PUNCT	8	punct
+2	tan	ADP	3	case
+3	ni	DET	8	advcl
+4	la	PART	8	aux
+5	mi	PRON	8	nsubj
+6	ken	AUX	8	aux
+7	kepeken	ADP	8	obl
+8	toki	NOUN	0	root
+9	nasa	ADJ	8	amod
+10	mute	ADJ	8	amod
+11	.	PUNCT	8	punct
+12	toki	NOUN	15	nusbj
+13	Inli	PROPN	12	appos
+14	li	PART	15	aux
+15	ike	ADJ	0	root
+16	!	PUNCT	15	punct
+17	)	PUNCT	15	punct
+
+# 16: toki pona li musi mute a !
+1	toki	NOUN	4	nsubj
+2	pona	ADJ	1	amod
+3	li	PART	4	aux
+4	musi	ADJ	0	root
+5	mute	ADV	4	advmod
+6	a	INT	4	discourse
+7	!	PUNCT	4	punct
+
+# 17: sina o kama sona e toki pona kin !
+1	sina	PRON	4	vocative
+2	o	AUX	4	aux
+3	kama	AUX	4	aux
+4	sona	VERB	0	root
+5	e	PART	6	aux
+6	toki	NOUN	4	obj
+7	pona	ADJ	6	amod
+8	kin	ADJ	6	amod
+9	!	PUNCT	4	punct
+
+# 18: mi tawa . pona !
+1	mi	PRON	2	nsubj
+2	tawa	VERB	0	root
+3	.	PUNCT	2	punct
+4	pona	INTJ	0	root
+5	!	PUNCT	4	punct
+
