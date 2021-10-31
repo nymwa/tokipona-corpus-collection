@@ -1,0 +1,261 @@
+# 1: ma Inli li pali e ma pali sin lon ma Kinla .
+# Ja: イギリスは，ウェールズに新しい仕事場を作った。
+1	ma	NOUN	4	nsubj
+2	Inli	PROPN	1	appos
+3	li	PART	4	aux
+4	pali	VERB	0	root
+5	e	PART	6	aux
+6	ma	NOUN	4	obj
+7	pali	ADJ	6	amod
+8	sin	ADJ	6	amod
+9	lon	ADP	10	case
+10	ma	NOUN	4	obl
+11	Kinla	PROPN	10	appos
+12	.	PUNCT	4	punct
+
+# 2: lon ma pali ni la jan li alasa e kiwen mani tan insa pi ilo toki tan insa pi ilo sona li pali e mani .
+# Ja: その仕事場では，人々は電話とコンピュータの中から貴金属［金の石］を探してお金を作る。
+1	lon	ADP	2	case
+2	ma	NOUN	8	advcl
+3	pali	ADJ	2	amod
+4	ni	DET	2	det
+5	la	PART	8	aux
+6	jan	NOUN	8	nsubj
+7	li	PART	8	aux
+8	alasa	VERB	0	root
+9	e	PART	10	aux
+10	kiwen	NOUN	8	obj
+11	mani	ADJ	10	amod
+12	tan	ADP	13	case
+13	insa	NOUN	8	obl
+14	pi	PART	15	aux
+15	ilo	NOUN	13	nmod
+16	toki	ADJ	15	amod
+17	tan	ADP	18	case
+18	insa	NOUN	8	obl
+19	pi	PART	20	aux
+20	ilo	NOUN	18	nmod
+21	sona	ADJ	20	amod
+22	li	PART	23	aux
+23	pali	VERB	8	conj
+24	e	PART	25	aux
+25	mani	NOUN	23	obj
+26	.	PUNCT	8	punct
+
+# 3: jan pi ma Inli li toki e ni lon tenpo suno # 20 .
+# raw: jan pi ma Inli li toki e ni lon tenpo suno #20.
+# Ja: イギリスのひとは，そのことを二十日に言った。
+1	jan	NOUN	6	nsubj
+2	pi	PART	3	aux
+3	ma	NOUN	1	nmod
+4	Inli	PROPN	3	appos
+5	li	PART	6	aux
+6	toki	VERB	0	root
+7	e	PART	8	aux
+8	ni	DET	6	obj
+9	lon	ADP	10	case
+10	tenpo	NOUN	6	obl
+11	suno	ADJ	10	amod
+12	#	PUNCT	13	aux
+13	20	NUM	10	nummod
+14	.	PUNCT	6	punct
+
+# 4: lon insa pi ilo sona lon insa pi ilo toki la kiwen mani lili li lon .
+# Ja: コンピュータと電話の中には，少ない貴金属がある。
+1	lon	ADP	2	case
+2	insa	NOUN	16	advcl
+3	pi	PART	4	aux
+4	ilo	NOUN	2	nmod
+5	sona	ADJ	4	amod
+6	lon	ADP	7	case
+7	insa	NOUN	16	advcl
+8	pi	PART	9	aux
+9	ilo	NOUN	7	nmod
+10	toki	ADJ	9	amod
+11	la	PART	16	aux
+12	kiwen	NOUN	16	nsubj
+13	mani	ADJ	12	amod
+14	lili	ADJ	12	amod
+15	li	PART	16	aux
+16	lon	ADJ	0	root
+17	.	PUNCT	16	punct
+
+# 5: taso tenpo pini la jan li weka e ilo toki e ilo sona pi sin ala .
+# Ja: しかし，過去には古い［新しくない］電話とコンピュータを捨てていた。
+1	taso	CONJ	7	cc
+2	tenpo	NOUN	7	advcl
+3	pini	ADJ	2	amod
+4	la	PART	7	aux
+5	jan	NOUN	7	nsubj
+6	li	PART	7	aux
+7	weka	VERB	0	root
+8	e	PART	9	aux
+9	ilo	NOUN	7	obj
+10	toki	ADJ	9	amod
+11	e	PART	12	aux
+12	ilo	NOUN	9	conj
+13	sona	ADJ	12	amod
+14	pi	PART	15	aux
+15	sin	ADJ	12	amod
+16	ala	ADV	15	advmod
+17	.	PUNCT	7	punct
+
+# 6: tan ni la jan li ken ala kepeken kiwen mani lon ona mute .
+# Ja: そのため，それら多くの中の貴金属を使うことができなかった。
+1	tan	ADP	2	case
+2	ni	DET	9	advcl
+3	la	PART	9	aux
+4	jan	NOUN	9	nsubj
+5	li	PART	9	aux
+6	ken	AUX	9	aux
+7	ala	ADV	6	advmod
+8	kepeken	ADP	9	case
+9	kiwen	NOUN	0	root
+10	mani	ADJ	9	amod
+11	lon	ADP	12	case
+12	ona	PRON	9	nmod
+13	mute	ADJ	12	amod
+14	.	PUNCT	9	punct
+
+# 7: kulupu mani sin li alasa e nasin sin .
+# Ja: 新しい会社［金の集団］が新しい方法を探した。
+1	kulupu	NOUN	5	nsubj
+2	mani	ADJ	1	amod
+3	sin	ADJ	1	amod
+4	li	PART	5	aux
+5	alasa	VERB	0	root
+6	e	PART	7	aux
+7	nasin	NOUN	5	obj
+8	sin	ADJ	7	amod
+9	.	PUNCT	5	punct
+
+# 8: kepeken nasin ona la jan li ken kepeken kiwen mani lon ilo toki lon ilo sona .
+# Ja: その方法を使うと，電話とコンピュータの中の貴金属を使うことができる。
+1	kepeken	ADP	2	case
+2	nasin	NOUN	9	advcl
+3	ona	PRON	2	nmod
+4	la	PART	9	aux
+5	jan	NOUN	9	nsubj
+6	li	PART	9	aux
+7	ken	AUX	9	aux
+8	kepeken	ADP	9	case
+9	kiwen	NOUN	0	root
+10	mani	ADJ	9	amod
+11	lon	ADP	12	case
+12	ilo	NOUN	9	nmod
+13	toki	ADJ	12	amod
+14	lon	ADP	15	case
+15	ilo	NOUN	9	nmod
+16	sona	ADJ	15	amod
+17	.	PUNCT	9	punct
+
+# 9: kulupu mani ona li tan ma Kanata .
+# Ja: その会社はカナダからうまれた。
+1	kulupu	NOUN	6	nsubj
+2	mani	ADJ	1	amod
+3	ona	PRON	1	nmod
+4	li	PART	6	aux
+5	tan	ADP	6	case
+6	ma	NOUN	0	root
+7	Kanata	PROPN	6	appos
+8	.	PUNCT	6	punct
+
+# 10: ma Inli li kepeken nasin ona .
+# Ja: イギリスはその方法を使う。
+1	ma	NOUN	5	nsubj
+2	Inli	PROPN	1	appos
+3	li	PART	5	aux
+4	kepeken	ADP	5	case
+5	nasin	NOUN	0	root
+6	ona	PRON	5	nmod
+7	.	PUNCT	5	punct
+
+# 11: kepeken nasin ni la jan li ken jo e kiwen mani lon poka pi jaki lili .
+# Ja: その方法では，少ないゴミとともに貴金属を持つことができる。
+1	kepeken	ADP	2	case
+2	nasin	NOUN	8	advcl
+3	ni	DET	2	det
+4	la	PART	8	aux
+5	jan	NOUN	8	nsubj
+6	li	PART	8	aux
+7	ken	AUX	8	aux
+8	jo	VERB	0	root
+9	e	PART	10	aux
+10	kiwen	NOUN	8	obj
+11	mani	ADJ	10	amod
+12	lon	ADP	13	case
+13	poka	NOUN	8	obl
+14	pi	PART	15	aux
+15	jaki	NOUN	13	nmod
+16	lili	ADJ	15	amod
+17	.	PUNCT	8	punct
+
+# 12: tenpo ni la jan li kepeken nasin ni pi mute ala .
+# Ja: いまはその方法をたくさんは使っていない。
+1	tenpo	NOUN	7	advcl
+2	ni	DET	1	det
+3	la	PART	7	aux
+4	jan	NOUN	7	nsubj
+5	li	PART	7	aux
+6	kepeken	ADP	7	case
+7	nasin	NOUN	0	root
+8	ni	DET	7	det
+9	pi	PART	10	aux
+10	mute	ADJ	7	amod
+11	ala	ADV	10	advmod
+12	.	PUNCT	7	punct
+
+# 13: tenpo sike 2 li kama la ma pali li open e pali .
+# Ja: 二年後，仕事場は仕事を始める。
+1	tenpo	NOUN	5	nsubj
+2	sike	ADJ	1	amod
+3	2	NUM	1	nummod
+4	li	PART	5	aux
+5	kama	ADJ	10	advcl
+6	la	PART	10	aux
+7	ma	NOUN	10	nsubj
+8	pali	ADJ	7	amod
+9	li	PART	10	aux
+10	open	VERB	0	root
+11	e	PART	12	aux
+12	pali	NOUN	10	obj
+13	.	PUNCT	10	punct
+
+# 14: ma Inli li kepeken mani pi mute seme li pali e ma pali ni ?
+# Ja: イギリスはどれくらい多くのお金を使って仕事場を作ったのか。
+1	ma	NOUN	5	nsubj
+2	Inli	PROPN	1	appos
+3	li	PART	5	aux
+4	kepeken	ADP	5	case
+5	mani	NOUN	0	root
+6	pi	PART	7	aux
+7	mute	NOUN	5	nmod
+8	seme	PRON	7	amod
+9	li	PART	10	aux
+10	pali	VERB	5	conj
+11	e	PART	12	aux
+12	ma	NOUN	10	obj
+13	pali	ADJ	12	amod
+14	ni	DET	12	det
+15	?	PUNCT	5	punct
+
+# 15: jan li sona ala e ni tan ni : ma Inli li toki ala e ni .
+# Ja: それはわからない，なぜならイギリスはそれを話さないから。
+1	jan	NOUN	3	nsubj
+2	li	PART	3	aux
+3	sona	VERB	0	root
+4	ala	ADV	3	advmod
+5	e	PART	6	case
+6	ni	DET	3	obj
+7	tan	ADP	8	case
+8	ni	DET	3	obl
+9	:	PUNCT	3	punct
+10	ma	NOUN	13	nsubj
+11	Inli	PROPN	10	appos
+12	li	PART	13	aux
+13	toki	VERB	8	acl
+14	ala	ADV	13	advmod
+15	e	PART	16	aux
+16	ni	DET	13	obj
+17	.	PUNCT	3	punct
+

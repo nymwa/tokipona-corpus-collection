@@ -1,0 +1,374 @@
+
+<html>
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <title>Toki Pona UD Visualization</title>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+   <link rel="stylesheet" type="text/css" href="https://universaldependencies.org/css/jquery-ui-redmond.css"/>
+   <link rel="stylesheet" type="text/css" href="https://universaldependencies.org/css/style.css"/>
+   <link rel="stylesheet" type="text/css" href="https://universaldependencies.org/css/style-vis.css"/>
+   <script type="text/javascript" src="https://universaldependencies.org/lib/ext/head.load.min.js"></script>
+</head>
+<body>
+<div id="main" class="center">
+<div id="content">
+<script type="text/javascript">
+   console.time('loading libraries');
+   var root = 'https://universaldependencies.org/'; // filled in by jekyll
+   head.js(
+                     // External libraries
+                     // DZ: Copied from embedding.html. I don't know which one is needed for what, so I'm currently keeping them all.
+                     root + 'lib/ext/jquery.min.js',
+                     root + 'lib/ext/jquery.svg.min.js',
+                     root + 'lib/ext/jquery.svgdom.min.js',
+                     root + 'lib/ext/jquery.timeago.js',
+                     root + 'lib/ext/jquery-ui.min.js',
+                     root + 'lib/ext/waypoints.min.js',
+                     root + 'lib/ext/jquery.address.min.js'
+                  );
+</script>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	ma	ma	NOUN	_	_	4	nsubj
+2	Inli	Inli	PROPN	_	_	1	appos
+3	li	li	PART	_	_	4	aux
+4	pali	pali	VERB	_	_	0	root
+5	e	e	PART	_	_	6	aux
+6	ma	ma	NOUN	_	_	4	obj
+7	pali	pali	ADJ	_	_	6	amod
+8	sin	sin	ADJ	_	_	6	amod
+9	lon	lon	ADP	_	_	10	case
+10	ma	ma	NOUN	_	_	4	obl
+11	Kinla	Kinla	PROPN	_	_	10	appos
+12	.	.	PUNCT	_	_	4	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	lon	lon	ADP	_	_	2	case
+2	ma	ma	NOUN	_	_	8	advcl
+3	pali	pali	ADJ	_	_	2	amod
+4	ni	ni	DET	_	_	2	det
+5	la	la	PART	_	_	8	aux
+6	jan	jan	NOUN	_	_	8	nsubj
+7	li	li	PART	_	_	8	aux
+8	alasa	alasa	VERB	_	_	0	root
+9	e	e	PART	_	_	10	aux
+10	kiwen	kiwen	NOUN	_	_	8	obj
+11	mani	mani	ADJ	_	_	10	amod
+12	tan	tan	ADP	_	_	13	case
+13	insa	insa	NOUN	_	_	8	obl
+14	pi	pi	PART	_	_	15	aux
+15	ilo	ilo	NOUN	_	_	13	nmod
+16	toki	toki	ADJ	_	_	15	amod
+17	tan	tan	ADP	_	_	18	case
+18	insa	insa	NOUN	_	_	8	obl
+19	pi	pi	PART	_	_	20	aux
+20	ilo	ilo	NOUN	_	_	18	nmod
+21	sona	sona	ADJ	_	_	20	amod
+22	li	li	PART	_	_	23	aux
+23	pali	pali	VERB	_	_	8	conj
+24	e	e	PART	_	_	25	aux
+25	mani	mani	NOUN	_	_	23	obj
+26	.	.	PUNCT	_	_	8	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	jan	jan	NOUN	_	_	6	nsubj
+2	pi	pi	PART	_	_	3	aux
+3	ma	ma	NOUN	_	_	1	nmod
+4	Inli	Inli	PROPN	_	_	3	appos
+5	li	li	PART	_	_	6	aux
+6	toki	toki	VERB	_	_	0	root
+7	e	e	PART	_	_	8	aux
+8	ni	ni	DET	_	_	6	obj
+9	lon	lon	ADP	_	_	10	case
+10	tenpo	tenpo	NOUN	_	_	6	obl
+11	suno	suno	ADJ	_	_	10	amod
+12	#	#	PUNCT	_	_	13	aux
+13	20	20	NUM	_	_	10	nummod
+14	.	.	PUNCT	_	_	6	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	lon	lon	ADP	_	_	2	case
+2	insa	insa	NOUN	_	_	16	advcl
+3	pi	pi	PART	_	_	4	aux
+4	ilo	ilo	NOUN	_	_	2	nmod
+5	sona	sona	ADJ	_	_	4	amod
+6	lon	lon	ADP	_	_	7	case
+7	insa	insa	NOUN	_	_	16	advcl
+8	pi	pi	PART	_	_	9	aux
+9	ilo	ilo	NOUN	_	_	7	nmod
+10	toki	toki	ADJ	_	_	9	amod
+11	la	la	PART	_	_	16	aux
+12	kiwen	kiwen	NOUN	_	_	16	nsubj
+13	mani	mani	ADJ	_	_	12	amod
+14	lili	lili	ADJ	_	_	12	amod
+15	li	li	PART	_	_	16	aux
+16	lon	lon	ADJ	_	_	0	root
+17	.	.	PUNCT	_	_	16	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	taso	taso	CONJ	_	_	7	cc
+2	tenpo	tenpo	NOUN	_	_	7	advcl
+3	pini	pini	ADJ	_	_	2	amod
+4	la	la	PART	_	_	7	aux
+5	jan	jan	NOUN	_	_	7	nsubj
+6	li	li	PART	_	_	7	aux
+7	weka	weka	VERB	_	_	0	root
+8	e	e	PART	_	_	9	aux
+9	ilo	ilo	NOUN	_	_	7	obj
+10	toki	toki	ADJ	_	_	9	amod
+11	e	e	PART	_	_	12	aux
+12	ilo	ilo	NOUN	_	_	9	conj
+13	sona	sona	ADJ	_	_	12	amod
+14	pi	pi	PART	_	_	15	aux
+15	sin	sin	ADJ	_	_	12	amod
+16	ala	ala	ADV	_	_	15	advmod
+17	.	.	PUNCT	_	_	7	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	tan	tan	ADP	_	_	2	case
+2	ni	ni	DET	_	_	9	advcl
+3	la	la	PART	_	_	9	aux
+4	jan	jan	NOUN	_	_	9	nsubj
+5	li	li	PART	_	_	9	aux
+6	ken	ken	AUX	_	_	9	aux
+7	ala	ala	ADV	_	_	6	advmod
+8	kepeken	kepeken	ADP	_	_	9	case
+9	kiwen	kiwen	NOUN	_	_	0	root
+10	mani	mani	ADJ	_	_	9	amod
+11	lon	lon	ADP	_	_	12	case
+12	ona	ona	PRON	_	_	9	nmod
+13	mute	mute	ADJ	_	_	12	amod
+14	.	.	PUNCT	_	_	9	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	kulupu	kulupu	NOUN	_	_	5	nsubj
+2	mani	mani	ADJ	_	_	1	amod
+3	sin	sin	ADJ	_	_	1	amod
+4	li	li	PART	_	_	5	aux
+5	alasa	alasa	VERB	_	_	0	root
+6	e	e	PART	_	_	7	aux
+7	nasin	nasin	NOUN	_	_	5	obj
+8	sin	sin	ADJ	_	_	7	amod
+9	.	.	PUNCT	_	_	5	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	kepeken	kepeken	ADP	_	_	2	case
+2	nasin	nasin	NOUN	_	_	9	advcl
+3	ona	ona	PRON	_	_	2	nmod
+4	la	la	PART	_	_	9	aux
+5	jan	jan	NOUN	_	_	9	nsubj
+6	li	li	PART	_	_	9	aux
+7	ken	ken	AUX	_	_	9	aux
+8	kepeken	kepeken	ADP	_	_	9	case
+9	kiwen	kiwen	NOUN	_	_	0	root
+10	mani	mani	ADJ	_	_	9	amod
+11	lon	lon	ADP	_	_	12	case
+12	ilo	ilo	NOUN	_	_	9	nmod
+13	toki	toki	ADJ	_	_	12	amod
+14	lon	lon	ADP	_	_	15	case
+15	ilo	ilo	NOUN	_	_	9	nmod
+16	sona	sona	ADJ	_	_	15	amod
+17	.	.	PUNCT	_	_	9	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	kulupu	kulupu	NOUN	_	_	6	nsubj
+2	mani	mani	ADJ	_	_	1	amod
+3	ona	ona	PRON	_	_	1	nmod
+4	li	li	PART	_	_	6	aux
+5	tan	tan	ADP	_	_	6	case
+6	ma	ma	NOUN	_	_	0	root
+7	Kanata	Kanata	PROPN	_	_	6	appos
+8	.	.	PUNCT	_	_	6	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	ma	ma	NOUN	_	_	5	nsubj
+2	Inli	Inli	PROPN	_	_	1	appos
+3	li	li	PART	_	_	5	aux
+4	kepeken	kepeken	ADP	_	_	5	case
+5	nasin	nasin	NOUN	_	_	0	root
+6	ona	ona	PRON	_	_	5	nmod
+7	.	.	PUNCT	_	_	5	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	kepeken	kepeken	ADP	_	_	2	case
+2	nasin	nasin	NOUN	_	_	8	advcl
+3	ni	ni	DET	_	_	2	det
+4	la	la	PART	_	_	8	aux
+5	jan	jan	NOUN	_	_	8	nsubj
+6	li	li	PART	_	_	8	aux
+7	ken	ken	AUX	_	_	8	aux
+8	jo	jo	VERB	_	_	0	root
+9	e	e	PART	_	_	10	aux
+10	kiwen	kiwen	NOUN	_	_	8	obj
+11	mani	mani	ADJ	_	_	10	amod
+12	lon	lon	ADP	_	_	13	case
+13	poka	poka	NOUN	_	_	8	obl
+14	pi	pi	PART	_	_	15	aux
+15	jaki	jaki	NOUN	_	_	13	nmod
+16	lili	lili	ADJ	_	_	15	amod
+17	.	.	PUNCT	_	_	8	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	tenpo	tenpo	NOUN	_	_	7	advcl
+2	ni	ni	DET	_	_	1	det
+3	la	la	PART	_	_	7	aux
+4	jan	jan	NOUN	_	_	7	nsubj
+5	li	li	PART	_	_	7	aux
+6	kepeken	kepeken	ADP	_	_	7	case
+7	nasin	nasin	NOUN	_	_	0	root
+8	ni	ni	DET	_	_	7	det
+9	pi	pi	PART	_	_	10	aux
+10	mute	mute	ADJ	_	_	7	amod
+11	ala	ala	ADV	_	_	10	advmod
+12	.	.	PUNCT	_	_	7	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	tenpo	tenpo	NOUN	_	_	5	nsubj
+2	sike	sike	ADJ	_	_	1	amod
+3	2	2	NUM	_	_	1	nummod
+4	li	li	PART	_	_	5	aux
+5	kama	kama	ADJ	_	_	10	advcl
+6	la	la	PART	_	_	10	aux
+7	ma	ma	NOUN	_	_	10	nsubj
+8	pali	pali	ADJ	_	_	7	amod
+9	li	li	PART	_	_	10	aux
+10	open	open	VERB	_	_	0	root
+11	e	e	PART	_	_	12	aux
+12	pali	pali	NOUN	_	_	10	obj
+13	.	.	PUNCT	_	_	10	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	ma	ma	NOUN	_	_	5	nsubj
+2	Inli	Inli	PROPN	_	_	1	appos
+3	li	li	PART	_	_	5	aux
+4	kepeken	kepeken	ADP	_	_	5	case
+5	mani	mani	NOUN	_	_	0	root
+6	pi	pi	PART	_	_	7	aux
+7	mute	mute	NOUN	_	_	5	nmod
+8	seme	seme	PRON	_	_	7	amod
+9	li	li	PART	_	_	10	aux
+10	pali	pali	VERB	_	_	5	conj
+11	e	e	PART	_	_	12	aux
+12	ma	ma	NOUN	_	_	10	obj
+13	pali	pali	ADJ	_	_	12	amod
+14	ni	ni	DET	_	_	12	det
+15	?	?	PUNCT	_	_	5	punct
+</code></pre>
+
+<pre><code class="language-conllu">
+
+0	ROOT	_	_	_	_	0	root
+1	jan	jan	NOUN	_	_	3	nsubj
+2	li	li	PART	_	_	3	aux
+3	sona	sona	VERB	_	_	0	root
+4	ala	ala	ADV	_	_	3	advmod
+5	e	e	PART	_	_	6	case
+6	ni	ni	DET	_	_	3	obj
+7	tan	tan	ADP	_	_	8	case
+8	ni	ni	DET	_	_	3	obl
+9	:	:	PUNCT	_	_	3	punct
+10	ma	ma	NOUN	_	_	13	nsubj
+11	Inli	Inli	PROPN	_	_	10	appos
+12	li	li	PART	_	_	13	aux
+13	toki	toki	VERB	_	_	8	acl
+14	ala	ala	ADV	_	_	13	advmod
+15	e	e	PART	_	_	16	aux
+16	ni	ni	DET	_	_	13	obj
+17	.	.	PUNCT	_	_	3	punct
+</code></pre>
+
+
+<!-- support for embedded visualizations -->
+<script type="text/javascript">
+   var root = 'https://universaldependencies.org/'; // filled in by jekyll
+   head.js(
+                  // We assume that external libraries such as jquery.min.js have already been loaded outside!
+                  // (See _layouts/base.html.)
+
+                  // brat helper modules
+                  root + 'lib/brat/configuration.js',
+                  root + 'lib/brat/util.js',
+                  root + 'lib/brat/annotation_log.js',
+                  root + 'lib/ext/webfont.js',
+                  // brat modules
+                  root + 'lib/brat/dispatcher.js',
+                  root + 'lib/brat/url_monitor.js',
+                  root + 'lib/brat/visualizer.js',
+
+                  // embedding configuration
+                  root + 'lib/local/config.js',
+                  // project-specific collection data
+                  root + 'lib/local/collections.js',
+
+                  // Annodoc
+                  root + 'lib/annodoc/annodoc.js',
+
+                  // NOTE: non-local libraries
+                  'https://spyysalo.github.io/conllu.js/conllu.js'
+               );
+
+   var webFontURLs = [
+                  //        root + 'static/fonts/Astloch-Bold.ttf',
+                  root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+                  root + 'static/fonts/Liberation_Sans-Regular.ttf'
+               ];
+
+   var setupTimeago = function() {
+                  jQuery("time.timeago").timeago();
+               };
+
+   head.ready(function() {
+                  setupTimeago();
+
+                  // mark current collection (filled in by Jekyll)
+                  Collections.listing['_current'] = 'u-overview';
+
+                  // perform all embedding and support functions
+                  Annodoc.activate(Config.bratCollData, Collections.listing);
+               });
+</script>
+</div>
+</body>
+</html>
+
