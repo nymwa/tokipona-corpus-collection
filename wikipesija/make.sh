@@ -2,4 +2,4 @@
 
 set -ex
 
-cut -f 2 < copied.tsv > wikipesija.txt
+cut -f 3 < copied.tsv > wikipesija.txt
