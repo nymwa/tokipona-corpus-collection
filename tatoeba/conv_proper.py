@@ -46,7 +46,10 @@ class ProperGenerator:
         return len(name) < minlen
 
     def __call__(self):
-        minlen = np.random.poisson(5)
+        #minlen = np.random.poisson(5)
+        minlen = np.random.choice(
+                10,
+                p = [0, 0.01, 0.01, 0.5, 0.25, 0.1, 0.07, 0.03, 0.02, 0.01])
         self.state = 0
         name = ''
         while self.cond(name, minlen):
