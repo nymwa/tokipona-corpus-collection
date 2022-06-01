@@ -2,6 +2,7 @@ import numpy as np
 import sys
 import re
 from ilonimi import Vocabulary
+from tqdm import tqdm
 
 output0 = [(1, 'k'), (1, 'l'), (1, 'm'), (1, 'n'), (1, 'p'), (1, 's'), (2, 'j'), (2, 't'), (3, 'w'), (4, 'a'), (4, 'e'), (4, 'i'), (4, 'o'), (4, 'u')]
 probs0 = [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.02, 0.02, 0.02, 0.02, 0.02]
@@ -61,7 +62,7 @@ class ProperGenerator:
 def main():
     generator = ProperGenerator()
 
-    for line in sys.stdin:
+    for line in tqdm(sys.stdin, bar_format = '{l_bar}{r_bar}'):
         x = line.strip()
         x = re.sub('Ton', generator(), x)
         x = re.sub('Mewi', generator(), x)
