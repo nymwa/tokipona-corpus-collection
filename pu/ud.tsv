@@ -1,0 +1,3013 @@
+# 1: mi open lon nimi sewi .
+1	mi	PRON	0	subj
+2	open	VERB	1	pred
+3	lon	ADP	2	prep
+4	nimi	NOUN	3	obj
+5	sewi	ADJ	4	mod
+6	.	PUNCT	1	punct
+
+# 2: sina pu a !
+1	sina	PRON	0	subj
+2	pu	VERB	1	pred
+3	a	INTJ	2	discourse
+4	!	PUNCT	1	punct
+
+# 3: toki pona li tan seme ? tenpo pini la mi wile sona e kon ale kepeken nimi lili .
+1	toki	NOUN	0	subj
+2	pona	ADJ	1	mod
+3	li	PART	1	part
+4	tan	ADP	3	pred
+5	seme	PRON	4	obj
+6	?	PUNCT	1	punct
+7	tenpo	NOUN	0	context
+8	pini	ADJ	7	mod
+9	la	PART	7	part
+10	mi	PRON	9	subj
+11	wile	AUX	10	pred
+12	sona	VERB	11	comp
+13	e	PART	12	part
+14	kon	NOUN	13	obj
+15	ale	ADJ	14	mod
+16	kepeken	ADP	12	prep
+17	nimi	NOUN	16	obj
+18	lili	ADJ	17	mod
+19	.	PUNCT	7	punct
+
+# 4: mi lukin e kon mi . mi kama sona e toki mute . mi musi . mi pali e nasin toki lili . ona li pona e toki insa mi .
+1	mi	PRON	0	subj
+2	lukin	VERB	1	pred
+3	e	PART	2	part
+4	kon	NOUN	3	obj
+5	mi	PRON	4	mod
+6	.	PUNCT	1	punct
+7	mi	PRON	0	subj
+8	kama	AUX	7	pred
+9	sona	VERB	8	comp
+10	e	PART	9	part
+11	toki	NOUN	10	obj
+12	mute	ADJ	11	mod
+13	.	PUNCT	7	punct
+14	mi	PRON	0	subj
+15	musi	VERB	14	pred
+16	.	PUNCT	14	punct
+17	mi	PRON	0	subj
+18	pali	VERB	17	pred
+19	e	PART	18	part
+20	nasin	NOUN	19	obj
+21	toki	ADJ	20	mod
+22	lili	ADJ	20	mod
+23	.	PUNCT	17	punct
+24	ona	PRON	0	subj
+25	li	PART	24	part
+26	pona	VERB	25	pred
+27	e	PART	26	part
+28	toki	NOUN	27	obj
+29	insa	ADJ	28	mod
+30	mi	PRON	28	mod
+31	.	PUNCT	24	punct
+
+# 5: mi pana e toki lili mi tawa jan ale lon ilo lipu lon tenpo pini . kulupu lili li kama . ona li olin e toki pona .
+1	mi	PRON	0	subj
+2	pana	VERB	1	pred
+3	e	PART	2	part
+4	toki	NOUN	3	obj
+5	lili	ADJ	4	mod
+6	mi	PRON	4	mod
+7	tawa	ADP	2	prep
+8	jan	NOUN	7	obj
+9	ale	ADJ	8	mod
+10	lon	ADP	2	prep
+11	ilo	NOUN	10	obj
+12	lipu	ADJ	11	mod
+13	lon	ADP	2	prep
+14	tenpo	NOUN	13	obj
+15	pini	ADJ	14	mod
+16	.	PUNCT	1	punct
+17	kulupu	NOUN	0	subj
+18	lili	ADJ	17	mod
+19	li	PART	17	part
+20	kama	ADJ	19	pred
+21	.	PUNCT	17	punct
+22	ona	PRON	0	subj
+23	li	PART	22	part
+24	olin	VERB	23	pred
+25	e	PART	24	part
+26	toki	NOUN	25	obj
+27	pona	ADJ	26	mod
+28	.	PUNCT	22	punct
+
+# 6: pu la mi wile pana e selo pini pi toki pona . nasin ni la mi kepeken toki pona .
+1	pu	NOUN	0	context
+2	la	PART	1	part
+3	mi	PRON	2	subj
+4	wile	AUX	3	pred
+5	pana	VERB	4	comp
+6	e	PART	5	part
+7	selo	NOUN	6	obj
+8	pini	ADJ	7	mod
+9	pi	PART	7	part
+10	toki	NOUN	9	mod
+11	pona	ADJ	10	mod
+12	.	PUNCT	1	punct
+13	nasin	NOUN	0	context
+14	ni	DET	13	det
+15	la	PART	13	part
+16	mi	PRON	15	subj
+17	kepeken	ADP	16	prep
+18	toki	NOUN	17	obj
+19	pona	ADJ	18	mod
+20	.	PUNCT	13	punct
+
+# 7: ijo li ijo .
+1	ijo	NOUN	0	subj
+2	li	PART	1	part
+3	ijo	NOUN	2	pred
+4	.	PUNCT	1	punct
+
+# 8: ni li jan .
+1	ni	DET	0	subj
+2	li	PART	1	part
+3	jan	NOUN	2	pred
+4	.	PUNCT	1	punct
+
+# 9: ni li kili .
+1	ni	DET	0	subj
+2	li	PART	1	part
+3	kili	NOUN	2	pred
+4	.	PUNCT	1	punct
+
+# 10: lipu li ijo .
+1	lipu	NOUN	0	subj
+2	li	PART	1	part
+3	ijo	NOUN	2	pred
+4	.	PUNCT	1	punct
+
+# 11: jan li meli .
+1	jan	NOUN	0	subj
+2	li	PART	1	part
+3	meli	ADJ	2	pred
+4	.	PUNCT	1	punct
+
+# 12: soweli li ijo .
+1	soweli	NOUN	0	subj
+2	li	PART	1	part
+3	ijo	NOUN	2	pred
+4	.	PUNCT	1	punct
+
+# 13: meli li jan .
+1	meli	NOUN	0	subj
+2	li	PART	1	part
+3	jan	NOUN	2	pred
+4	.	PUNCT	1	punct
+
+# 14: ijo li pona .
+1	ijo	NOUN	0	subj
+2	li	PART	1	part
+3	pona	ADJ	2	pred
+4	.	PUNCT	1	punct
+
+# 15: telo li pona .
+1	telo	NOUN	0	subj
+2	li	PART	1	part
+3	pona	ADJ	2	pred
+4	.	PUNCT	1	punct
+
+# 16: telo kili li suli .
+1	telo	NOUN	0	subj
+2	kili	ADJ	1	mod
+3	li	PART	1	part
+4	suli	ADJ	3	pred
+5	.	PUNCT	1	punct
+
+# 17: meli li lili .
+1	meli	NOUN	0	subj
+2	li	PART	1	part
+3	lili	ADJ	2	pred
+4	.	PUNCT	1	punct
+
+# 18: soweli lili li pona .
+1	soweli	NOUN	0	subj
+2	lili	ADJ	1	mod
+3	li	PART	2	part
+4	pona	ADJ	3	pred
+5	.	PUNCT	1	punct
+
+# 19: jan ni li suli .
+1	jan	NOUN	0	subj
+2	ni	DET	1	det
+3	li	PART	1	part
+4	suli	ADJ	3	pred
+5	.	PUNCT	1	punct
+
+# 20: mi mije .
+1	mi	PRON	0	subj
+2	mije	ADJ	1	pred
+3	.	PUNCT	1	punct
+
+# 21: sina sin .
+1	sina	X	0	X
+2	sin	X	0	X
+3	.	X	0	X
+
+# 22: tomo sina li sin .
+1	tomo	X	0	X
+2	sina	X	0	X
+3	li	X	0	X
+4	sin	X	0	X
+5	.	X	0	X
+
+# 23: mije li jan pona .
+1	mije	X	0	X
+2	li	X	0	X
+3	jan	X	0	X
+4	pona	X	0	X
+5	.	X	0	X
+
+# 24: tomo soweli li lili .
+1	tomo	X	0	X
+2	soweli	X	0	X
+3	li	X	0	X
+4	lili	X	0	X
+5	.	X	0	X
+
+# 25: sina mije wawa .
+1	sina	X	0	X
+2	mije	X	0	X
+3	wawa	X	0	X
+4	.	X	0	X
+
+# 26: kulupu sin li wawa .
+1	kulupu	X	0	X
+2	sin	X	0	X
+3	li	X	0	X
+4	wawa	X	0	X
+5	.	X	0	X
+
+# 27: ni li lipu sina .
+1	ni	X	0	X
+2	li	X	0	X
+3	lipu	X	0	X
+4	sina	X	0	X
+5	.	X	0	X
+
+# 28: ijo li pali e ijo .
+1	ijo	X	0	X
+2	li	X	0	X
+3	pali	X	0	X
+4	e	X	0	X
+5	ijo	X	0	X
+6	.	X	0	X
+
+# 29: mi moku e telo .
+1	mi	X	0	X
+2	moku	X	0	X
+3	e	X	0	X
+4	telo	X	0	X
+5	.	X	0	X
+
+# 30: mije li sona .
+1	mije	X	0	X
+2	li	X	0	X
+3	sona	X	0	X
+4	.	X	0	X
+
+# 31: mije li sona e ijo .
+1	mije	X	0	X
+2	li	X	0	X
+3	sona	X	0	X
+4	e	X	0	X
+5	ijo	X	0	X
+6	.	X	0	X
+
+# 32: mi sona e toki pona .
+1	mi	X	0	X
+2	sona	X	0	X
+3	e	X	0	X
+4	toki	X	0	X
+5	pona	X	0	X
+6	.	X	0	X
+
+# 33: mije ni li jan toki .
+1	mije	X	0	X
+2	ni	X	0	X
+3	li	X	0	X
+4	jan	X	0	X
+5	toki	X	0	X
+6	.	X	0	X
+
+# 34: soweli suli li moku e sina .
+1	soweli	X	0	X
+2	suli	X	0	X
+3	li	X	0	X
+4	moku	X	0	X
+5	e	X	0	X
+6	sina	X	0	X
+7	.	X	0	X
+
+# 35: lipu kulupu li wawa .
+1	lipu	X	0	X
+2	kulupu	X	0	X
+3	li	X	0	X
+4	wawa	X	0	X
+5	.	X	0	X
+
+# 36: sina pali e moku sin .
+1	sina	X	0	X
+2	pali	X	0	X
+3	e	X	0	X
+4	moku	X	0	X
+5	sin	X	0	X
+6	.	X	0	X
+
+# 37: jan sona li kute .
+1	jan	X	0	X
+2	sona	X	0	X
+3	li	X	0	X
+4	kute	X	0	X
+5	.	X	0	X
+
+# 38: tomo sona li jo e lipu .
+1	tomo	X	0	X
+2	sona	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	lipu	X	0	X
+7	.	X	0	X
+
+# 39: mi moku ala e soweli .
+1	mi	X	0	X
+2	moku	X	0	X
+3	ala	X	0	X
+4	e	X	0	X
+5	soweli	X	0	X
+6	.	X	0	X
+
+# 40: mi toki pona e ijo .
+1	mi	X	0	X
+2	toki	X	0	X
+3	pona	X	0	X
+4	e	X	0	X
+5	ijo	X	0	X
+6	.	X	0	X
+
+# 41: pali sina li pona mute .
+1	pali	X	0	X
+2	sina	X	0	X
+3	li	X	0	X
+4	pona	X	0	X
+5	mute	X	0	X
+6	.	X	0	X
+
+# 42: telo li wawa e mi .
+1	telo	X	0	X
+2	li	X	0	X
+3	wawa	X	0	X
+4	e	X	0	X
+5	mi	X	0	X
+6	.	X	0	X
+
+# 43: jan sona li pu .
+1	jan	X	0	X
+2	sona	X	0	X
+3	li	X	0	X
+4	pu	X	0	X
+5	.	X	0	X
+
+# 44: meli lili li kute ike e mama .
+1	meli	X	0	X
+2	lili	X	0	X
+3	li	X	0	X
+4	kute	X	0	X
+5	ike	X	0	X
+6	e	X	0	X
+7	mama	X	0	X
+8	.	X	0	X
+
+# 45: sewi li wan .
+1	sewi	X	0	X
+2	li	X	0	X
+3	wan	X	0	X
+4	.	X	0	X
+
+# 46: jan ala li ike .
+1	jan	X	0	X
+2	ala	X	0	X
+3	li	X	0	X
+4	ike	X	0	X
+5	.	X	0	X
+
+# 47: mama mije li pu mute .
+1	mama	X	0	X
+2	mije	X	0	X
+3	li	X	0	X
+4	pu	X	0	X
+5	mute	X	0	X
+6	.	X	0	X
+
+# 48: seme li sin ?
+1	seme	X	0	X
+2	li	X	0	X
+3	sin	X	0	X
+4	?	X	0	X
+
+# 49: jan seme li toki ?
+1	jan	X	0	X
+2	seme	X	0	X
+3	li	X	0	X
+4	toki	X	0	X
+5	?	X	0	X
+
+# 50: sina pu anu seme ?
+1	sina	X	0	X
+2	pu	X	0	X
+3	anu	X	0	X
+4	seme	X	0	X
+5	?	X	0	X
+
+# 51: " ona li mama ala mama ? " " mama . "
+1	"	X	0	X
+2	ona	X	0	X
+3	li	X	0	X
+4	mama	X	0	X
+5	ala	X	0	X
+6	mama	X	0	X
+7	?	X	0	X
+8	"	X	0	X
+9	"	X	0	X
+10	mama	X	0	X
+11	.	X	0	X
+12	"	X	0	X
+
+# 52: " ona li mama ala mama ? " " mama ala . "
+1	"	X	0	X
+2	ona	X	0	X
+3	li	X	0	X
+4	mama	X	0	X
+5	ala	X	0	X
+6	mama	X	0	X
+7	?	X	0	X
+8	"	X	0	X
+9	"	X	0	X
+10	mama	X	0	X
+11	ala	X	0	X
+12	.	X	0	X
+13	"	X	0	X
+
+# 53: " ona li mama ala mama ? " " ala . "
+1	"	X	0	X
+2	ona	X	0	X
+3	li	X	0	X
+4	mama	X	0	X
+5	ala	X	0	X
+6	mama	X	0	X
+7	?	X	0	X
+8	"	X	0	X
+9	"	X	0	X
+10	ala	X	0	X
+11	.	X	0	X
+12	"	X	0	X
+
+# 54: " ona li jo ala jo e kili mute ? " " jo . "
+1	"	X	0	X
+2	ona	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	ala	X	0	X
+6	jo	X	0	X
+7	e	X	0	X
+8	kili	X	0	X
+9	mute	X	0	X
+10	?	X	0	X
+11	"	X	0	X
+12	"	X	0	X
+13	jo	X	0	X
+14	.	X	0	X
+15	"	X	0	X
+
+# 55: mije sona li jo e kala anu seme ?
+1	mije	X	0	X
+2	sona	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	kala	X	0	X
+7	anu	X	0	X
+8	seme	X	0	X
+9	?	X	0	X
+
+# 56: sina seme e ona ?
+1	sina	X	0	X
+2	seme	X	0	X
+3	e	X	0	X
+4	ona	X	0	X
+5	?	X	0	X
+
+# 57: tomo li jo e ilo toki .
+1	tomo	X	0	X
+2	li	X	0	X
+3	jo	X	0	X
+4	e	X	0	X
+5	ilo	X	0	X
+6	toki	X	0	X
+7	.	X	0	X
+
+# 58: sina kute ala kute e mama sina ?
+1	sina	X	0	X
+2	kute	X	0	X
+3	ala	X	0	X
+4	kute	X	0	X
+5	e	X	0	X
+6	mama	X	0	X
+7	sina	X	0	X
+8	?	X	0	X
+
+# 59: kala wawa li moku e seme ?
+1	kala	X	0	X
+2	wawa	X	0	X
+3	li	X	0	X
+4	moku	X	0	X
+5	e	X	0	X
+6	seme	X	0	X
+7	?	X	0	X
+
+# 60: mi pana e kala tawa ona .
+1	mi	X	0	X
+2	pana	X	0	X
+3	e	X	0	X
+4	kala	X	0	X
+5	tawa	X	0	X
+6	ona	X	0	X
+7	.	X	0	X
+
+# 61: mi pana e kala lon tomo .
+1	mi	X	0	X
+2	pana	X	0	X
+3	e	X	0	X
+4	kala	X	0	X
+5	lon	X	0	X
+6	tomo	X	0	X
+7	.	X	0	X
+
+# 62: mi pana e kala tawa ona lon tomo .
+1	mi	X	0	X
+2	pana	X	0	X
+3	e	X	0	X
+4	kala	X	0	X
+5	tawa	X	0	X
+6	ona	X	0	X
+7	lon	X	0	X
+8	tomo	X	0	X
+9	.	X	0	X
+
+# 63: mi lon tomo .
+1	mi	X	0	X
+2	lon	X	0	X
+3	tomo	X	0	X
+4	.	X	0	X
+
+# 64: mi tawa sina .
+1	mi	X	0	X
+2	tawa	X	0	X
+3	sina	X	0	X
+4	.	X	0	X
+
+# 65: mama mi li tawa telo suli .
+1	mama	X	0	X
+2	mi	X	0	X
+3	li	X	0	X
+4	tawa	X	0	X
+5	telo	X	0	X
+6	suli	X	0	X
+7	.	X	0	X
+
+# 66: mi pali mute tan ni .
+1	mi	X	0	X
+2	pali	X	0	X
+3	mute	X	0	X
+4	tan	X	0	X
+5	ni	X	0	X
+6	.	X	0	X
+
+# 67: mi toki lon toki pona .
+1	mi	X	0	X
+2	toki	X	0	X
+3	lon	X	0	X
+4	toki	X	0	X
+5	pona	X	0	X
+6	.	X	0	X
+
+# 68: soweli lili li pona tawa mi .
+1	soweli	X	0	X
+2	lili	X	0	X
+3	li	X	0	X
+4	pona	X	0	X
+5	tawa	X	0	X
+6	mi	X	0	X
+7	.	X	0	X
+
+# 69: kulupu pali li kepeken seme ?
+1	kulupu	X	0	X
+2	pali	X	0	X
+3	li	X	0	X
+4	kepeken	X	0	X
+5	seme	X	0	X
+6	?	X	0	X
+
+# 70: mi sona e toki mute tan meli ni .
+1	mi	X	0	X
+2	sona	X	0	X
+3	e	X	0	X
+4	toki	X	0	X
+5	mute	X	0	X
+6	tan	X	0	X
+7	meli	X	0	X
+8	ni	X	0	X
+9	.	X	0	X
+
+# 71: mije sin li lon tomo telo anu seme ?
+1	mije	X	0	X
+2	sin	X	0	X
+3	li	X	0	X
+4	lon	X	0	X
+5	tomo	X	0	X
+6	telo	X	0	X
+7	anu	X	0	X
+8	seme	X	0	X
+9	?	X	0	X
+
+# 72: nimi mi li Apu .
+1	nimi	X	0	X
+2	mi	X	0	X
+3	li	X	0	X
+4	Apu	X	0	X
+5	.	X	0	X
+
+# 73: ma Apika li jo e jan mute .
+1	ma	X	0	X
+2	Apika	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	jan	X	0	X
+7	mute	X	0	X
+8	.	X	0	X
+
+# 74: meli Sonko li tawa nasin Kuwin .
+1	meli	X	0	X
+2	Sonko	X	0	X
+3	li	X	0	X
+4	tawa	X	0	X
+5	nasin	X	0	X
+6	Kuwin	X	0	X
+7	.	X	0	X
+
+# 75: jan Epawan Linkan li tan ma Mewika .
+1	jan	X	0	X
+2	Epawan	X	0	X
+3	Linkan	X	0	X
+4	li	X	0	X
+5	tan	X	0	X
+6	ma	X	0	X
+7	Mewika	X	0	X
+8	.	X	0	X
+
+# 76: ma tomo Pelin li lon ma Tosi .
+1	ma	X	0	X
+2	tomo	X	0	X
+3	Pelin	X	0	X
+4	li	X	0	X
+5	lon	X	0	X
+6	ma	X	0	X
+7	Tosi	X	0	X
+8	.	X	0	X
+
+# 77: sina sona ala sona e toki Inli ?
+1	sina	X	0	X
+2	sona	X	0	X
+3	ala	X	0	X
+4	sona	X	0	X
+5	e	X	0	X
+6	toki	X	0	X
+7	Inli	X	0	X
+8	?	X	0	X
+
+# 78: nena sewi Kepelitepe li lon ma Tuki .
+1	nena	X	0	X
+2	sewi	X	0	X
+3	Kepelitepe	X	0	X
+4	li	X	0	X
+5	lon	X	0	X
+6	ma	X	0	X
+7	Tuki	X	0	X
+8	.	X	0	X
+
+# 79: toki !
+1	toki	X	0	X
+2	!	X	0	X
+
+# 80: pona tawa sina !
+1	pona	X	0	X
+2	tawa	X	0	X
+3	sina	X	0	X
+4	!	X	0	X
+
+# 81: kama pona !
+1	kama	X	0	X
+2	pona	X	0	X
+3	!	X	0	X
+
+# 82: seme li sin ?
+1	seme	X	0	X
+2	li	X	0	X
+3	sin	X	0	X
+4	?	X	0	X
+
+# 83: mi tawa .
+1	mi	X	0	X
+2	tawa	X	0	X
+3	.	X	0	X
+
+# 84: tawa pona .
+1	tawa	X	0	X
+2	pona	X	0	X
+3	.	X	0	X
+
+# 85: o toki ala . o pali .
+1	o	X	0	X
+2	toki	X	0	X
+3	ala	X	0	X
+4	.	X	0	X
+5	o	X	0	X
+6	pali	X	0	X
+7	.	X	0	X
+
+# 86: jan Mosima o , ni li soweli sina anu seme ?
+1	jan	X	0	X
+2	Mosima	X	0	X
+3	o	X	0	X
+4	,	X	0	X
+5	ni	X	0	X
+6	li	X	0	X
+7	soweli	X	0	X
+8	sina	X	0	X
+9	anu	X	0	X
+10	seme	X	0	X
+11	?	X	0	X
+
+# 87: o moku ala e kili mi .
+1	o	X	0	X
+2	moku	X	0	X
+3	ala	X	0	X
+4	e	X	0	X
+5	kili	X	0	X
+6	mi	X	0	X
+7	.	X	0	X
+
+# 88: sina pilin ike tan seme ?
+1	sina	X	0	X
+2	pilin	X	0	X
+3	ike	X	0	X
+4	tan	X	0	X
+5	seme	X	0	X
+6	?	X	0	X
+
+# 89: sewi o pana e pona tawa mi .
+1	sewi	X	0	X
+2	o	X	0	X
+3	pana	X	0	X
+4	e	X	0	X
+5	pona	X	0	X
+6	tawa	X	0	X
+7	mi	X	0	X
+8	.	X	0	X
+
+# 90: o kute e mama sina .
+1	o	X	0	X
+2	kute	X	0	X
+3	e	X	0	X
+4	mama	X	0	X
+5	sina	X	0	X
+6	.	X	0	X
+
+# 91: sina suli a !
+1	sina	X	0	X
+2	suli	X	0	X
+3	a	X	0	X
+4	!	X	0	X
+
+# 92: pona !
+1	pona	X	0	X
+2	!	X	0	X
+
+# 93: mi o moku e ijo pona .
+1	mi	X	0	X
+2	o	X	0	X
+3	moku	X	0	X
+4	e	X	0	X
+5	ijo	X	0	X
+6	pona	X	0	X
+7	.	X	0	X
+
+# 94: tenpo suno ni li pona mute tawa mi .
+1	tenpo	X	0	X
+2	suno	X	0	X
+3	ni	X	0	X
+4	li	X	0	X
+5	pona	X	0	X
+6	mute	X	0	X
+7	tawa	X	0	X
+8	mi	X	0	X
+9	.	X	0	X
+
+# 95: meli lili pi sijelo pona li telo e kasi .
+1	meli	X	0	X
+2	lili	X	0	X
+3	pi	X	0	X
+4	sijelo	X	0	X
+5	pona	X	0	X
+6	li	X	0	X
+7	telo	X	0	X
+8	e	X	0	X
+9	kasi	X	0	X
+10	.	X	0	X
+
+# 96: mije pi pilin pona li pali e ilo tenpo suno .
+1	mije	X	0	X
+2	pi	X	0	X
+3	pilin	X	0	X
+4	pona	X	0	X
+5	li	X	0	X
+6	pali	X	0	X
+7	e	X	0	X
+8	ilo	X	0	X
+9	tenpo	X	0	X
+10	suno	X	0	X
+11	.	X	0	X
+
+# 97: mama mama mi li lili .
+1	mama	X	0	X
+2	mama	X	0	X
+3	mi	X	0	X
+4	li	X	0	X
+5	lili	X	0	X
+6	.	X	0	X
+
+# 98: sina mute li jo ala jo e tomo tawa ?
+1	sina	X	0	X
+2	mute	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	ala	X	0	X
+6	jo	X	0	X
+7	e	X	0	X
+8	tomo	X	0	X
+9	tawa	X	0	X
+10	?	X	0	X
+
+# 99: o awen lon tenpo pi suli mute .
+1	o	X	0	X
+2	awen	X	0	X
+3	lon	X	0	X
+4	tenpo	X	0	X
+5	pi	X	0	X
+6	suli	X	0	X
+7	mute	X	0	X
+8	.	X	0	X
+
+# 100: jan sona pi toki pona li pu lon tenpo mute .
+1	jan	X	0	X
+2	sona	X	0	X
+3	pi	X	0	X
+4	toki	X	0	X
+5	pona	X	0	X
+6	li	X	0	X
+7	pu	X	0	X
+8	lon	X	0	X
+9	tenpo	X	0	X
+10	mute	X	0	X
+11	.	X	0	X
+
+# 101: ma tomo li kama suli .
+1	ma	X	0	X
+2	tomo	X	0	X
+3	li	X	0	X
+4	kama	X	0	X
+5	suli	X	0	X
+6	.	X	0	X
+
+# 102: mi kama sona e toki pona .
+1	mi	X	0	X
+2	kama	X	0	X
+3	sona	X	0	X
+4	e	X	0	X
+5	toki	X	0	X
+6	pona	X	0	X
+7	.	X	0	X
+
+# 103: mije wawa li lukin jo e meli pona .
+1	mije	X	0	X
+2	wawa	X	0	X
+3	li	X	0	X
+4	lukin	X	0	X
+5	jo	X	0	X
+6	e	X	0	X
+7	meli	X	0	X
+8	pona	X	0	X
+9	.	X	0	X
+
+# 104: mi mute li kama awen lon ma tomo Towano .
+1	mi	X	0	X
+2	mute	X	0	X
+3	li	X	0	X
+4	kama	X	0	X
+5	awen	X	0	X
+6	lon	X	0	X
+7	ma	X	0	X
+8	tomo	X	0	X
+9	Towano	X	0	X
+10	.	X	0	X
+
+# 105: jan lili mi o , sina wile moku e kala anu seme ?
+1	jan	X	0	X
+2	lili	X	0	X
+3	mi	X	0	X
+4	o	X	0	X
+5	,	X	0	X
+6	sina	X	0	X
+7	wile	X	0	X
+8	moku	X	0	X
+9	e	X	0	X
+10	kala	X	0	X
+11	anu	X	0	X
+12	seme	X	0	X
+13	?	X	0	X
+
+# 106: jan mute li sona ala tawa lon telo .
+1	jan	X	0	X
+2	mute	X	0	X
+3	li	X	0	X
+4	sona	X	0	X
+5	ala	X	0	X
+6	tawa	X	0	X
+7	lon	X	0	X
+8	telo	X	0	X
+9	.	X	0	X
+
+# 107: sina ken ala ken kama ?
+1	sina	X	0	X
+2	ken	X	0	X
+3	ala	X	0	X
+4	ken	X	0	X
+5	kama	X	0	X
+6	?	X	0	X
+
+# 108: ona li kama lon tenpo pimeja ni .
+1	ona	X	0	X
+2	li	X	0	X
+3	kama	X	0	X
+4	lon	X	0	X
+5	tenpo	X	0	X
+6	pimeja	X	0	X
+7	ni	X	0	X
+8	.	X	0	X
+
+# 109: tenpo pimeja ni la ona li kama .
+1	tenpo	X	0	X
+2	pimeja	X	0	X
+3	ni	X	0	X
+4	la	X	0	X
+5	ona	X	0	X
+6	li	X	0	X
+7	kama	X	0	X
+8	.	X	0	X
+
+# 110: mi pona tawa jan , la jan li pona tawa mi .
+1	mi	X	0	X
+2	pona	X	0	X
+3	tawa	X	0	X
+4	jan	X	0	X
+5	,	X	0	X
+6	la	X	0	X
+7	jan	X	0	X
+8	li	X	0	X
+9	pona	X	0	X
+10	tawa	X	0	X
+11	mi	X	0	X
+12	.	X	0	X
+
+# 111: sina kama lon tomo mi , la mi pana e moku .
+1	sina	X	0	X
+2	kama	X	0	X
+3	lon	X	0	X
+4	tomo	X	0	X
+5	mi	X	0	X
+6	,	X	0	X
+7	la	X	0	X
+8	mi	X	0	X
+9	pana	X	0	X
+10	e	X	0	X
+11	moku	X	0	X
+12	.	X	0	X
+
+# 112: sina lukin e telo jelo , la o moku ala e ona .
+1	sina	X	0	X
+2	lukin	X	0	X
+3	e	X	0	X
+4	telo	X	0	X
+5	jelo	X	0	X
+6	,	X	0	X
+7	la	X	0	X
+8	o	X	0	X
+9	moku	X	0	X
+10	ala	X	0	X
+11	e	X	0	X
+12	ona	X	0	X
+13	.	X	0	X
+
+# 113: ilo pi laso pimeja li lon tomo walo .
+1	ilo	X	0	X
+2	pi	X	0	X
+3	laso	X	0	X
+4	pimeja	X	0	X
+5	li	X	0	X
+6	lon	X	0	X
+7	tomo	X	0	X
+8	walo	X	0	X
+9	.	X	0	X
+
+# 114: suno li loje , la tenpo pona li lon .
+1	suno	X	0	X
+2	li	X	0	X
+3	loje	X	0	X
+4	,	X	0	X
+5	la	X	0	X
+6	tenpo	X	0	X
+7	pona	X	0	X
+8	li	X	0	X
+9	lon	X	0	X
+10	.	X	0	X
+
+# 115: tan seme la soweli wawa pimeja li moku e ona ?
+1	tan	X	0	X
+2	seme	X	0	X
+3	la	X	0	X
+4	soweli	X	0	X
+5	wawa	X	0	X
+6	pimeja	X	0	X
+7	li	X	0	X
+8	moku	X	0	X
+9	e	X	0	X
+10	ona	X	0	X
+11	?	X	0	X
+
+# 116: sewi li wile , la mi pali e ona lon tenpo suno kama .
+1	sewi	X	0	X
+2	li	X	0	X
+3	wile	X	0	X
+4	,	X	0	X
+5	la	X	0	X
+6	mi	X	0	X
+7	pali	X	0	X
+8	e	X	0	X
+9	ona	X	0	X
+10	lon	X	0	X
+11	tenpo	X	0	X
+12	suno	X	0	X
+13	kama	X	0	X
+14	.	X	0	X
+
+# 117: mi lon poka sina .
+1	mi	X	0	X
+2	lon	X	0	X
+3	poka	X	0	X
+4	sina	X	0	X
+5	.	X	0	X
+
+# 118: noka tomo li wawa .
+1	noka	X	0	X
+2	tomo	X	0	X
+3	li	X	0	X
+4	wawa	X	0	X
+5	.	X	0	X
+
+# 119: jan lili li lon insa pi mama meli .
+1	jan	X	0	X
+2	lili	X	0	X
+3	li	X	0	X
+4	lon	X	0	X
+5	insa	X	0	X
+6	pi	X	0	X
+7	mama	X	0	X
+8	meli	X	0	X
+9	.	X	0	X
+
+# 120: ilo suli li tawa lon sewi .
+1	ilo	X	0	X
+2	suli	X	0	X
+3	li	X	0	X
+4	tawa	X	0	X
+5	lon	X	0	X
+6	sewi	X	0	X
+7	.	X	0	X
+
+# 121: kala laso mute li lon noka pi telo suli .
+1	kala	X	0	X
+2	laso	X	0	X
+3	mute	X	0	X
+4	li	X	0	X
+5	lon	X	0	X
+6	noka	X	0	X
+7	pi	X	0	X
+8	telo	X	0	X
+9	suli	X	0	X
+10	.	X	0	X
+
+# 122: tomo sona ni la jan lili li wile kepeken toki Inli .
+1	tomo	X	0	X
+2	sona	X	0	X
+3	ni	X	0	X
+4	la	X	0	X
+5	jan	X	0	X
+6	lili	X	0	X
+7	li	X	0	X
+8	wile	X	0	X
+9	kepeken	X	0	X
+10	toki	X	0	X
+11	Inli	X	0	X
+12	.	X	0	X
+
+# 123: suwi li pona tawa mi .
+1	suwi	X	0	X
+2	li	X	0	X
+3	pona	X	0	X
+4	tawa	X	0	X
+5	mi	X	0	X
+6	.	X	0	X
+
+# 124: sina en mi li anpa tawa sewi .
+1	sina	X	0	X
+2	en	X	0	X
+3	mi	X	0	X
+4	li	X	0	X
+5	anpa	X	0	X
+6	tawa	X	0	X
+7	sewi	X	0	X
+8	.	X	0	X
+
+# 125: ma mama li lili li lete .
+1	ma	X	0	X
+2	mama	X	0	X
+3	li	X	0	X
+4	lili	X	0	X
+5	li	X	0	X
+6	lete	X	0	X
+7	.	X	0	X
+
+# 126: taso mije en meli li pali li pilin pona .
+1	taso	X	0	X
+2	mije	X	0	X
+3	en	X	0	X
+4	meli	X	0	X
+5	li	X	0	X
+6	pali	X	0	X
+7	li	X	0	X
+8	pilin	X	0	X
+9	pona	X	0	X
+10	.	X	0	X
+
+# 127: meli sama mi li open e lupa nanpa wan e lupa nanpa tu .
+1	meli	X	0	X
+2	sama	X	0	X
+3	mi	X	0	X
+4	li	X	0	X
+5	open	X	0	X
+6	e	X	0	X
+7	lupa	X	0	X
+8	nanpa	X	0	X
+9	wan	X	0	X
+10	e	X	0	X
+11	lupa	X	0	X
+12	nanpa	X	0	X
+13	tu	X	0	X
+14	.	X	0	X
+
+# 128: tomo sina taso li pimeja .
+1	tomo	X	0	X
+2	sina	X	0	X
+3	taso	X	0	X
+4	li	X	0	X
+5	pimeja	X	0	X
+6	.	X	0	X
+
+# 129: mi wile e ni : jan Melani li kama tawa tomo mi .
+1	mi	X	0	X
+2	wile	X	0	X
+3	e	X	0	X
+4	ni	X	0	X
+5	:	X	0	X
+6	jan	X	0	X
+7	Melani	X	0	X
+8	li	X	0	X
+9	kama	X	0	X
+10	tawa	X	0	X
+11	tomo	X	0	X
+12	mi	X	0	X
+13	.	X	0	X
+
+# 130: mama sama Mawijo li jo e tomo lili lon ma kasi . ona li wile alasa li kama jo e ilo alasa e len loje . tenpo suno nanpa wan la ona li lukin e waso laso taso . waso li moku e pipi lili .
+1	mama	X	0	X
+2	sama	X	0	X
+3	Mawijo	X	0	X
+4	li	X	0	X
+5	jo	X	0	X
+6	e	X	0	X
+7	tomo	X	0	X
+8	lili	X	0	X
+9	lon	X	0	X
+10	ma	X	0	X
+11	kasi	X	0	X
+12	.	X	0	X
+13	ona	X	0	X
+14	li	X	0	X
+15	wile	X	0	X
+16	alasa	X	0	X
+17	li	X	0	X
+18	kama	X	0	X
+19	jo	X	0	X
+20	e	X	0	X
+21	ilo	X	0	X
+22	alasa	X	0	X
+23	e	X	0	X
+24	len	X	0	X
+25	loje	X	0	X
+26	.	X	0	X
+27	tenpo	X	0	X
+28	suno	X	0	X
+29	nanpa	X	0	X
+30	wan	X	0	X
+31	la	X	0	X
+32	ona	X	0	X
+33	li	X	0	X
+34	lukin	X	0	X
+35	e	X	0	X
+36	waso	X	0	X
+37	laso	X	0	X
+38	taso	X	0	X
+39	.	X	0	X
+40	waso	X	0	X
+41	li	X	0	X
+42	moku	X	0	X
+43	e	X	0	X
+44	pipi	X	0	X
+45	lili	X	0	X
+46	.	X	0	X
+
+# 131: tenpo suno nanpa tu la ona li kute e mu wawa . jan Mawijo li awen . ona li lukin e soweli suli . lawa soweli li jo e palisa . jan Mawijo li kepeken ilo alasa , taso linja li pakala . soweli suli li tawa weka .
+1	tenpo	X	0	X
+2	suno	X	0	X
+3	nanpa	X	0	X
+4	tu	X	0	X
+5	la	X	0	X
+6	ona	X	0	X
+7	li	X	0	X
+8	kute	X	0	X
+9	e	X	0	X
+10	mu	X	0	X
+11	wawa	X	0	X
+12	.	X	0	X
+13	jan	X	0	X
+14	Mawijo	X	0	X
+15	li	X	0	X
+16	awen	X	0	X
+17	.	X	0	X
+18	ona	X	0	X
+19	li	X	0	X
+20	lukin	X	0	X
+21	e	X	0	X
+22	soweli	X	0	X
+23	suli	X	0	X
+24	.	X	0	X
+25	lawa	X	0	X
+26	soweli	X	0	X
+27	li	X	0	X
+28	jo	X	0	X
+29	e	X	0	X
+30	palisa	X	0	X
+31	.	X	0	X
+32	jan	X	0	X
+33	Mawijo	X	0	X
+34	li	X	0	X
+35	kepeken	X	0	X
+36	ilo	X	0	X
+37	alasa	X	0	X
+38	,	X	0	X
+39	taso	X	0	X
+40	linja	X	0	X
+41	li	X	0	X
+42	pakala	X	0	X
+43	.	X	0	X
+44	soweli	X	0	X
+45	suli	X	0	X
+46	li	X	0	X
+47	tawa	X	0	X
+48	weka	X	0	X
+49	.	X	0	X
+
+# 132: jan Mawijo li jo e meli olin . nimi ona li Sili . jan Sili li lape lili lon supa . tenpo suno pini la jan Sili li pona e tomo , li telo e len . jan Mawijo li kama lon tenpo seme ?
+1	jan	X	0	X
+2	Mawijo	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	meli	X	0	X
+7	olin	X	0	X
+8	.	X	0	X
+9	nimi	X	0	X
+10	ona	X	0	X
+11	li	X	0	X
+12	Sili	X	0	X
+13	.	X	0	X
+14	jan	X	0	X
+15	Sili	X	0	X
+16	li	X	0	X
+17	lape	X	0	X
+18	lili	X	0	X
+19	lon	X	0	X
+20	supa	X	0	X
+21	.	X	0	X
+22	tenpo	X	0	X
+23	suno	X	0	X
+24	pini	X	0	X
+25	la	X	0	X
+26	jan	X	0	X
+27	Sili	X	0	X
+28	li	X	0	X
+29	pona	X	0	X
+30	e	X	0	X
+31	tomo	X	0	X
+32	,	X	0	X
+33	li	X	0	X
+34	telo	X	0	X
+35	e	X	0	X
+36	len	X	0	X
+37	.	X	0	X
+38	jan	X	0	X
+39	Mawijo	X	0	X
+40	li	X	0	X
+41	kama	X	0	X
+42	lon	X	0	X
+43	tenpo	X	0	X
+44	seme	X	0	X
+45	?	X	0	X
+
+# 133: kalama a ! tenpo ni la jan Mawijo li kama lon lupa , li jo e soweli lili tu . jan Sili li pilin pona , li uta e jan Mawijo . ona li seli e soweli e pan . moku pona !
+1	kalama	X	0	X
+2	a	X	0	X
+3	!	X	0	X
+4	tenpo	X	0	X
+5	ni	X	0	X
+6	la	X	0	X
+7	jan	X	0	X
+8	Mawijo	X	0	X
+9	li	X	0	X
+10	kama	X	0	X
+11	lon	X	0	X
+12	lupa	X	0	X
+13	,	X	0	X
+14	li	X	0	X
+15	jo	X	0	X
+16	e	X	0	X
+17	soweli	X	0	X
+18	lili	X	0	X
+19	tu	X	0	X
+20	.	X	0	X
+21	jan	X	0	X
+22	Sili	X	0	X
+23	li	X	0	X
+24	pilin	X	0	X
+25	pona	X	0	X
+26	,	X	0	X
+27	li	X	0	X
+28	uta	X	0	X
+29	e	X	0	X
+30	jan	X	0	X
+31	Mawijo	X	0	X
+32	.	X	0	X
+33	ona	X	0	X
+34	li	X	0	X
+35	seli	X	0	X
+36	e	X	0	X
+37	soweli	X	0	X
+38	e	X	0	X
+39	pan	X	0	X
+40	.	X	0	X
+41	moku	X	0	X
+42	pona	X	0	X
+43	!	X	0	X
+
+# 134: ni li lipu .
+1	ni	X	0	X
+2	li	X	0	X
+3	lipu	X	0	X
+4	.	X	0	X
+
+# 135: jan li ijo .
+1	jan	X	0	X
+2	li	X	0	X
+3	ijo	X	0	X
+4	.	X	0	X
+
+# 136: soweli li meli .
+1	soweli	X	0	X
+2	li	X	0	X
+3	meli	X	0	X
+4	.	X	0	X
+
+# 137: kili li ijo .
+1	kili	X	0	X
+2	li	X	0	X
+3	ijo	X	0	X
+4	.	X	0	X
+
+# 138: soweli meli li pona .
+1	soweli	X	0	X
+2	meli	X	0	X
+3	li	X	0	X
+4	pona	X	0	X
+5	.	X	0	X
+
+# 139: ni li jan pona .
+1	ni	X	0	X
+2	li	X	0	X
+3	jan	X	0	X
+4	pona	X	0	X
+5	.	X	0	X
+
+# 140: tomo telo li lili .
+1	tomo	X	0	X
+2	telo	X	0	X
+3	li	X	0	X
+4	lili	X	0	X
+5	.	X	0	X
+
+# 141: ni li soweli lili .
+1	ni	X	0	X
+2	li	X	0	X
+3	soweli	X	0	X
+4	lili	X	0	X
+5	.	X	0	X
+
+# 142: jan lili li meli .
+1	jan	X	0	X
+2	lili	X	0	X
+3	li	X	0	X
+4	meli	X	0	X
+5	.	X	0	X
+
+# 143: lipu suli li pona .
+1	lipu	X	0	X
+2	suli	X	0	X
+3	li	X	0	X
+4	pona	X	0	X
+5	.	X	0	X
+
+# 144: kili li kili telo .
+1	kili	X	0	X
+2	li	X	0	X
+3	kili	X	0	X
+4	telo	X	0	X
+5	.	X	0	X
+
+# 145: sina wawa .
+1	sina	X	0	X
+2	wawa	X	0	X
+3	.	X	0	X
+
+# 146: ni li kili mi .
+1	ni	X	0	X
+2	li	X	0	X
+3	kili	X	0	X
+4	mi	X	0	X
+5	.	X	0	X
+
+# 147: telo sin li ijo pona .
+1	telo	X	0	X
+2	sin	X	0	X
+3	li	X	0	X
+4	ijo	X	0	X
+5	pona	X	0	X
+6	.	X	0	X
+
+# 148: tomo lipu li sin .
+1	tomo	X	0	X
+2	lipu	X	0	X
+3	li	X	0	X
+4	sin	X	0	X
+5	.	X	0	X
+
+# 149: kulupu mi li suli .
+1	kulupu	X	0	X
+2	mi	X	0	X
+3	li	X	0	X
+4	suli	X	0	X
+5	.	X	0	X
+
+# 150: mije mi li wawa .
+1	mije	X	0	X
+2	mi	X	0	X
+3	li	X	0	X
+4	wawa	X	0	X
+5	.	X	0	X
+
+# 151: sina meli suli .
+1	sina	X	0	X
+2	meli	X	0	X
+3	suli	X	0	X
+4	.	X	0	X
+
+# 152: mi kute e sina .
+1	mi	X	0	X
+2	kute	X	0	X
+3	e	X	0	X
+4	sina	X	0	X
+5	.	X	0	X
+
+# 153: kili li jo e telo .
+1	kili	X	0	X
+2	li	X	0	X
+3	jo	X	0	X
+4	e	X	0	X
+5	telo	X	0	X
+6	.	X	0	X
+
+# 154: kulupu li pali e tomo moku .
+1	kulupu	X	0	X
+2	li	X	0	X
+3	pali	X	0	X
+4	e	X	0	X
+5	tomo	X	0	X
+6	moku	X	0	X
+7	.	X	0	X
+
+# 155: jan pali li jo e sona lili .
+1	jan	X	0	X
+2	pali	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	sona	X	0	X
+7	lili	X	0	X
+8	.	X	0	X
+
+# 156: jan pona li moku e soweli .
+1	jan	X	0	X
+2	pona	X	0	X
+3	li	X	0	X
+4	moku	X	0	X
+5	e	X	0	X
+6	soweli	X	0	X
+7	.	X	0	X
+
+# 157: meli li kute e mije .
+1	meli	X	0	X
+2	li	X	0	X
+3	kute	X	0	X
+4	e	X	0	X
+5	mije	X	0	X
+6	.	X	0	X
+
+# 158: kulupu lili li jo e toki sin .
+1	kulupu	X	0	X
+2	lili	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	toki	X	0	X
+7	sin	X	0	X
+8	.	X	0	X
+
+# 159: wan li pona .
+1	wan	X	0	X
+2	li	X	0	X
+3	pona	X	0	X
+4	.	X	0	X
+
+# 160: mi kute e telo suli .
+1	mi	X	0	X
+2	kute	X	0	X
+3	e	X	0	X
+4	telo	X	0	X
+5	suli	X	0	X
+6	.	X	0	X
+
+# 161: mi sona lili e toki pona .
+1	mi	X	0	X
+2	sona	X	0	X
+3	lili	X	0	X
+4	e	X	0	X
+5	toki	X	0	X
+6	pona	X	0	X
+7	.	X	0	X
+
+# 162: lipu sewi li jo e sona .
+1	lipu	X	0	X
+2	sewi	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	sona	X	0	X
+7	.	X	0	X
+
+# 163: kulupu suli li wan .
+1	kulupu	X	0	X
+2	suli	X	0	X
+3	li	X	0	X
+4	wan	X	0	X
+5	.	X	0	X
+
+# 164: mije li moku ala e kili ike .
+1	mije	X	0	X
+2	li	X	0	X
+3	moku	X	0	X
+4	ala	X	0	X
+5	e	X	0	X
+6	kili	X	0	X
+7	ike	X	0	X
+8	.	X	0	X
+
+# 165: moku li suli e mi .
+1	moku	X	0	X
+2	li	X	0	X
+3	suli	X	0	X
+4	e	X	0	X
+5	mi	X	0	X
+6	.	X	0	X
+
+# 166: sina jo e ilo seme ?
+1	sina	X	0	X
+2	jo	X	0	X
+3	e	X	0	X
+4	ilo	X	0	X
+5	seme	X	0	X
+6	?	X	0	X
+
+# 167: ona li kute ala kute ?
+1	ona	X	0	X
+2	li	X	0	X
+3	kute	X	0	X
+4	ala	X	0	X
+5	kute	X	0	X
+6	?	X	0	X
+
+# 168: ona li kute anu seme ?
+1	ona	X	0	X
+2	li	X	0	X
+3	kute	X	0	X
+4	anu	X	0	X
+5	seme	X	0	X
+6	?	X	0	X
+
+# 169: kulupu wan li pu ala pu ?
+1	kulupu	X	0	X
+2	wan	X	0	X
+3	li	X	0	X
+4	pu	X	0	X
+5	ala	X	0	X
+6	pu	X	0	X
+7	?	X	0	X
+
+# 170: kulupu wan li pu anu seme ?
+1	kulupu	X	0	X
+2	wan	X	0	X
+3	li	X	0	X
+4	pu	X	0	X
+5	anu	X	0	X
+6	seme	X	0	X
+7	?	X	0	X
+
+# 171: mi pali e seme ?
+1	mi	X	0	X
+2	pali	X	0	X
+3	e	X	0	X
+4	seme	X	0	X
+5	?	X	0	X
+
+# 172: mi mute li pali e seme ?
+1	mi	X	0	X
+2	mute	X	0	X
+3	li	X	0	X
+4	pali	X	0	X
+5	e	X	0	X
+6	seme	X	0	X
+7	?	X	0	X
+
+# 173: kala li moku ala moku e telo ?
+1	kala	X	0	X
+2	li	X	0	X
+3	moku	X	0	X
+4	ala	X	0	X
+5	moku	X	0	X
+6	e	X	0	X
+7	telo	X	0	X
+8	?	X	0	X
+
+# 174: kala li moku e telo anu seme ?
+1	kala	X	0	X
+2	li	X	0	X
+3	moku	X	0	X
+4	e	X	0	X
+5	telo	X	0	X
+6	anu	X	0	X
+7	seme	X	0	X
+8	?	X	0	X
+
+# 175: ilo moku li lili ala lili ?
+1	ilo	X	0	X
+2	moku	X	0	X
+3	li	X	0	X
+4	lili	X	0	X
+5	ala	X	0	X
+6	lili	X	0	X
+7	?	X	0	X
+
+# 176: ilo moku li lili anu seme ?
+1	ilo	X	0	X
+2	moku	X	0	X
+3	li	X	0	X
+4	lili	X	0	X
+5	anu	X	0	X
+6	seme	X	0	X
+7	?	X	0	X
+
+# 177: mi kute e mije anu meli .
+1	mi	X	0	X
+2	kute	X	0	X
+3	e	X	0	X
+4	mije	X	0	X
+5	anu	X	0	X
+6	meli	X	0	X
+7	.	X	0	X
+
+# 178: mi kepeken toki pona .
+1	mi	X	0	X
+2	kepeken	X	0	X
+3	toki	X	0	X
+4	pona	X	0	X
+5	.	X	0	X
+
+# 179: ona li pana e ijo tan tomo ona .
+1	ona	X	0	X
+2	li	X	0	X
+3	pana	X	0	X
+4	e	X	0	X
+5	ijo	X	0	X
+6	tan	X	0	X
+7	tomo	X	0	X
+8	ona	X	0	X
+9	.	X	0	X
+
+# 180: kili li ike ala .
+1	kili	X	0	X
+2	li	X	0	X
+3	ike	X	0	X
+4	ala	X	0	X
+5	.	X	0	X
+
+# 181: jan pali li kepeken ilo .
+1	jan	X	0	X
+2	pali	X	0	X
+3	li	X	0	X
+4	kepeken	X	0	X
+5	ilo	X	0	X
+6	.	X	0	X
+
+# 182: mi lon .
+1	mi	X	0	X
+2	lon	X	0	X
+3	.	X	0	X
+
+# 183: jan toki li pana e sona tawa jan kute .
+1	jan	X	0	X
+2	toki	X	0	X
+3	li	X	0	X
+4	pana	X	0	X
+5	e	X	0	X
+6	sona	X	0	X
+7	tawa	X	0	X
+8	jan	X	0	X
+9	kute	X	0	X
+10	.	X	0	X
+
+# 184: sina pali e ona tan seme ?
+1	sina	X	0	X
+2	pali	X	0	X
+3	e	X	0	X
+4	ona	X	0	X
+5	tan	X	0	X
+6	seme	X	0	X
+7	?	X	0	X
+
+# 185: jan Sulu li utala e jan ike .
+1	jan	X	0	X
+2	Sulu	X	0	X
+3	li	X	0	X
+4	utala	X	0	X
+5	e	X	0	X
+6	jan	X	0	X
+7	ike	X	0	X
+8	.	X	0	X
+
+# 186: sina tan ala tan ma Tosi ?
+1	sina	X	0	X
+2	tan	X	0	X
+3	ala	X	0	X
+4	tan	X	0	X
+5	ma	X	0	X
+6	Tosi	X	0	X
+7	?	X	0	X
+
+# 187: sina tan ma Tosi anu seme ?
+1	sina	X	0	X
+2	tan	X	0	X
+3	ma	X	0	X
+4	Tosi	X	0	X
+5	anu	X	0	X
+6	seme	X	0	X
+7	?	X	0	X
+
+# 188: ma Sonko li suli mute .
+1	ma	X	0	X
+2	Sonko	X	0	X
+3	li	X	0	X
+4	suli	X	0	X
+5	mute	X	0	X
+6	.	X	0	X
+
+# 189: telo Sisikaka li lon ma Pelu .
+1	telo	X	0	X
+2	Sisikaka	X	0	X
+3	li	X	0	X
+4	lon	X	0	X
+5	ma	X	0	X
+6	Pelu	X	0	X
+7	.	X	0	X
+
+# 190: kulupu Apika li kepeken toki mute .
+1	kulupu	X	0	X
+2	Apika	X	0	X
+3	li	X	0	X
+4	kepeken	X	0	X
+5	toki	X	0	X
+6	mute	X	0	X
+7	.	X	0	X
+
+# 191: mi tawa ma Inli .
+1	mi	X	0	X
+2	tawa	X	0	X
+3	ma	X	0	X
+4	Inli	X	0	X
+5	.	X	0	X
+
+# 192: nimi sina li seme ?
+1	nimi	X	0	X
+2	sina	X	0	X
+3	li	X	0	X
+4	seme	X	0	X
+5	?	X	0	X
+
+# 193: jan Lisa li pilin pona .
+1	jan	X	0	X
+2	Lisa	X	0	X
+3	li	X	0	X
+4	pilin	X	0	X
+5	pona	X	0	X
+6	.	X	0	X
+
+# 194: a a a !
+1	a	X	0	X
+2	a	X	0	X
+3	a	X	0	X
+4	!	X	0	X
+
+# 195: mu !
+1	mu	X	0	X
+2	!	X	0	X
+
+# 196: o pana e ilo tawa mi .
+1	o	X	0	X
+2	pana	X	0	X
+3	e	X	0	X
+4	ilo	X	0	X
+5	tawa	X	0	X
+6	mi	X	0	X
+7	.	X	0	X
+
+# 197: o tawa tomo sina .
+1	o	X	0	X
+2	tawa	X	0	X
+3	tomo	X	0	X
+4	sina	X	0	X
+5	.	X	0	X
+
+# 198: ma Kanata li jo e kala mute a !
+1	ma	X	0	X
+2	Kanata	X	0	X
+3	li	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	kala	X	0	X
+7	mute	X	0	X
+8	a	X	0	X
+9	!	X	0	X
+
+# 199: jan Ali o wawa .
+1	jan	X	0	X
+2	Ali	X	0	X
+3	o	X	0	X
+4	wawa	X	0	X
+5	.	X	0	X
+
+# 200: mi pilin pona lon ma kasi ona .
+1	mi	X	0	X
+2	pilin	X	0	X
+3	pona	X	0	X
+4	lon	X	0	X
+5	ma	X	0	X
+6	kasi	X	0	X
+7	ona	X	0	X
+8	.	X	0	X
+
+# 201: kulupu pi toki pona li pona e ijo mute .
+1	kulupu	X	0	X
+2	pi	X	0	X
+3	toki	X	0	X
+4	pona	X	0	X
+5	li	X	0	X
+6	pona	X	0	X
+7	e	X	0	X
+8	ijo	X	0	X
+9	mute	X	0	X
+10	.	X	0	X
+
+# 202: ma utala ni li lili .
+1	ma	X	0	X
+2	utala	X	0	X
+3	ni	X	0	X
+4	li	X	0	X
+5	lili	X	0	X
+6	.	X	0	X
+
+# 203: mije pi sijelo wawa li awen .
+1	mije	X	0	X
+2	pi	X	0	X
+3	sijelo	X	0	X
+4	wawa	X	0	X
+5	li	X	0	X
+6	awen	X	0	X
+7	.	X	0	X
+
+# 204: suno li pana e pona tawa kasi .
+1	suno	X	0	X
+2	li	X	0	X
+3	pana	X	0	X
+4	e	X	0	X
+5	pona	X	0	X
+6	tawa	X	0	X
+7	kasi	X	0	X
+8	.	X	0	X
+
+# 205: o kepeken ala ilo ike .
+1	o	X	0	X
+2	kepeken	X	0	X
+3	ala	X	0	X
+4	ilo	X	0	X
+5	ike	X	0	X
+6	.	X	0	X
+
+# 206: sina nanpa wan !
+1	sina	X	0	X
+2	nanpa	X	0	X
+3	wan	X	0	X
+4	!	X	0	X
+
+# 207: ni li tenpo suno nanpa tu tu .
+1	ni	X	0	X
+2	li	X	0	X
+3	tenpo	X	0	X
+4	suno	X	0	X
+5	nanpa	X	0	X
+6	tu	X	0	X
+7	tu	X	0	X
+8	.	X	0	X
+
+# 208: mije lili tu li awen e kasi mute .
+1	mije	X	0	X
+2	lili	X	0	X
+3	tu	X	0	X
+4	li	X	0	X
+5	awen	X	0	X
+6	e	X	0	X
+7	kasi	X	0	X
+8	mute	X	0	X
+9	.	X	0	X
+
+# 209: mije lili tu li awen e kasi luka luka wan .
+1	mije	X	0	X
+2	lili	X	0	X
+3	tu	X	0	X
+4	li	X	0	X
+5	awen	X	0	X
+6	e	X	0	X
+7	kasi	X	0	X
+8	luka	X	0	X
+9	luka	X	0	X
+10	wan	X	0	X
+11	.	X	0	X
+
+# 210: tomo sin pi jan utala lili li pona mute .
+1	tomo	X	0	X
+2	sin	X	0	X
+3	pi	X	0	X
+4	jan	X	0	X
+5	utala	X	0	X
+6	lili	X	0	X
+7	li	X	0	X
+8	pona	X	0	X
+9	mute	X	0	X
+10	.	X	0	X
+
+# 211: ijo nanpa luka li seme ?
+1	ijo	X	0	X
+2	nanpa	X	0	X
+3	luka	X	0	X
+4	li	X	0	X
+5	seme	X	0	X
+6	?	X	0	X
+
+# 212: mi sona e toki mute .
+1	mi	X	0	X
+2	sona	X	0	X
+3	e	X	0	X
+4	toki	X	0	X
+5	mute	X	0	X
+6	.	X	0	X
+
+# 213: mi sona e toki tu tu .
+1	mi	X	0	X
+2	sona	X	0	X
+3	e	X	0	X
+4	toki	X	0	X
+5	tu	X	0	X
+6	tu	X	0	X
+7	.	X	0	X
+
+# 214: jan ale li kute e ona .
+1	jan	X	0	X
+2	ale	X	0	X
+3	li	X	0	X
+4	kute	X	0	X
+5	e	X	0	X
+6	ona	X	0	X
+7	.	X	0	X
+
+# 215: kili li kama ike .
+1	kili	X	0	X
+2	li	X	0	X
+3	kama	X	0	X
+4	ike	X	0	X
+5	.	X	0	X
+
+# 216: mi wile lon ma mama mi .
+1	mi	X	0	X
+2	wile	X	0	X
+3	lon	X	0	X
+4	ma	X	0	X
+5	mama	X	0	X
+6	mi	X	0	X
+7	.	X	0	X
+
+# 217: jan utala li sona pali e moku pona .
+1	jan	X	0	X
+2	utala	X	0	X
+3	li	X	0	X
+4	sona	X	0	X
+5	pali	X	0	X
+6	e	X	0	X
+7	moku	X	0	X
+8	pona	X	0	X
+9	.	X	0	X
+
+# 218: nasin li kama lili .
+1	nasin	X	0	X
+2	li	X	0	X
+3	kama	X	0	X
+4	lili	X	0	X
+5	.	X	0	X
+
+# 219: kasi li kama jo e telo .
+1	kasi	X	0	X
+2	li	X	0	X
+3	kama	X	0	X
+4	jo	X	0	X
+5	e	X	0	X
+6	telo	X	0	X
+7	.	X	0	X
+
+# 220: sina ken awen e nimi sina .
+1	sina	X	0	X
+2	ken	X	0	X
+3	awen	X	0	X
+4	e	X	0	X
+5	nimi	X	0	X
+6	sina	X	0	X
+7	.	X	0	X
+
+# 221: sijelo meli li kama pona a !
+1	sijelo	X	0	X
+2	meli	X	0	X
+3	li	X	0	X
+4	kama	X	0	X
+5	pona	X	0	X
+6	a	X	0	X
+7	!	X	0	X
+
+# 222: sijelo sina li laso , la ni li ike .
+1	sijelo	X	0	X
+2	sina	X	0	X
+3	li	X	0	X
+4	laso	X	0	X
+5	,	X	0	X
+6	la	X	0	X
+7	ni	X	0	X
+8	li	X	0	X
+9	ike	X	0	X
+10	.	X	0	X
+
+# 223: tenpo ike la jan li wile toki tawa jan pona .
+1	tenpo	X	0	X
+2	ike	X	0	X
+3	la	X	0	X
+4	jan	X	0	X
+5	li	X	0	X
+6	wile	X	0	X
+7	toki	X	0	X
+8	tawa	X	0	X
+9	jan	X	0	X
+10	pona	X	0	X
+11	.	X	0	X
+
+# 224: kulupu la mi wawa .
+1	kulupu	X	0	X
+2	la	X	0	X
+3	mi	X	0	X
+4	wawa	X	0	X
+5	.	X	0	X
+
+# 225: mi pu , la mi pilin pona .
+1	mi	X	0	X
+2	pu	X	0	X
+3	,	X	0	X
+4	la	X	0	X
+5	mi	X	0	X
+6	pilin	X	0	X
+7	pona	X	0	X
+8	.	X	0	X
+
+# 226: tenpo seme la mama sina li kama ?
+1	tenpo	X	0	X
+2	seme	X	0	X
+3	la	X	0	X
+4	mama	X	0	X
+5	sina	X	0	X
+6	li	X	0	X
+7	kama	X	0	X
+8	?	X	0	X
+
+# 227: mama sina li kama lon tenpo seme ?
+1	mama	X	0	X
+2	sina	X	0	X
+3	li	X	0	X
+4	kama	X	0	X
+5	lon	X	0	X
+6	tenpo	X	0	X
+7	seme	X	0	X
+8	?	X	0	X
+
+# 228: mi jo ala e soweli , la mi moku e kili .
+1	mi	X	0	X
+2	jo	X	0	X
+3	ala	X	0	X
+4	e	X	0	X
+5	soweli	X	0	X
+6	,	X	0	X
+7	la	X	0	X
+8	mi	X	0	X
+9	moku	X	0	X
+10	e	X	0	X
+11	kili	X	0	X
+12	.	X	0	X
+
+# 229: mi pilin ike tan utala suli .
+1	mi	X	0	X
+2	pilin	X	0	X
+3	ike	X	0	X
+4	tan	X	0	X
+5	utala	X	0	X
+6	suli	X	0	X
+7	.	X	0	X
+
+# 230: telo li kama tan sewi .
+1	telo	X	0	X
+2	li	X	0	X
+3	kama	X	0	X
+4	tan	X	0	X
+5	sewi	X	0	X
+6	.	X	0	X
+
+# 231: lipu li lon noka soweli .
+1	lipu	X	0	X
+2	li	X	0	X
+3	lon	X	0	X
+4	noka	X	0	X
+5	soweli	X	0	X
+6	.	X	0	X
+
+# 232: sina pana e ilo tenpo loje lon poka seme ?
+1	sina	X	0	X
+2	pana	X	0	X
+3	e	X	0	X
+4	ilo	X	0	X
+5	tenpo	X	0	X
+6	loje	X	0	X
+7	lon	X	0	X
+8	poka	X	0	X
+9	seme	X	0	X
+10	?	X	0	X
+
+# 233: mi lukin e meli pimeja lon sinpin tomo .
+1	mi	X	0	X
+2	lukin	X	0	X
+3	e	X	0	X
+4	meli	X	0	X
+5	pimeja	X	0	X
+6	lon	X	0	X
+7	sinpin	X	0	X
+8	tomo	X	0	X
+9	.	X	0	X
+
+# 234: o awen e monsi sina .
+1	o	X	0	X
+2	awen	X	0	X
+3	e	X	0	X
+4	monsi	X	0	X
+5	sina	X	0	X
+6	.	X	0	X
+
+# 235: suno li lon poka pimeja .
+1	suno	X	0	X
+2	li	X	0	X
+3	lon	X	0	X
+4	poka	X	0	X
+5	pimeja	X	0	X
+6	.	X	0	X
+
+# 236: mi pona !
+1	mi	X	0	X
+2	pona	X	0	X
+3	!	X	0	X
+
+# 237: soweli ike !
+1	soweli	X	0	X
+2	ike	X	0	X
+3	!	X	0	X
+
+# 238: moku !
+1	moku	X	0	X
+2	!	X	0	X
+
+# 239: moku li pona !
+1	moku	X	0	X
+2	li	X	0	X
+3	pona	X	0	X
+4	!	X	0	X
+
+# 240: ike !
+1	ike	X	0	X
+2	!	X	0	X
+
+# 241: ale li jo e tenpo .
+1	ale	X	0	X
+2	li	X	0	X
+3	jo	X	0	X
+4	e	X	0	X
+5	tenpo	X	0	X
+6	.	X	0	X
+
+# 242: ale li pona .
+1	ale	X	0	X
+2	li	X	0	X
+3	pona	X	0	X
+4	.	X	0	X
+
+# 243: toki pona li toki pona .
+1	toki	X	0	X
+2	pona	X	0	X
+3	li	X	0	X
+4	toki	X	0	X
+5	pona	X	0	X
+6	.	X	0	X
+
+# 244: ante li kama .
+1	ante	X	0	X
+2	li	X	0	X
+3	kama	X	0	X
+4	.	X	0	X
+
+# 245: ike li kama .
+1	ike	X	0	X
+2	li	X	0	X
+3	kama	X	0	X
+4	.	X	0	X
+
+# 246: jan li suli mute . mani li suli lili .
+1	jan	X	0	X
+2	li	X	0	X
+3	suli	X	0	X
+4	mute	X	0	X
+5	.	X	0	X
+6	mani	X	0	X
+7	li	X	0	X
+8	suli	X	0	X
+9	lili	X	0	X
+10	.	X	0	X
+
+# 247: jan sona li jan nasa .
+1	jan	X	0	X
+2	sona	X	0	X
+3	li	X	0	X
+4	jan	X	0	X
+5	nasa	X	0	X
+6	.	X	0	X
+
+# 248: lupa meli li mama pi ijo ale .
+1	lupa	X	0	X
+2	meli	X	0	X
+3	li	X	0	X
+4	mama	X	0	X
+5	pi	X	0	X
+6	ijo	X	0	X
+7	ale	X	0	X
+8	.	X	0	X
+
+# 249: mi pona e ale mi , la mi pona e mi .
+1	mi	X	0	X
+2	pona	X	0	X
+3	e	X	0	X
+4	ale	X	0	X
+5	mi	X	0	X
+6	,	X	0	X
+7	la	X	0	X
+8	mi	X	0	X
+9	pona	X	0	X
+10	e	X	0	X
+11	mi	X	0	X
+12	.	X	0	X
+
+# 250: nasin pona li mute .
+1	nasin	X	0	X
+2	pona	X	0	X
+3	li	X	0	X
+4	mute	X	0	X
+5	.	X	0	X
+
+# 251: o olin e jan poka .
+1	o	X	0	X
+2	olin	X	0	X
+3	e	X	0	X
+4	jan	X	0	X
+5	poka	X	0	X
+6	.	X	0	X
+
+# 252: o sona e sina !
+1	o	X	0	X
+2	sona	X	0	X
+3	e	X	0	X
+4	sina	X	0	X
+5	!	X	0	X
+
+# 253: pali li pana e sona .
+1	pali	X	0	X
+2	li	X	0	X
+3	pana	X	0	X
+4	e	X	0	X
+5	sona	X	0	X
+6	.	X	0	X
+
+# 254: pilin pona li pana e sijelo pona .
+1	pilin	X	0	X
+2	pona	X	0	X
+3	li	X	0	X
+4	pana	X	0	X
+5	e	X	0	X
+6	sijelo	X	0	X
+7	pona	X	0	X
+8	.	X	0	X
+
+# 255: sina pana e ike , la sina kama jo e ike .
+1	sina	X	0	X
+2	pana	X	0	X
+3	e	X	0	X
+4	ike	X	0	X
+5	,	X	0	X
+6	la	X	0	X
+7	sina	X	0	X
+8	kama	X	0	X
+9	jo	X	0	X
+10	e	X	0	X
+11	ike	X	0	X
+12	.	X	0	X
+
+# 256: wawa li lon insa .
+1	wawa	X	0	X
+2	li	X	0	X
+3	lon	X	0	X
+4	insa	X	0	X
+5	.	X	0	X
+
+# 257: weka lili li pona tawa lawa .
+1	weka	X	0	X
+2	lili	X	0	X
+3	li	X	0	X
+4	pona	X	0	X
+5	tawa	X	0	X
+6	lawa	X	0	X
+7	.	X	0	X
+
+# 258: wile sona li mute e sona .
+1	wile	X	0	X
+2	sona	X	0	X
+3	li	X	0	X
+4	mute	X	0	X
+5	e	X	0	X
+6	sona	X	0	X
+7	.	X	0	X
+
+# 259: jan lili li sona ala e ike .
+1	jan	X	0	X
+2	lili	X	0	X
+3	li	X	0	X
+4	sona	X	0	X
+5	ala	X	0	X
+6	e	X	0	X
+7	ike	X	0	X
+8	.	X	0	X
+
+# 260: meli li nasa e mije .
+1	meli	X	0	X
+2	li	X	0	X
+3	nasa	X	0	X
+4	e	X	0	X
+5	mije	X	0	X
+6	.	X	0	X
+
+# 261: mi weka e ike jan , la mi weka e ike mi .
+1	mi	X	0	X
+2	weka	X	0	X
+3	e	X	0	X
+4	ike	X	0	X
+5	jan	X	0	X
+6	,	X	0	X
+7	la	X	0	X
+8	mi	X	0	X
+9	weka	X	0	X
+10	e	X	0	X
+11	ike	X	0	X
+12	mi	X	0	X
+13	.	X	0	X
+
+# 262: nasin ante li pona tawa jan ante .
+1	nasin	X	0	X
+2	ante	X	0	X
+3	li	X	0	X
+4	pona	X	0	X
+5	tawa	X	0	X
+6	jan	X	0	X
+7	ante	X	0	X
+8	.	X	0	X
+
+# 263: lape li pona .
+1	lape	X	0	X
+2	li	X	0	X
+3	pona	X	0	X
+4	.	X	0	X
+
+# 264: toki li pona .
+1	toki	X	0	X
+2	li	X	0	X
+3	pona	X	0	X
+4	.	X	0	X
+
+# 265: o pana e pona tawa ma .
+1	o	X	0	X
+2	pana	X	0	X
+3	e	X	0	X
+4	pona	X	0	X
+5	tawa	X	0	X
+6	ma	X	0	X
+7	.	X	0	X
+
+# 266: utala li ike .
+1	utala	X	0	X
+2	li	X	0	X
+3	ike	X	0	X
+4	.	X	0	X
+
+# 267: o weka e nimi ike .
+1	o	X	0	X
+2	weka	X	0	X
+3	e	X	0	X
+4	nimi	X	0	X
+5	ike	X	0	X
+6	.	X	0	X
+
+# 268: sina sona e toki wan taso , la sina sona ala e toki ni .
+1	sina	X	0	X
+2	sona	X	0	X
+3	e	X	0	X
+4	toki	X	0	X
+5	wan	X	0	X
+6	taso	X	0	X
+7	,	X	0	X
+8	la	X	0	X
+9	sina	X	0	X
+10	sona	X	0	X
+11	ala	X	0	X
+12	e	X	0	X
+13	toki	X	0	X
+14	ni	X	0	X
+15	.	X	0	X
+
+# 269: toki sina en pali sina li sama , la sina pilin pona .
+1	toki	X	0	X
+2	sina	X	0	X
+3	en	X	0	X
+4	pali	X	0	X
+5	sina	X	0	X
+6	li	X	0	X
+7	sama	X	0	X
+8	,	X	0	X
+9	la	X	0	X
+10	sina	X	0	X
+11	pilin	X	0	X
+12	pona	X	0	X
+13	.	X	0	X
+
+# 270: sewi li lon ala , li lon ale .
+1	sewi	X	0	X
+2	li	X	0	X
+3	lon	X	0	X
+4	ala	X	0	X
+5	,	X	0	X
+6	li	X	0	X
+7	lon	X	0	X
+8	ale	X	0	X
+9	.	X	0	X
+
+# 271: sina wile ante e ale , la o ante e sina .
+1	sina	X	0	X
+2	wile	X	0	X
+3	ante	X	0	X
+4	e	X	0	X
+5	ale	X	0	X
+6	,	X	0	X
+7	la	X	0	X
+8	o	X	0	X
+9	ante	X	0	X
+10	e	X	0	X
+11	sina	X	0	X
+12	.	X	0	X
+
+# 272: wile sona nanpa wan li ni : ale li pona anu ike ?
+1	wile	X	0	X
+2	sona	X	0	X
+3	nanpa	X	0	X
+4	wan	X	0	X
+5	li	X	0	X
+6	ni	X	0	X
+7	:	X	0	X
+8	ale	X	0	X
+9	li	X	0	X
+10	pona	X	0	X
+11	anu	X	0	X
+12	ike	X	0	X
+13	?	X	0	X
+
+# 273: sona pona li ni : o weka e ike .
+1	sona	X	0	X
+2	pona	X	0	X
+3	li	X	0	X
+4	ni	X	0	X
+5	:	X	0	X
+6	o	X	0	X
+7	weka	X	0	X
+8	e	X	0	X
+9	ike	X	0	X
+10	.	X	0	X
+
+# 274: nasin pona li pona nanpa wan .
+1	nasin	X	0	X
+2	pona	X	0	X
+3	li	X	0	X
+4	pona	X	0	X
+5	nanpa	X	0	X
+6	wan	X	0	X
+7	.	X	0	X
+
+# 275: sina ken ala toki e ijo lon toki pona , la sina sona pona ala e ona .
+1	sina	X	0	X
+2	ken	X	0	X
+3	ala	X	0	X
+4	toki	X	0	X
+5	e	X	0	X
+6	ijo	X	0	X
+7	lon	X	0	X
+8	toki	X	0	X
+9	pona	X	0	X
+10	,	X	0	X
+11	la	X	0	X
+12	sina	X	0	X
+13	sona	X	0	X
+14	pona	X	0	X
+15	ala	X	0	X
+16	e	X	0	X
+17	ona	X	0	X
+18	.	X	0	X
+
+# 276: kulupu Isale o kute e ni .
+1	kulupu	X	0	X
+2	Isale	X	0	X
+3	o	X	0	X
+4	kute	X	0	X
+5	e	X	0	X
+6	ni	X	0	X
+7	.	X	0	X
+
+# 277: sewi li sewi mi .
+1	sewi	X	0	X
+2	li	X	0	X
+3	sewi	X	0	X
+4	mi	X	0	X
+5	.	X	0	X
+
+# 278: sewi li wan .
+1	sewi	X	0	X
+2	li	X	0	X
+3	wan	X	0	X
+4	.	X	0	X
+
+# 279: jan Isa li tawa lili , li kama anpa , li toki e ni tawa sewi : " mama mi o ! ken la o weka e pilin ike mi . wile mi o lon ala . taso wile sina o lon . "
+1	jan	X	0	X
+2	Isa	X	0	X
+3	li	X	0	X
+4	tawa	X	0	X
+5	lili	X	0	X
+6	,	X	0	X
+7	li	X	0	X
+8	kama	X	0	X
+9	anpa	X	0	X
+10	,	X	0	X
+11	li	X	0	X
+12	toki	X	0	X
+13	e	X	0	X
+14	ni	X	0	X
+15	tawa	X	0	X
+16	sewi	X	0	X
+17	:	X	0	X
+18	"	X	0	X
+19	mama	X	0	X
+20	mi	X	0	X
+21	o	X	0	X
+22	!	X	0	X
+23	ken	X	0	X
+24	la	X	0	X
+25	o	X	0	X
+26	weka	X	0	X
+27	e	X	0	X
+28	pilin	X	0	X
+29	ike	X	0	X
+30	mi	X	0	X
+31	.	X	0	X
+32	wile	X	0	X
+33	mi	X	0	X
+34	o	X	0	X
+35	lon	X	0	X
+36	ala	X	0	X
+37	.	X	0	X
+38	taso	X	0	X
+39	wile	X	0	X
+40	sina	X	0	X
+41	o	X	0	X
+42	lon	X	0	X
+43	.	X	0	X
+44	"	X	0	X
+
+# 280: jan lawa li wile sona e ni tan jan Isa : " jan sona pona o ! mi pali e seme , la mi kama lon tenpo sewi ? "
+1	jan	X	0	X
+2	lawa	X	0	X
+3	li	X	0	X
+4	wile	X	0	X
+5	sona	X	0	X
+6	e	X	0	X
+7	ni	X	0	X
+8	tan	X	0	X
+9	jan	X	0	X
+10	Isa	X	0	X
+11	:	X	0	X
+12	"	X	0	X
+13	jan	X	0	X
+14	sona	X	0	X
+15	pona	X	0	X
+16	o	X	0	X
+17	!	X	0	X
+18	mi	X	0	X
+19	pali	X	0	X
+20	e	X	0	X
+21	seme	X	0	X
+22	,	X	0	X
+23	la	X	0	X
+24	mi	X	0	X
+25	kama	X	0	X
+26	lon	X	0	X
+27	tenpo	X	0	X
+28	sewi	X	0	X
+29	?	X	0	X
+30	"	X	0	X
+
+# 281: jan Isa li toki e ni : " tan seme la sina pana e nimi pona tawa mi ? jan ala li pona . sewi wan taso li pona . "
+1	jan	X	0	X
+2	Isa	X	0	X
+3	li	X	0	X
+4	toki	X	0	X
+5	e	X	0	X
+6	ni	X	0	X
+7	:	X	0	X
+8	"	X	0	X
+9	tan	X	0	X
+10	seme	X	0	X
+11	la	X	0	X
+12	sina	X	0	X
+13	pana	X	0	X
+14	e	X	0	X
+15	nimi	X	0	X
+16	pona	X	0	X
+17	tawa	X	0	X
+18	mi	X	0	X
+19	?	X	0	X
+20	jan	X	0	X
+21	ala	X	0	X
+22	li	X	0	X
+23	pona	X	0	X
+24	.	X	0	X
+25	sewi	X	0	X
+26	wan	X	0	X
+27	taso	X	0	X
+28	li	X	0	X
+29	pona	X	0	X
+30	.	X	0	X
+31	"	X	0	X
+
+# 282: o toki e ni : " sewi li wan . sewi li wawa ale . ona li mama ala , li jo ala e mama . ijo ala li sama ona . "
+1	o	X	0	X
+2	toki	X	0	X
+3	e	X	0	X
+4	ni	X	0	X
+5	:	X	0	X
+6	"	X	0	X
+7	sewi	X	0	X
+8	li	X	0	X
+9	wan	X	0	X
+10	.	X	0	X
+11	sewi	X	0	X
+12	li	X	0	X
+13	wawa	X	0	X
+14	ale	X	0	X
+15	.	X	0	X
+16	ona	X	0	X
+17	li	X	0	X
+18	mama	X	0	X
+19	ala	X	0	X
+20	,	X	0	X
+21	li	X	0	X
+22	jo	X	0	X
+23	ala	X	0	X
+24	e	X	0	X
+25	mama	X	0	X
+26	.	X	0	X
+27	ijo	X	0	X
+28	ala	X	0	X
+29	li	X	0	X
+30	sama	X	0	X
+31	ona	X	0	X
+32	.	X	0	X
+33	"	X	0	X
+
+# 283: o pilin ala e ni : sewi li pana e nasin lawa taso . a ! sewi li open e telo suwi kepeken luka wawa . ilo sitelen pi toki sewi li wawa e ni . jan sona o kepeken sona a !
+1	o	X	0	X
+2	pilin	X	0	X
+3	ala	X	0	X
+4	e	X	0	X
+5	ni	X	0	X
+6	:	X	0	X
+7	sewi	X	0	X
+8	li	X	0	X
+9	pana	X	0	X
+10	e	X	0	X
+11	nasin	X	0	X
+12	lawa	X	0	X
+13	taso	X	0	X
+14	.	X	0	X
+15	a	X	0	X
+16	!	X	0	X
+17	sewi	X	0	X
+18	li	X	0	X
+19	open	X	0	X
+20	e	X	0	X
+21	telo	X	0	X
+22	suwi	X	0	X
+23	kepeken	X	0	X
+24	luka	X	0	X
+25	wawa	X	0	X
+26	.	X	0	X
+27	ilo	X	0	X
+28	sitelen	X	0	X
+29	pi	X	0	X
+30	toki	X	0	X
+31	sewi	X	0	X
+32	li	X	0	X
+33	wawa	X	0	X
+34	e	X	0	X
+35	ni	X	0	X
+36	.	X	0	X
+37	jan	X	0	X
+38	sona	X	0	X
+39	o	X	0	X
+40	kepeken	X	0	X
+41	sona	X	0	X
+42	a	X	0	X
+43	!	X	0	X
+
+# 284: sewi mi o ! mi toki wawa e ni : sina pali e mi tawa seme ? mi o sona e sina . mi o olin e sina .
+1	sewi	X	0	X
+2	mi	X	0	X
+3	o	X	0	X
+4	!	X	0	X
+5	mi	X	0	X
+6	toki	X	0	X
+7	wawa	X	0	X
+8	e	X	0	X
+9	ni	X	0	X
+10	:	X	0	X
+11	sina	X	0	X
+12	pali	X	0	X
+13	e	X	0	X
+14	mi	X	0	X
+15	tawa	X	0	X
+16	seme	X	0	X
+17	?	X	0	X
+18	mi	X	0	X
+19	o	X	0	X
+20	sona	X	0	X
+21	e	X	0	X
+22	sina	X	0	X
+23	.	X	0	X
+24	mi	X	0	X
+25	o	X	0	X
+26	olin	X	0	X
+27	e	X	0	X
+28	sina	X	0	X
+29	.	X	0	X
+
+# 285: tenpo ni la mi sona e ni : mi anpa . sina wawa . mi jo lili . sina jo mute .
+1	tenpo	X	0	X
+2	ni	X	0	X
+3	la	X	0	X
+4	mi	X	0	X
+5	sona	X	0	X
+6	e	X	0	X
+7	ni	X	0	X
+8	:	X	0	X
+9	mi	X	0	X
+10	anpa	X	0	X
+11	.	X	0	X
+12	sina	X	0	X
+13	wawa	X	0	X
+14	.	X	0	X
+15	mi	X	0	X
+16	jo	X	0	X
+17	lili	X	0	X
+18	.	X	0	X
+19	sina	X	0	X
+20	jo	X	0	X
+21	mute	X	0	X
+22	.	X	0	X
+
+# 286: sina sewi wan . sina awen e ale . lon la sina lon .
+1	sina	X	0	X
+2	sewi	X	0	X
+3	wan	X	0	X
+4	.	X	0	X
+5	sina	X	0	X
+6	awen	X	0	X
+7	e	X	0	X
+8	ale	X	0	X
+9	.	X	0	X
+10	lon	X	0	X
+11	la	X	0	X
+12	sina	X	0	X
+13	lon	X	0	X
+14	.	X	0	X
+
+# 287: ma Kanata li suli
+1	ma	X	0	X
+2	Kanata	X	0	X
+3	li	X	0	X
+4	suli	X	0	X
+
+# 288: pona tawa sina
+1	pona	X	0	X
+2	tawa	X	0	X
+3	sina	X	0	X
+
+# 289: mi tawa !
+1	mi	X	0	X
+2	tawa	X	0	X
+3	!	X	0	X
+
+# 290: tawa pona !
+1	tawa	X	0	X
+2	pona	X	0	X
+3	!	X	0	X
+
+# 291: lape pona !
+1	lape	X	0	X
+2	pona	X	0	X
+3	!	X	0	X
+
+# 292: kama pona !
+1	kama	X	0	X
+2	pona	X	0	X
+3	!	X	0	X
+
+# 293: moku pona !
+1	moku	X	0	X
+2	pona	X	0	X
+3	!	X	0	X
+
+# 294: seme li sin ?
+1	seme	X	0	X
+2	li	X	0	X
+3	sin	X	0	X
+4	?	X	0	X
+
+# 295: sina pilin seme ?
+1	sina	X	0	X
+2	pilin	X	0	X
+3	seme	X	0	X
+4	?	X	0	X
+
+# 296: a a a !
+1	a	X	0	X
+2	a	X	0	X
+3	a	X	0	X
+4	!	X	0	X
+
+# 297: mi kama sona e toki pona .
+1	mi	X	0	X
+2	kama	X	0	X
+3	sona	X	0	X
+4	e	X	0	X
+5	toki	X	0	X
+6	pona	X	0	X
+7	.	X	0	X
+
+# 298: sina pona !
+1	sina	X	0	X
+2	pona	X	0	X
+3	!	X	0	X
+
+# 299: mi olin e sina .
+1	mi	X	0	X
+2	olin	X	0	X
+3	e	X	0	X
+4	sina	X	0	X
+5	.	X	0	X
+
+# 300: tomo telo li lon seme ?
+1	tomo	X	0	X
+2	telo	X	0	X
+3	li	X	0	X
+4	lon	X	0	X
+5	seme	X	0	X
+6	?	X	0	X
+
